@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Outlet Sales Predictor</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>Outlet Sales Predictor</h1>
+        <p>KNN Regression Machine Learning Model</p>
+    </div>
+
+    <form action="/predict" method="POST">
+
+        <div class="form-grid">
+
+            <div class="input-group">
+                <label>Item Weight</label>
+                <input type="number"
+                       step="0.01"
+                       name="item_weight"
+                       placeholder="Example: 12.5"
+                       required>
+            </div>
+
+            <div class="input-group">
+                <label>Item Fat Content</label>
+                <select name="item_fat_content">
+                    <option value="0">Low Fat</option>
+                    <option value="1">Regular</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Item Visibility</label>
+                <input type="number"
+                       step="0.0001"
+                       name="item_visibility"
+                       placeholder="Example: 0.05"
+                       required>
+            </div>
+
+            <div class="input-group">
+                <label>Item MRP</label>
+                <input type="number"
+                       step="0.01"
+                       name="item_mrp"
+                       placeholder="Example: 150"
+                       required>
+            </div>
+
+            <div class="input-group">
+                <label>Item Type</label>
+                <select name="item_type">
+
+                    <option value="Breads">Breads</option>
+                    <option value="Breakfast">Breakfast</option>
+                    <option value="Canned">Canned</option>
+                    <option value="Dairy">Dairy</option>
+                    <option value="Frozen Foods">Frozen Foods</option>
+                    <option value="Fruits and Vegetables">
+                        Fruits and Vegetables
+                    </option>
+                    <option value="Hard Drinks">Hard Drinks</option>
+                    <option value="Health and Hygiene">
+                        Health and Hygiene
+                    </option>
+                    <option value="Household">Household</option>
+                    <option value="Meat">Meat</option>
+                    <option value="Others">Others</option>
+                    <option value="Seafood">Seafood</option>
+                    <option value="Snack Foods">Snack Foods</option>
+                    <option value="Soft Drinks">Soft Drinks</option>
+                    <option value="Starchy Foods">
+                        Starchy Foods
+                    </option>
+
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Outlet Identifier</label>
+                <select name="outlet_identifier">
+
+                    <option value="OUT013">OUT013</option>
+                    <option value="OUT017">OUT017</option>
+                    <option value="OUT018">OUT018</option>
+                    <option value="OUT019">OUT019</option>
+                    <option value="OUT027">OUT027</option>
+                    <option value="OUT035">OUT035</option>
+                    <option value="OUT045">OUT045</option>
+                    <option value="OUT046">OUT046</option>
+                    <option value="OUT049">OUT049</option>
+
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Outlet Size</label>
+                <select name="outlet_size">
+                    <option value="0">Small</option>
+                    <option value="1">Medium</option>
+                    <option value="2">High</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Outlet Location</label>
+                <select name="outlet_location_type">
+                    <option value="0">Tier 1</option>
+                    <option value="1">Tier 2</option>
+                    <option value="2">Tier 3</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Outlet Type</label>
+                <select name="outlet_type">
+
+                    <option value="Grocery Store">
+                        Grocery Store
+                    </option>
+
+                    <option value="Supermarket Type1">
+                        Supermarket Type1
+                    </option>
+
+                    <option value="Supermarket Type2">
+                        Supermarket Type2
+                    </option>
+
+                    <option value="Supermarket Type3">
+                        Supermarket Type3
+                    </option>
+
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Outlet Establishment Year</label>
+                <input type="number"
+                       name="outlet_establishment_year"
+                       placeholder="Example: 1999"
+                       required>
+            </div>
+
+        </div>
+
+        <button type="submit">
+            Predict Sales
+        </button>
+
+    </form>
+
+    {% if prediction is defined %}
+
+    <div class="result">
+
+        <h2>Predicted Outlet Sales</h2>
+
+        <div class="prediction">
+            ₹ {{ prediction }}
+        </div>
+
+        <p>
+            Estimated Item Outlet Sales
+        </p>
+
+    </div>
+
+    {% endif %}
+
+</div>
+
+</body>
+</html>

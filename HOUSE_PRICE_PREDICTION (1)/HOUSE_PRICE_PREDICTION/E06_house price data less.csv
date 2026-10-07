@@ -1,0 +1,1000 @@
+ID,State,City,Locality,Property_Type,BHK,Size_in_SqFt,Price_in_Lakhs,Price_per_SqFt,Year_Built,Furnished_Status,Floor_No,Total_Floors,Age_of_Property,Nearby_Schools,Nearby_Hospitals,Public_Transport_Accessibility,Parking_Space,Security,Amenities,Facing,Owner_Type,Availability_Status
+1,Tamil Nadu,Chennai,Locality_84,Apartment,1,4740,489.76,0.1,1990,Furnished,22,1,35,10,3,High,No,No,"Playground, Gym, Garden, Pool, Clubhouse",West,Owner,Ready_to_Move
+2,Maharashtra,Pune,Locality_490,Independent House,3,2364,195.52,0.08,2008,Unfurnished,21,20,17,8,1,Low,No,Yes,"Playground, Clubhouse, Pool, Gym, Garden",North,Builder,Under_Construction
+3,Punjab,Ludhiana,Locality_167,Apartment,2,3642,183.79,0.05,1997,Semi-furnished,19,27,28,9,8,Low,Yes,No,"Clubhouse, Pool, Playground, Gym",South,Broker,Ready_to_Move
+4,Rajasthan,Jodhpur,Locality_393,Independent House,2,2741,300.29,0.11,1991,Furnished,21,26,34,5,7,High,Yes,Yes,"Playground, Clubhouse, Gym, Pool, Garden",North,Builder,Ready_to_Move
+5,Rajasthan,Jaipur,Locality_466,Villa,4,4823,182.9,0.04,2002,Semi-furnished,3,2,23,4,9,Low,No,Yes,"Playground, Garden, Gym, Pool, Clubhouse",East,Builder,Ready_to_Move
+6,West Bengal,Durgapur,Locality_246,Apartment,4,3500,135.28,0.04,2020,Semi-furnished,27,1,5,7,7,Low,Yes,Yes,"Playground, Clubhouse",West,Broker,Ready_to_Move
+7,Tamil Nadu,Coimbatore,Locality_254,Independent House,3,4826,318.12,0.07,2016,Furnished,16,5,9,3,6,High,No,Yes,"Clubhouse, Garden, Playground",North,Builder,Under_Construction
+8,Chhattisgarh,Bilaspur,Locality_490,Independent House,5,4252,141.39,0.03,2021,Unfurnished,24,4,4,10,10,High,Yes,Yes,"Gym, Pool, Clubhouse, Playground",North,Builder,Under_Construction
+9,Delhi,New Delhi,Locality_232,Villa,4,2678,189.16,0.07,2003,Semi-furnished,23,16,22,7,5,Low,No,Yes,"Garden, Clubhouse, Playground",South,Broker,Under_Construction
+10,Jharkhand,Ranchi,Locality_122,Villa,2,1393,187.42,0.13,2011,Unfurnished,6,13,14,3,3,High,Yes,No,"Clubhouse, Playground, Garden, Gym",East,Owner,Ready_to_Move
+11,Telangana,Warangal,Locality_75,Independent House,1,665,324.24,0.49,1991,Semi-furnished,8,12,34,1,8,Low,No,Yes,Clubhouse,North,Broker,Under_Construction
+12,Karnataka,Bangalore,Locality_462,Apartment,5,3988,465.38,0.12,2022,Furnished,6,24,3,6,4,High,No,Yes,"Clubhouse, Pool, Playground, Gym",West,Broker,Ready_to_Move
+13,Maharashtra,Nagpur,Locality_227,Independent House,3,1976,486.29,0.25,2020,Semi-furnished,9,1,5,6,6,Medium,No,Yes,"Clubhouse, Gym, Playground, Pool",North,Builder,Ready_to_Move
+14,Delhi,New Delhi,Locality_287,Independent House,1,1369,309.82,0.23,2013,Unfurnished,13,4,12,10,6,Medium,No,No,"Clubhouse, Garden, Gym, Playground, Pool",South,Broker,Under_Construction
+15,Uttar Pradesh,Lucknow,Locality_148,Apartment,2,3852,77.62,0.02,2006,Semi-furnished,26,18,19,8,3,Medium,No,No,"Garden, Gym, Playground",East,Broker,Ready_to_Move
+16,Rajasthan,Jaipur,Locality_369,Apartment,1,2815,491.97,0.17,2015,Furnished,4,7,10,9,6,High,Yes,Yes,Playground,East,Owner,Under_Construction
+17,Assam,Silchar,Locality_265,Villa,5,1250,75.23,0.06,1993,Semi-furnished,15,10,32,1,8,Medium,No,No,"Pool, Playground, Garden, Gym",South,Builder,Under_Construction
+18,Uttarakhand,Dehradun,Locality_50,Villa,1,3518,234.99,0.07,2004,Unfurnished,14,8,21,8,1,High,No,Yes,"Pool, Clubhouse, Gym",West,Builder,Ready_to_Move
+19,Maharashtra,Pune,Locality_385,Villa,3,2126,24.5,0.01,2013,Semi-furnished,10,5,12,8,1,Low,No,Yes,"Garden, Clubhouse, Pool, Gym, Playground",West,Owner,Under_Construction
+20,Chhattisgarh,Bilaspur,Locality_241,Villa,2,2524,407.96,0.16,2016,Semi-furnished,13,18,9,8,6,High,Yes,No,"Pool, Playground, Clubhouse",North,Broker,Under_Construction
+21,Uttar Pradesh,Noida,Locality_286,Independent House,3,1270,475.78,0.37,2018,Semi-furnished,21,21,7,3,4,Medium,No,Yes,"Clubhouse, Gym, Garden, Pool, Playground",North,Owner,Under_Construction
+22,Chhattisgarh,Bilaspur,Locality_74,Villa,5,4626,343.4,0.07,1990,Furnished,17,7,35,6,8,Low,Yes,Yes,"Pool, Clubhouse, Gym, Playground, Garden",East,Owner,Ready_to_Move
+23,Telangana,Warangal,Locality_459,Apartment,1,2059,488.42,0.24,1995,Furnished,0,26,30,7,6,Low,No,No,"Garden, Pool, Gym, Playground, Clubhouse",West,Broker,Under_Construction
+24,Rajasthan,Jaipur,Locality_355,Independent House,4,3176,164.31,0.05,1990,Unfurnished,11,22,35,9,4,Low,Yes,No,"Pool, Gym, Clubhouse",East,Builder,Under_Construction
+25,Bihar,Gaya,Locality_151,Apartment,2,1925,322.81,0.17,2019,Unfurnished,25,1,6,9,6,High,Yes,Yes,"Garden, Clubhouse, Playground",North,Owner,Under_Construction
+26,Jharkhand,Jamshedpur,Locality_159,Villa,3,2032,50.67,0.02,1990,Unfurnished,4,21,35,3,4,Low,No,Yes,"Clubhouse, Garden",East,Owner,Ready_to_Move
+27,Punjab,Ludhiana,Locality_382,Independent House,4,4151,143.9,0.03,1995,Unfurnished,9,5,30,4,10,High,No,Yes,"Pool, Garden, Playground, Gym",West,Owner,Ready_to_Move
+28,Maharashtra,Pune,Locality_143,Apartment,5,2346,404.23,0.17,2016,Semi-furnished,9,10,9,8,7,High,No,Yes,"Garden, Playground, Pool, Clubhouse",South,Owner,Ready_to_Move
+29,Gujarat,Ahmedabad,Locality_74,Independent House,5,2088,233.29,0.11,1999,Unfurnished,14,9,26,1,2,Medium,Yes,Yes,"Pool, Garden",East,Owner,Ready_to_Move
+30,Telangana,Hyderabad,Locality_454,Apartment,3,2750,59.35,0.02,2002,Furnished,21,29,23,6,8,Low,Yes,No,"Playground, Pool",West,Broker,Under_Construction
+31,Haryana,Faridabad,Locality_262,Apartment,4,2637,316.69,0.12,2011,Semi-furnished,15,1,14,4,7,Medium,No,Yes,"Playground, Garden, Pool, Clubhouse",East,Broker,Under_Construction
+32,Punjab,Amritsar,Locality_466,Villa,5,1020,84.44,0.08,1991,Unfurnished,29,25,34,8,3,Low,No,No,"Pool, Clubhouse, Gym",South,Owner,Under_Construction
+33,West Bengal,Kolkata,Locality_136,Apartment,3,2896,288.27,0.1,2022,Furnished,6,6,3,10,10,Low,Yes,Yes,Playground,East,Builder,Under_Construction
+34,Uttar Pradesh,Lucknow,Locality_223,Apartment,3,2516,472.04,0.19,2023,Unfurnished,28,30,2,4,7,High,Yes,Yes,"Garden, Clubhouse",North,Builder,Ready_to_Move
+35,Haryana,Faridabad,Locality_368,Villa,1,3524,308.14,0.09,2006,Semi-furnished,22,23,19,6,6,Medium,Yes,Yes,"Gym, Pool, Clubhouse, Garden",West,Builder,Ready_to_Move
+36,Tamil Nadu,Chennai,Locality_143,Villa,1,4426,93.9,0.02,2007,Semi-furnished,17,28,18,1,8,Low,No,Yes,Garden,West,Broker,Ready_to_Move
+37,Delhi,Dwarka,Locality_480,Independent House,2,775,26.99,0.03,2008,Semi-furnished,11,14,17,8,1,High,No,Yes,Clubhouse,South,Broker,Ready_to_Move
+38,Andhra Pradesh,Vishakhapatnam,Locality_485,Independent House,2,584,109.23,0.19,2001,Furnished,3,22,24,3,2,Medium,Yes,No,"Pool, Garden, Gym",South,Builder,Ready_to_Move
+39,Tamil Nadu,Chennai,Locality_398,Apartment,1,3713,258.22,0.07,2015,Semi-furnished,21,4,10,8,3,Medium,No,No,"Pool, Gym, Clubhouse",East,Owner,Under_Construction
+40,Madhya Pradesh,Bhopal,Locality_305,Villa,3,2007,178.23,0.09,1997,Furnished,21,11,28,6,5,Low,No,No,"Garden, Pool, Clubhouse, Playground",South,Builder,Ready_to_Move
+41,Madhya Pradesh,Indore,Locality_114,Villa,3,3727,358.45,0.1,2013,Unfurnished,15,6,12,5,2,Low,Yes,No,"Playground, Clubhouse, Garden, Pool",South,Builder,Ready_to_Move
+42,Uttarakhand,Haridwar,Locality_202,Independent House,5,2238,58.14,0.03,2010,Unfurnished,22,2,15,5,5,Medium,Yes,No,"Pool, Garden",South,Broker,Under_Construction
+43,Punjab,Ludhiana,Locality_96,Apartment,4,1845,472.99,0.26,2022,Unfurnished,7,27,3,10,5,Medium,No,No,"Playground, Clubhouse",East,Broker,Ready_to_Move
+44,Karnataka,Mysore,Locality_295,Independent House,3,3796,461.46,0.12,2013,Furnished,2,3,12,6,5,Low,No,No,Pool,East,Broker,Under_Construction
+45,Bihar,Patna,Locality_58,Villa,4,1515,161.03,0.11,2012,Furnished,20,30,13,3,7,Low,No,Yes,"Gym, Pool, Garden, Playground",East,Broker,Ready_to_Move
+46,Chhattisgarh,Raipur,Locality_484,Apartment,4,2409,180.64,0.07,1996,Unfurnished,11,20,29,5,7,Low,No,Yes,"Playground, Pool, Gym, Garden",North,Builder,Ready_to_Move
+47,Tamil Nadu,Chennai,Locality_323,Villa,5,641,300.29,0.47,2017,Furnished,23,15,8,5,1,Low,No,Yes,"Clubhouse, Playground",North,Builder,Ready_to_Move
+48,Andhra Pradesh,Vijayawada,Locality_432,Apartment,2,3771,30.57,0.01,2023,Unfurnished,17,2,2,5,4,Low,Yes,Yes,Clubhouse,North,Broker,Under_Construction
+49,Delhi,Dwarka,Locality_273,Villa,2,1771,335.78,0.19,2009,Semi-furnished,26,19,16,10,4,Medium,Yes,Yes,"Playground, Garden",West,Broker,Under_Construction
+50,Chhattisgarh,Bilaspur,Locality_458,Villa,4,733,438.74,0.6,2000,Semi-furnished,3,6,25,1,1,High,No,No,"Garden, Playground, Pool",West,Owner,Under_Construction
+51,Kerala,Trivandrum,Locality_150,Apartment,3,4766,55.83,0.01,2012,Semi-furnished,10,13,13,10,9,Medium,Yes,Yes,"Playground, Clubhouse, Pool, Garden",South,Builder,Ready_to_Move
+52,Uttarakhand,Haridwar,Locality_238,Independent House,4,556,308.46,0.55,2000,Semi-furnished,14,6,25,8,7,Medium,No,Yes,"Gym, Playground",North,Builder,Under_Construction
+53,Madhya Pradesh,Indore,Locality_494,Villa,2,3881,204.19,0.05,2004,Furnished,14,16,21,9,3,Medium,Yes,Yes,"Clubhouse, Gym, Pool, Playground, Garden",South,Owner,Under_Construction
+54,Jharkhand,Ranchi,Locality_464,Villa,2,855,335.3,0.39,2011,Unfurnished,14,24,14,3,3,Low,Yes,No,"Gym, Clubhouse, Garden, Playground",East,Broker,Ready_to_Move
+55,Uttar Pradesh,Noida,Locality_431,Apartment,3,1443,173.87,0.12,2009,Furnished,23,23,16,10,3,High,No,Yes,"Pool, Garden, Playground, Clubhouse, Gym",West,Builder,Ready_to_Move
+56,Delhi,New Delhi,Locality_484,Apartment,2,3300,274.47,0.08,2010,Semi-furnished,0,28,15,9,10,Medium,Yes,Yes,"Clubhouse, Gym, Playground",South,Builder,Ready_to_Move
+57,Karnataka,Bangalore,Locality_125,Apartment,5,3276,139.64,0.04,1997,Semi-furnished,9,14,28,4,7,Medium,No,Yes,"Gym, Pool",West,Broker,Under_Construction
+58,Rajasthan,Jodhpur,Locality_218,Villa,3,581,457.94,0.79,1995,Furnished,11,17,30,6,2,Low,No,Yes,Clubhouse,East,Broker,Under_Construction
+59,Kerala,Kochi,Locality_112,Apartment,3,1992,11.59,0.01,1991,Furnished,16,11,34,4,2,High,No,Yes,"Pool, Clubhouse",North,Owner,Under_Construction
+60,Delhi,Dwarka,Locality_27,Villa,2,1495,129.43,0.09,1993,Furnished,27,3,32,8,6,High,No,No,"Clubhouse, Playground, Gym, Pool, Garden",South,Owner,Under_Construction
+61,Rajasthan,Jaipur,Locality_40,Apartment,3,4253,92.82,0.02,1990,Unfurnished,15,5,35,2,4,Medium,Yes,No,"Gym, Clubhouse, Playground, Pool, Garden",West,Builder,Under_Construction
+62,Tamil Nadu,Chennai,Locality_457,Villa,1,1106,421.32,0.38,2004,Unfurnished,3,8,21,6,3,High,Yes,Yes,"Playground, Garden, Clubhouse, Gym, Pool",West,Builder,Under_Construction
+63,Andhra Pradesh,Vijayawada,Locality_64,Villa,1,2471,437.65,0.18,2022,Furnished,4,7,3,1,4,Low,No,Yes,"Gym, Playground, Garden, Clubhouse",West,Owner,Under_Construction
+64,Punjab,Amritsar,Locality_372,Villa,1,1949,109.09,0.06,1999,Unfurnished,1,3,26,1,8,High,Yes,Yes,"Playground, Garden, Clubhouse, Gym, Pool",West,Owner,Under_Construction
+65,Bihar,Patna,Locality_76,Apartment,4,1574,100.44,0.06,2003,Semi-furnished,10,26,22,1,5,High,Yes,No,"Pool, Garden, Playground, Clubhouse, Gym",West,Owner,Ready_to_Move
+66,Madhya Pradesh,Bhopal,Locality_412,Apartment,1,890,439.52,0.49,2020,Semi-furnished,12,29,5,5,3,Low,No,No,"Clubhouse, Playground",South,Owner,Ready_to_Move
+67,Gujarat,Surat,Locality_169,Villa,1,2318,234.83,0.1,1997,Furnished,26,16,28,9,6,High,Yes,Yes,Gym,East,Owner,Under_Construction
+68,Madhya Pradesh,Indore,Locality_479,Apartment,2,502,486.68,0.97,2008,Semi-furnished,14,7,17,5,10,Medium,No,No,"Playground, Clubhouse",West,Owner,Under_Construction
+69,Madhya Pradesh,Bhopal,Locality_121,Independent House,1,3000,87.74,0.03,2017,Semi-furnished,13,25,8,4,4,Medium,Yes,Yes,Garden,East,Builder,Under_Construction
+70,Uttar Pradesh,Lucknow,Locality_128,Independent House,1,1704,148.92,0.09,2014,Unfurnished,11,21,11,2,4,Medium,Yes,No,"Pool, Garden, Gym, Playground, Clubhouse",West,Builder,Ready_to_Move
+71,Punjab,Amritsar,Locality_145,Apartment,4,1346,53.12,0.04,2017,Furnished,23,2,8,3,6,High,No,No,"Playground, Gym",South,Owner,Under_Construction
+72,Delhi,New Delhi,Locality_205,Villa,2,1518,408.45,0.27,2005,Semi-furnished,1,1,20,9,2,Low,No,No,"Pool, Garden, Clubhouse, Playground",West,Owner,Ready_to_Move
+73,Uttarakhand,Dehradun,Locality_353,Villa,4,1399,234.14,0.17,2002,Unfurnished,11,2,23,9,10,Medium,Yes,Yes,"Gym, Pool, Playground, Garden",South,Broker,Under_Construction
+74,Gujarat,Ahmedabad,Locality_387,Independent House,4,978,418.76,0.43,2001,Semi-furnished,27,30,24,8,2,High,Yes,No,"Clubhouse, Garden, Gym, Pool, Playground",East,Owner,Under_Construction
+75,Chhattisgarh,Raipur,Locality_278,Villa,3,1041,357.84,0.34,1995,Semi-furnished,22,30,30,1,7,Low,Yes,No,Clubhouse,East,Owner,Under_Construction
+76,Rajasthan,Jodhpur,Locality_258,Apartment,1,3028,131.06,0.04,2002,Semi-furnished,19,16,23,4,8,High,Yes,Yes,Pool,South,Owner,Under_Construction
+77,Gujarat,Surat,Locality_418,Independent House,3,3757,470.63,0.13,2018,Semi-furnished,11,23,7,6,2,High,Yes,Yes,Gym,South,Builder,Under_Construction
+78,Bihar,Patna,Locality_436,Independent House,5,4890,392.39,0.08,2015,Furnished,28,11,10,3,6,Low,Yes,No,Gym,East,Broker,Under_Construction
+79,Andhra Pradesh,Vishakhapatnam,Locality_92,Apartment,3,2410,272.3,0.11,2020,Semi-furnished,10,11,5,3,8,Medium,No,Yes,Playground,North,Builder,Under_Construction
+80,Punjab,Amritsar,Locality_39,Apartment,1,1889,257.47,0.14,2020,Semi-furnished,11,3,5,5,10,Low,No,No,"Playground, Gym, Garden, Clubhouse, Pool",North,Owner,Ready_to_Move
+81,Chhattisgarh,Bilaspur,Locality_473,Villa,4,1629,222.48,0.14,2019,Unfurnished,14,26,6,2,8,Low,Yes,No,"Gym, Clubhouse, Pool, Playground",East,Broker,Ready_to_Move
+82,Rajasthan,Jaipur,Locality_63,Villa,3,4649,176.55,0.04,1996,Furnished,21,22,29,8,4,High,No,No,"Garden, Gym, Clubhouse",East,Owner,Ready_to_Move
+83,Haryana,Gurgaon,Locality_12,Independent House,2,1876,263.29,0.14,2020,Unfurnished,11,12,5,9,6,High,No,Yes,"Clubhouse, Garden",South,Owner,Under_Construction
+84,Karnataka,Bangalore,Locality_498,Independent House,4,3936,401.88,0.1,1999,Furnished,2,6,26,3,6,High,No,Yes,"Gym, Pool, Clubhouse, Playground, Garden",West,Builder,Ready_to_Move
+85,Rajasthan,Jodhpur,Locality_356,Independent House,2,3065,111.1,0.04,1992,Semi-furnished,8,16,33,10,3,Medium,No,Yes,"Playground, Garden, Pool, Gym",South,Broker,Ready_to_Move
+86,Karnataka,Mangalore,Locality_314,Villa,2,1288,395.3,0.31,2022,Semi-furnished,22,20,3,1,10,Medium,No,Yes,"Clubhouse, Pool, Playground",West,Broker,Under_Construction
+87,Haryana,Gurgaon,Locality_1,Apartment,2,3729,178.74,0.05,2011,Semi-furnished,23,27,14,1,3,Low,Yes,No,"Garden, Pool, Playground, Clubhouse",South,Builder,Ready_to_Move
+88,Andhra Pradesh,Vishakhapatnam,Locality_394,Villa,1,4888,59.7,0.01,1993,Furnished,0,4,32,7,4,High,No,Yes,"Pool, Playground, Clubhouse, Garden",West,Broker,Ready_to_Move
+89,Punjab,Ludhiana,Locality_187,Villa,1,2888,157.15,0.05,2014,Semi-furnished,17,9,11,8,8,Medium,Yes,No,"Playground, Pool, Garden, Gym",West,Builder,Under_Construction
+90,Delhi,New Delhi,Locality_420,Villa,3,3596,129.74,0.04,1996,Furnished,15,24,29,9,3,Low,No,Yes,Clubhouse,West,Builder,Ready_to_Move
+91,Uttar Pradesh,Noida,Locality_305,Villa,3,4607,223.89,0.05,2000,Unfurnished,24,25,25,2,10,High,Yes,Yes,"Playground, Garden, Clubhouse, Gym",West,Builder,Under_Construction
+92,Jharkhand,Ranchi,Locality_181,Independent House,3,2163,57.29,0.03,2010,Semi-furnished,28,30,15,9,8,Low,Yes,No,Pool,East,Owner,Ready_to_Move
+93,Haryana,Faridabad,Locality_75,Villa,1,1763,201.3,0.11,1995,Furnished,7,8,30,2,1,Medium,Yes,Yes,"Playground, Pool",North,Broker,Ready_to_Move
+94,Uttar Pradesh,Lucknow,Locality_179,Independent House,3,4283,40.33,0.01,2016,Semi-furnished,15,22,9,3,7,High,Yes,No,"Playground, Pool",East,Builder,Ready_to_Move
+95,Odisha,Cuttack,Locality_180,Independent House,1,2614,356.41,0.14,2020,Unfurnished,14,2,5,7,8,Low,Yes,No,Pool,North,Broker,Ready_to_Move
+96,Andhra Pradesh,Vijayawada,Locality_326,Independent House,5,4113,436.35,0.11,1991,Semi-furnished,13,4,34,2,1,Low,Yes,No,Playground,West,Broker,Under_Construction
+97,Bihar,Gaya,Locality_384,Apartment,3,2770,407.95,0.15,2016,Semi-furnished,29,5,9,5,2,High,No,No,"Pool, Gym, Clubhouse",North,Broker,Under_Construction
+98,West Bengal,Durgapur,Locality_430,Villa,3,1177,81.49,0.07,1994,Unfurnished,12,15,31,10,6,Medium,No,Yes,Garden,North,Owner,Ready_to_Move
+99,Punjab,Ludhiana,Locality_363,Villa,1,1277,12.52,0.01,2001,Semi-furnished,4,9,24,3,9,Medium,No,Yes,"Garden, Playground, Clubhouse, Pool, Gym",North,Builder,Ready_to_Move
+100,West Bengal,Kolkata,Locality_83,Apartment,4,509,375,0.74,2018,Semi-furnished,10,25,7,9,3,Medium,No,Yes,"Pool, Clubhouse, Gym",South,Owner,Ready_to_Move
+101,Rajasthan,Jaipur,Locality_435,Villa,2,2731,454.02,0.17,2017,Unfurnished,29,25,8,9,9,Medium,No,No,"Gym, Clubhouse, Playground, Garden, Pool",East,Broker,Ready_to_Move
+102,Chhattisgarh,Raipur,Locality_442,Villa,1,1880,375.52,0.2,2022,Unfurnished,28,21,3,10,4,High,No,No,"Garden, Pool, Clubhouse, Playground, Gym",West,Builder,Under_Construction
+103,Chhattisgarh,Raipur,Locality_151,Villa,3,1434,160.5,0.11,1993,Furnished,11,12,32,2,2,Medium,Yes,Yes,"Clubhouse, Playground, Garden, Gym",South,Broker,Under_Construction
+104,Punjab,Ludhiana,Locality_397,Villa,4,4925,338.2,0.07,2004,Furnished,4,18,21,8,6,Low,No,Yes,"Playground, Garden, Gym, Pool",East,Owner,Under_Construction
+105,Jharkhand,Ranchi,Locality_211,Independent House,5,4443,224.78,0.05,1997,Semi-furnished,15,8,28,10,5,Low,No,No,"Gym, Garden, Clubhouse, Pool, Playground",North,Broker,Under_Construction
+106,Telangana,Warangal,Locality_278,Independent House,1,517,262.28,0.51,2023,Unfurnished,5,27,2,7,1,Medium,No,No,"Garden, Clubhouse, Pool",South,Builder,Under_Construction
+107,Jharkhand,Ranchi,Locality_53,Villa,1,696,49.97,0.07,2016,Unfurnished,19,16,9,4,8,Low,Yes,Yes,"Pool, Playground, Gym",North,Builder,Under_Construction
+108,Andhra Pradesh,Vijayawada,Locality_172,Apartment,1,2476,475.83,0.19,1995,Furnished,0,23,30,7,1,Medium,Yes,No,"Playground, Garden, Gym",North,Broker,Under_Construction
+109,Madhya Pradesh,Bhopal,Locality_132,Independent House,5,2283,414.09,0.18,2000,Furnished,25,2,25,6,4,Medium,No,Yes,"Playground, Clubhouse, Gym, Pool",West,Builder,Ready_to_Move
+110,Rajasthan,Jaipur,Locality_422,Apartment,4,2636,498.63,0.19,2001,Unfurnished,24,10,24,8,8,High,No,Yes,"Clubhouse, Pool",East,Builder,Ready_to_Move
+111,West Bengal,Durgapur,Locality_84,Apartment,5,3283,86.05,0.03,2005,Furnished,8,20,20,1,4,Low,Yes,No,Playground,North,Owner,Under_Construction
+112,Assam,Silchar,Locality_480,Independent House,1,3547,451.9,0.13,1992,Furnished,20,21,33,10,8,Low,No,No,Garden,South,Owner,Ready_to_Move
+113,Odisha,Bhubaneswar,Locality_120,Apartment,2,2884,45.66,0.02,2005,Furnished,15,3,20,9,2,Medium,No,Yes,Clubhouse,North,Broker,Ready_to_Move
+114,Delhi,Dwarka,Locality_280,Independent House,3,2004,197.01,0.1,2021,Unfurnished,21,23,4,6,5,Medium,No,Yes,"Playground, Clubhouse, Garden",South,Owner,Ready_to_Move
+115,Karnataka,Mangalore,Locality_240,Villa,1,2002,292.93,0.15,1996,Semi-furnished,3,26,29,5,1,Low,Yes,Yes,"Pool, Clubhouse, Playground, Gym",East,Builder,Under_Construction
+116,Tamil Nadu,Chennai,Locality_30,Villa,2,1033,210.45,0.2,2011,Unfurnished,17,3,14,4,8,Medium,No,Yes,Gym,North,Broker,Under_Construction
+117,West Bengal,Durgapur,Locality_189,Villa,4,992,243.01,0.24,2007,Semi-furnished,25,7,18,9,6,Low,Yes,No,"Garden, Pool, Gym",South,Broker,Under_Construction
+118,Gujarat,Surat,Locality_111,Independent House,5,2947,410,0.14,2007,Furnished,28,24,18,5,3,Medium,Yes,No,"Garden, Gym, Pool",South,Broker,Under_Construction
+119,Telangana,Hyderabad,Locality_52,Independent House,5,2530,432.53,0.17,2007,Furnished,22,29,18,5,6,Low,No,No,"Garden, Pool",North,Broker,Ready_to_Move
+120,Uttarakhand,Haridwar,Locality_393,Independent House,2,1503,28.63,0.02,2008,Semi-furnished,21,30,17,5,4,High,Yes,No,"Gym, Pool, Clubhouse",West,Builder,Ready_to_Move
+121,Delhi,Dwarka,Locality_57,Villa,3,1835,247.94,0.14,2022,Furnished,12,26,3,2,6,Low,Yes,No,"Pool, Garden, Gym, Clubhouse",North,Builder,Under_Construction
+122,Andhra Pradesh,Vijayawada,Locality_59,Independent House,3,1583,57.41,0.04,2020,Unfurnished,19,28,5,1,10,Medium,No,Yes,Pool,South,Broker,Ready_to_Move
+123,Andhra Pradesh,Vijayawada,Locality_88,Apartment,3,4169,256.79,0.06,2011,Unfurnished,13,10,14,9,2,High,Yes,No,"Clubhouse, Gym, Garden, Pool, Playground",West,Owner,Under_Construction
+124,Uttarakhand,Haridwar,Locality_49,Independent House,1,3036,375.04,0.12,2000,Furnished,7,29,25,9,6,Low,Yes,No,"Playground, Clubhouse, Pool, Garden",East,Owner,Under_Construction
+125,Bihar,Patna,Locality_363,Villa,4,4918,112.97,0.02,2007,Semi-furnished,16,22,18,5,6,Medium,Yes,Yes,"Garden, Gym",West,Broker,Under_Construction
+126,Assam,Silchar,Locality_323,Independent House,1,1522,373.74,0.25,1995,Unfurnished,25,4,30,4,1,Low,Yes,No,Gym,North,Owner,Under_Construction
+127,Punjab,Amritsar,Locality_255,Independent House,1,4342,450.14,0.1,1997,Furnished,23,1,28,3,3,Low,Yes,No,"Gym, Clubhouse, Pool, Playground",East,Broker,Under_Construction
+128,Chhattisgarh,Raipur,Locality_252,Independent House,4,4243,342.61,0.08,1991,Furnished,23,8,34,4,10,Medium,No,Yes,"Playground, Garden, Clubhouse, Gym",West,Owner,Under_Construction
+129,Maharashtra,Nagpur,Locality_171,Independent House,3,3213,415.99,0.13,2012,Furnished,12,6,13,1,4,High,Yes,No,"Playground, Gym, Pool, Garden",North,Builder,Ready_to_Move
+130,Tamil Nadu,Coimbatore,Locality_103,Villa,1,3201,182.4,0.06,2022,Semi-furnished,27,8,3,7,5,High,No,Yes,"Pool, Gym, Garden, Playground",North,Builder,Under_Construction
+131,Chhattisgarh,Bilaspur,Locality_331,Independent House,1,1284,23.83,0.02,1996,Semi-furnished,7,9,29,7,8,Low,No,No,"Playground, Gym, Garden",South,Builder,Under_Construction
+132,Punjab,Ludhiana,Locality_95,Apartment,2,4149,103.18,0.02,2000,Furnished,25,1,25,5,6,Low,No,Yes,"Gym, Clubhouse, Pool, Garden",South,Builder,Under_Construction
+133,Haryana,Gurgaon,Locality_18,Apartment,4,2353,343.37,0.15,1991,Unfurnished,7,14,34,1,4,Low,No,Yes,"Garden, Playground",West,Builder,Under_Construction
+134,Tamil Nadu,Chennai,Locality_383,Independent House,5,2152,236.36,0.11,1995,Semi-furnished,23,24,30,5,6,High,Yes,No,"Pool, Gym, Playground, Clubhouse",South,Broker,Ready_to_Move
+135,Kerala,Kochi,Locality_334,Independent House,2,624,174.53,0.28,2009,Furnished,22,8,16,10,3,Medium,Yes,Yes,"Clubhouse, Playground, Pool, Gym, Garden",East,Broker,Ready_to_Move
+136,Telangana,Warangal,Locality_434,Apartment,3,2148,317.31,0.15,1993,Unfurnished,24,20,32,2,9,High,Yes,No,"Pool, Playground, Garden",West,Broker,Ready_to_Move
+137,Gujarat,Surat,Locality_129,Apartment,4,4476,29.35,0.01,1997,Furnished,27,9,28,3,4,Low,Yes,Yes,"Playground, Pool, Gym",East,Builder,Ready_to_Move
+138,Bihar,Gaya,Locality_93,Independent House,2,532,74.83,0.14,2012,Unfurnished,19,12,13,7,9,Low,No,No,"Clubhouse, Pool",West,Broker,Under_Construction
+139,Maharashtra,Nagpur,Locality_477,Independent House,5,3226,363.13,0.11,2008,Furnished,17,25,17,9,6,Low,No,Yes,"Playground, Garden, Gym",West,Builder,Ready_to_Move
+140,Punjab,Ludhiana,Locality_61,Independent House,5,4510,189.14,0.04,2010,Unfurnished,22,9,15,7,3,High,No,Yes,"Gym, Playground, Garden",North,Builder,Ready_to_Move
+141,Assam,Guwahati,Locality_281,Independent House,1,4173,405.3,0.1,1994,Unfurnished,5,22,31,2,8,Medium,Yes,No,"Playground, Garden, Clubhouse, Pool",North,Owner,Under_Construction
+142,Gujarat,Surat,Locality_55,Independent House,2,3033,488.24,0.16,1997,Furnished,18,25,28,6,7,Medium,Yes,Yes,"Pool, Garden, Clubhouse",South,Builder,Ready_to_Move
+143,Assam,Guwahati,Locality_250,Apartment,1,2166,78.92,0.04,2003,Semi-furnished,21,25,22,8,6,Low,Yes,Yes,"Gym, Clubhouse, Garden, Playground",South,Builder,Under_Construction
+144,Tamil Nadu,Coimbatore,Locality_139,Independent House,1,574,154.28,0.27,1997,Furnished,4,9,28,10,1,Medium,No,Yes,"Gym, Garden, Clubhouse",South,Owner,Under_Construction
+145,Kerala,Kochi,Locality_255,Apartment,2,2210,66.05,0.03,2014,Unfurnished,2,14,11,6,5,Medium,Yes,Yes,"Clubhouse, Gym, Garden, Pool, Playground",North,Broker,Under_Construction
+146,Assam,Silchar,Locality_90,Villa,5,1797,58.49,0.03,2001,Furnished,6,19,24,5,10,Medium,Yes,No,"Playground, Pool, Gym",North,Broker,Ready_to_Move
+147,Uttarakhand,Dehradun,Locality_314,Independent House,3,592,50.3,0.08,2013,Unfurnished,3,24,12,8,5,Medium,No,Yes,"Gym, Playground, Pool",North,Broker,Ready_to_Move
+148,Uttar Pradesh,Noida,Locality_341,Villa,2,3521,263.96,0.07,2008,Unfurnished,13,18,17,8,5,Low,No,No,"Pool, Clubhouse, Playground",West,Owner,Ready_to_Move
+149,West Bengal,Kolkata,Locality_459,Apartment,4,1585,27.75,0.02,2022,Furnished,13,30,3,8,6,High,No,Yes,"Playground, Garden, Clubhouse, Gym, Pool",South,Builder,Under_Construction
+150,Madhya Pradesh,Bhopal,Locality_463,Independent House,1,3381,444.6,0.13,2021,Furnished,9,7,4,4,9,Medium,No,Yes,Clubhouse,West,Owner,Under_Construction
+151,Gujarat,Ahmedabad,Locality_382,Independent House,2,3902,400.96,0.1,1994,Furnished,3,13,31,10,2,Medium,Yes,Yes,"Playground, Pool, Garden, Gym, Clubhouse",West,Broker,Ready_to_Move
+152,Chhattisgarh,Bilaspur,Locality_43,Independent House,5,4786,162.94,0.03,2009,Furnished,9,15,16,8,2,Medium,No,Yes,Clubhouse,West,Broker,Ready_to_Move
+153,Assam,Silchar,Locality_258,Apartment,3,2187,374.76,0.17,1990,Unfurnished,25,8,35,1,6,Low,No,Yes,"Garden, Playground, Clubhouse, Pool, Gym",South,Builder,Ready_to_Move
+154,Maharashtra,Pune,Locality_386,Villa,5,1708,256.5,0.15,2022,Semi-furnished,27,6,3,2,4,High,No,No,"Clubhouse, Gym",West,Owner,Ready_to_Move
+155,Uttarakhand,Dehradun,Locality_251,Apartment,2,2662,308.52,0.12,2004,Unfurnished,0,10,21,3,4,Medium,Yes,No,Gym,East,Builder,Ready_to_Move
+156,Haryana,Faridabad,Locality_57,Villa,5,1711,143.64,0.08,1995,Furnished,30,4,30,6,10,Medium,No,Yes,"Playground, Garden, Clubhouse, Gym",North,Owner,Under_Construction
+157,Odisha,Bhubaneswar,Locality_491,Independent House,4,4745,377.58,0.08,1990,Semi-furnished,21,4,35,8,7,Medium,No,Yes,"Pool, Clubhouse",West,Builder,Ready_to_Move
+158,Maharashtra,Nagpur,Locality_3,Independent House,3,4736,292.87,0.06,1996,Unfurnished,9,2,29,4,10,High,No,Yes,"Garden, Playground, Pool, Gym",West,Owner,Ready_to_Move
+159,Tamil Nadu,Chennai,Locality_141,Independent House,1,4621,329.81,0.07,2006,Semi-furnished,11,28,19,5,3,Low,Yes,Yes,"Garden, Gym, Clubhouse, Playground, Pool",West,Builder,Under_Construction
+160,Madhya Pradesh,Indore,Locality_23,Apartment,1,4629,410.41,0.09,2000,Semi-furnished,6,28,25,5,2,Medium,Yes,Yes,"Garden, Pool, Gym",South,Builder,Ready_to_Move
+161,Kerala,Trivandrum,Locality_231,Apartment,5,3280,151.92,0.05,2014,Furnished,10,2,11,4,8,Low,No,No,"Playground, Garden, Gym, Clubhouse, Pool",East,Builder,Under_Construction
+162,Rajasthan,Jaipur,Locality_418,Villa,2,2864,478.08,0.17,2009,Semi-furnished,14,3,16,9,9,Medium,Yes,Yes,Garden,North,Owner,Under_Construction
+163,Karnataka,Mysore,Locality_396,Apartment,1,3235,357.89,0.11,2008,Semi-furnished,24,19,17,5,10,Low,Yes,No,"Garden, Clubhouse, Playground, Gym, Pool",South,Owner,Under_Construction
+164,Rajasthan,Jodhpur,Locality_141,Villa,5,1692,275.72,0.16,2023,Furnished,21,3,2,2,7,High,Yes,No,Clubhouse,South,Builder,Ready_to_Move
+165,Jharkhand,Jamshedpur,Locality_478,Apartment,4,2560,40.86,0.02,2005,Unfurnished,16,22,20,3,7,High,No,Yes,"Pool, Clubhouse, Playground, Garden",South,Broker,Under_Construction
+166,Delhi,Dwarka,Locality_146,Independent House,1,2578,290.11,0.11,1994,Semi-furnished,18,23,31,1,2,Low,No,Yes,"Clubhouse, Gym, Pool, Garden, Playground",East,Owner,Ready_to_Move
+167,Delhi,Dwarka,Locality_493,Villa,1,2685,286.53,0.11,2009,Furnished,12,20,16,3,6,Medium,Yes,Yes,"Gym, Garden, Playground, Pool, Clubhouse",North,Broker,Ready_to_Move
+168,Odisha,Cuttack,Locality_305,Apartment,3,3967,427,0.11,2014,Furnished,10,3,11,7,8,Medium,No,No,"Pool, Gym, Clubhouse, Garden, Playground",West,Broker,Under_Construction
+169,Delhi,New Delhi,Locality_353,Apartment,5,653,483.31,0.74,2006,Unfurnished,16,7,19,6,2,Low,Yes,No,"Clubhouse, Playground, Pool",East,Broker,Ready_to_Move
+170,Chhattisgarh,Bilaspur,Locality_105,Apartment,2,758,470.13,0.62,2021,Unfurnished,30,25,4,10,3,Medium,Yes,No,"Clubhouse, Playground, Pool, Garden, Gym",North,Owner,Under_Construction
+171,West Bengal,Durgapur,Locality_98,Apartment,4,4071,353.67,0.09,2010,Furnished,23,8,15,7,9,High,Yes,Yes,"Pool, Gym, Garden",North,Owner,Ready_to_Move
+172,West Bengal,Kolkata,Locality_384,Apartment,3,4924,218.63,0.04,2022,Furnished,4,6,3,3,10,Medium,No,No,Clubhouse,North,Broker,Under_Construction
+173,Odisha,Bhubaneswar,Locality_350,Villa,1,1677,15.96,0.01,2009,Furnished,21,26,16,8,7,Low,No,Yes,"Clubhouse, Pool",East,Owner,Under_Construction
+174,Chhattisgarh,Bilaspur,Locality_138,Independent House,1,866,140.45,0.16,2007,Unfurnished,15,30,18,8,8,Low,Yes,No,"Pool, Garden, Gym, Clubhouse, Playground",South,Broker,Under_Construction
+175,Gujarat,Surat,Locality_263,Independent House,5,2289,473.24,0.21,2017,Semi-furnished,12,5,8,3,6,Medium,No,Yes,"Garden, Gym",East,Broker,Under_Construction
+176,Punjab,Amritsar,Locality_38,Independent House,4,1659,259.92,0.16,2011,Furnished,13,6,14,9,6,Low,No,Yes,Garden,East,Broker,Under_Construction
+177,Assam,Guwahati,Locality_221,Villa,4,4532,233.76,0.05,2000,Furnished,9,5,25,5,3,Medium,No,No,"Clubhouse, Garden, Pool, Gym, Playground",West,Owner,Ready_to_Move
+178,Uttarakhand,Haridwar,Locality_220,Villa,2,1800,210.85,0.12,2006,Semi-furnished,22,28,19,3,2,Low,Yes,No,"Garden, Gym, Clubhouse, Playground, Pool",North,Owner,Ready_to_Move
+179,Telangana,Hyderabad,Locality_276,Apartment,5,4376,272.95,0.06,2001,Semi-furnished,21,12,24,2,2,Medium,Yes,No,"Gym, Pool",North,Owner,Ready_to_Move
+180,Uttar Pradesh,Lucknow,Locality_451,Apartment,4,2664,278.46,0.1,2005,Unfurnished,26,11,20,7,10,High,No,No,"Clubhouse, Pool, Gym",North,Builder,Ready_to_Move
+181,Chhattisgarh,Bilaspur,Locality_382,Apartment,4,741,499.57,0.67,1992,Semi-furnished,2,15,33,5,6,Medium,Yes,No,"Garden, Pool, Clubhouse, Gym",North,Broker,Under_Construction
+182,Uttar Pradesh,Noida,Locality_12,Independent House,2,1189,222.12,0.19,1990,Semi-furnished,21,6,35,9,3,High,No,Yes,Gym,East,Builder,Ready_to_Move
+183,Kerala,Kochi,Locality_100,Apartment,2,4456,494.15,0.11,2005,Unfurnished,29,16,20,10,4,Low,No,Yes,"Pool, Clubhouse, Garden, Gym",North,Builder,Ready_to_Move
+184,Andhra Pradesh,Vijayawada,Locality_391,Independent House,3,600,498.79,0.83,2016,Semi-furnished,25,15,9,3,7,High,Yes,No,"Clubhouse, Playground, Gym",South,Owner,Under_Construction
+185,Madhya Pradesh,Bhopal,Locality_219,Independent House,1,4158,87.31,0.02,1992,Unfurnished,4,10,33,9,10,Low,No,No,"Clubhouse, Playground, Pool, Garden",West,Builder,Under_Construction
+186,Bihar,Gaya,Locality_337,Apartment,3,4866,280.79,0.06,1994,Semi-furnished,6,1,31,8,9,High,Yes,Yes,"Gym, Playground, Clubhouse, Garden",East,Owner,Under_Construction
+187,Assam,Silchar,Locality_65,Apartment,3,3438,42.64,0.01,2003,Semi-furnished,17,27,22,7,8,High,Yes,No,"Playground, Pool",West,Broker,Ready_to_Move
+188,Bihar,Patna,Locality_112,Independent House,4,1971,413.63,0.21,2012,Semi-furnished,9,10,13,4,3,Low,Yes,No,"Gym, Pool, Clubhouse, Playground",North,Owner,Under_Construction
+189,Tamil Nadu,Coimbatore,Locality_363,Villa,2,4560,105.4,0.02,2021,Furnished,6,10,4,6,2,Low,Yes,Yes,"Garden, Clubhouse, Pool",West,Owner,Under_Construction
+190,Rajasthan,Jodhpur,Locality_476,Independent House,3,1685,343.79,0.2,2020,Furnished,17,21,5,6,9,High,Yes,Yes,"Gym, Pool, Clubhouse, Playground, Garden",South,Owner,Under_Construction
+191,Rajasthan,Jaipur,Locality_99,Villa,4,4467,11.62,0,1992,Furnished,8,6,33,10,5,Low,Yes,Yes,Playground,West,Owner,Under_Construction
+192,Delhi,Dwarka,Locality_100,Villa,2,4106,233.31,0.06,2000,Semi-furnished,8,28,25,1,6,Medium,No,Yes,"Gym, Playground, Pool, Clubhouse, Garden",East,Broker,Under_Construction
+193,Haryana,Gurgaon,Locality_402,Apartment,4,549,63.98,0.12,1995,Furnished,20,15,30,9,3,Low,Yes,No,"Garden, Gym, Playground",West,Broker,Under_Construction
+194,Maharashtra,Nagpur,Locality_220,Independent House,3,2833,147.8,0.05,2019,Unfurnished,12,30,6,10,10,Low,No,No,Gym,East,Builder,Ready_to_Move
+195,Jharkhand,Ranchi,Locality_296,Apartment,2,1419,39.59,0.03,2014,Furnished,23,30,11,7,3,High,No,Yes,"Playground, Gym, Pool, Clubhouse, Garden",East,Owner,Ready_to_Move
+196,Chhattisgarh,Raipur,Locality_182,Villa,2,2220,402.61,0.18,2003,Semi-furnished,2,7,22,5,4,Medium,Yes,Yes,"Gym, Playground, Pool, Garden",North,Owner,Under_Construction
+197,Rajasthan,Jaipur,Locality_210,Villa,1,1123,56.84,0.05,2016,Unfurnished,5,25,9,6,2,Medium,No,Yes,"Playground, Clubhouse, Pool, Gym",East,Builder,Ready_to_Move
+198,Jharkhand,Jamshedpur,Locality_333,Villa,2,1417,291.29,0.21,1994,Furnished,18,21,31,5,5,High,No,No,"Garden, Pool, Playground, Clubhouse, Gym",West,Owner,Ready_to_Move
+199,Rajasthan,Jodhpur,Locality_89,Independent House,1,3283,87.5,0.03,2015,Semi-furnished,15,25,10,1,4,Medium,Yes,No,"Garden, Gym, Playground, Clubhouse, Pool",South,Builder,Under_Construction
+200,Maharashtra,Nagpur,Locality_206,Villa,3,4396,325.98,0.07,2006,Unfurnished,7,8,19,10,4,Low,Yes,No,"Garden, Playground, Pool, Gym, Clubhouse",East,Broker,Under_Construction
+201,Delhi,Dwarka,Locality_283,Villa,1,4830,133.62,0.03,2017,Unfurnished,2,6,8,3,6,Low,No,No,Gym,West,Broker,Ready_to_Move
+202,Karnataka,Mangalore,Locality_160,Villa,4,2710,391.27,0.14,2017,Semi-furnished,14,28,8,6,10,Medium,No,Yes,"Garden, Clubhouse, Gym, Playground, Pool",West,Builder,Ready_to_Move
+203,Rajasthan,Jaipur,Locality_191,Villa,2,1965,271.23,0.14,1998,Unfurnished,23,12,27,7,3,Low,No,No,"Gym, Pool, Garden",West,Builder,Ready_to_Move
+204,Delhi,Dwarka,Locality_450,Independent House,1,3172,496.37,0.16,2023,Semi-furnished,23,16,2,10,6,High,Yes,No,Garden,West,Builder,Ready_to_Move
+205,Karnataka,Mysore,Locality_405,Independent House,5,3351,86.04,0.03,2010,Unfurnished,0,27,15,2,1,Medium,No,Yes,"Gym, Playground, Garden, Pool, Clubhouse",East,Builder,Under_Construction
+206,Haryana,Gurgaon,Locality_67,Villa,1,2819,277.69,0.1,1996,Semi-furnished,8,29,29,5,10,High,No,No,"Gym, Clubhouse",South,Broker,Ready_to_Move
+207,Delhi,New Delhi,Locality_417,Independent House,1,1384,163.26,0.12,1995,Unfurnished,15,24,30,10,3,Low,Yes,No,"Clubhouse, Garden, Pool",West,Broker,Under_Construction
+208,Assam,Silchar,Locality_418,Apartment,3,911,466.06,0.51,2010,Furnished,26,3,15,7,2,Medium,Yes,Yes,Playground,East,Owner,Under_Construction
+209,Rajasthan,Jodhpur,Locality_68,Villa,4,4025,162.67,0.04,2022,Unfurnished,28,11,3,5,5,Low,Yes,No,"Clubhouse, Pool, Gym, Playground, Garden",North,Broker,Ready_to_Move
+210,Punjab,Amritsar,Locality_24,Apartment,1,1066,188.53,0.18,2022,Furnished,18,18,3,5,9,Low,No,No,Pool,North,Owner,Ready_to_Move
+211,Odisha,Cuttack,Locality_164,Independent House,1,3746,89.1,0.02,1999,Furnished,16,20,26,6,1,High,No,Yes,"Garden, Gym, Playground, Pool",West,Broker,Under_Construction
+212,Uttar Pradesh,Lucknow,Locality_18,Apartment,4,3477,154.31,0.04,2011,Semi-furnished,3,24,14,4,9,Low,No,Yes,"Garden, Clubhouse, Playground",East,Broker,Ready_to_Move
+213,Chhattisgarh,Bilaspur,Locality_338,Apartment,1,3466,63.53,0.02,2016,Semi-furnished,10,12,9,6,2,Low,Yes,No,"Clubhouse, Playground",North,Broker,Under_Construction
+214,West Bengal,Durgapur,Locality_49,Villa,1,2597,353.09,0.14,1993,Semi-furnished,29,27,32,9,2,High,Yes,No,"Garden, Pool, Gym, Playground, Clubhouse",South,Broker,Ready_to_Move
+215,Jharkhand,Ranchi,Locality_192,Villa,2,3471,17.01,0,2019,Semi-furnished,20,26,6,9,1,High,No,Yes,"Clubhouse, Garden",West,Owner,Under_Construction
+216,Jharkhand,Ranchi,Locality_261,Independent House,5,1497,337.41,0.23,2000,Unfurnished,26,23,25,5,9,High,No,No,"Gym, Pool",South,Builder,Under_Construction
+217,Odisha,Bhubaneswar,Locality_360,Apartment,1,2555,401.84,0.16,2009,Unfurnished,0,12,16,2,8,High,No,Yes,"Garden, Pool, Gym, Playground",South,Broker,Under_Construction
+218,Rajasthan,Jaipur,Locality_400,Independent House,3,4002,188.75,0.05,2016,Unfurnished,24,19,9,9,4,Medium,No,Yes,"Garden, Clubhouse, Pool, Gym",North,Owner,Ready_to_Move
+219,Odisha,Cuttack,Locality_140,Apartment,2,2136,115.93,0.05,2018,Unfurnished,21,29,7,4,4,Medium,Yes,No,"Pool, Gym, Playground",West,Owner,Ready_to_Move
+220,Telangana,Warangal,Locality_162,Apartment,2,2812,46.72,0.02,2003,Furnished,4,22,22,4,3,Medium,Yes,Yes,Gym,North,Builder,Under_Construction
+221,Uttar Pradesh,Noida,Locality_278,Apartment,5,3880,429.36,0.11,2018,Semi-furnished,19,27,7,6,7,High,Yes,No,Garden,East,Owner,Under_Construction
+222,Tamil Nadu,Chennai,Locality_477,Independent House,5,2412,281.53,0.12,2015,Unfurnished,29,14,10,7,10,Medium,No,Yes,"Gym, Clubhouse",West,Builder,Ready_to_Move
+223,Tamil Nadu,Chennai,Locality_182,Villa,1,4326,392.2,0.09,2001,Unfurnished,15,15,24,4,6,High,No,Yes,"Pool, Gym",South,Broker,Under_Construction
+224,Telangana,Hyderabad,Locality_181,Villa,1,3010,29.24,0.01,2015,Unfurnished,2,20,10,6,5,Medium,Yes,No,"Pool, Playground, Garden, Clubhouse, Gym",East,Builder,Under_Construction
+225,Madhya Pradesh,Bhopal,Locality_243,Independent House,4,4076,36.99,0.01,2021,Unfurnished,7,20,4,10,10,Low,Yes,Yes,"Garden, Clubhouse, Pool, Playground",North,Builder,Ready_to_Move
+226,Telangana,Warangal,Locality_272,Apartment,4,2274,332.11,0.15,2016,Semi-furnished,10,1,9,9,8,Medium,No,No,"Gym, Clubhouse",West,Broker,Ready_to_Move
+227,Telangana,Hyderabad,Locality_259,Apartment,3,2879,31.33,0.01,1998,Unfurnished,27,30,27,2,3,Medium,No,No,"Clubhouse, Pool, Gym, Playground",South,Owner,Ready_to_Move
+228,Bihar,Patna,Locality_414,Apartment,3,3235,354.19,0.11,2010,Semi-furnished,18,26,15,8,8,Low,Yes,No,"Pool, Clubhouse, Garden, Gym, Playground",South,Broker,Ready_to_Move
+229,Karnataka,Mangalore,Locality_88,Villa,5,1982,234.86,0.12,2019,Unfurnished,16,25,6,4,6,Low,No,No,"Gym, Clubhouse, Pool, Garden",East,Broker,Ready_to_Move
+230,Tamil Nadu,Coimbatore,Locality_243,Villa,3,3289,457.11,0.14,2009,Unfurnished,10,29,16,10,6,High,No,Yes,"Garden, Playground",North,Owner,Ready_to_Move
+231,Karnataka,Bangalore,Locality_452,Apartment,1,999,342.81,0.34,2006,Semi-furnished,15,25,19,2,7,Low,Yes,No,"Clubhouse, Garden",West,Broker,Under_Construction
+232,Andhra Pradesh,Vijayawada,Locality_125,Villa,5,1338,269.41,0.2,2000,Unfurnished,6,6,25,10,1,Low,No,No,"Garden, Clubhouse, Gym",East,Owner,Ready_to_Move
+233,Haryana,Faridabad,Locality_21,Villa,3,1319,147.26,0.11,2018,Unfurnished,16,22,7,5,6,Low,Yes,Yes,"Pool, Clubhouse, Gym, Playground",North,Builder,Ready_to_Move
+234,Tamil Nadu,Chennai,Locality_21,Independent House,2,702,107.43,0.15,1990,Semi-furnished,0,3,35,10,7,Low,Yes,No,"Clubhouse, Garden, Gym, Playground, Pool",West,Owner,Ready_to_Move
+235,Rajasthan,Jaipur,Locality_56,Apartment,2,2360,464.41,0.2,1997,Semi-furnished,27,4,28,5,4,Low,Yes,No,"Playground, Clubhouse",East,Broker,Ready_to_Move
+236,Uttar Pradesh,Lucknow,Locality_201,Independent House,1,2608,229.92,0.09,2007,Furnished,10,13,18,10,9,Medium,No,Yes,"Clubhouse, Playground, Garden, Pool, Gym",East,Builder,Ready_to_Move
+237,Uttar Pradesh,Noida,Locality_224,Independent House,5,2125,177.3,0.08,2001,Furnished,8,16,24,5,3,Low,No,No,"Garden, Playground, Gym, Clubhouse",West,Broker,Under_Construction
+238,Chhattisgarh,Raipur,Locality_223,Apartment,1,4058,186.02,0.05,2003,Furnished,28,26,22,7,10,Low,Yes,Yes,"Pool, Clubhouse, Garden, Gym, Playground",South,Owner,Ready_to_Move
+239,Bihar,Gaya,Locality_162,Apartment,2,3376,51.83,0.02,1993,Semi-furnished,12,21,32,1,1,Low,Yes,Yes,"Gym, Clubhouse, Garden, Playground, Pool",West,Broker,Under_Construction
+240,West Bengal,Durgapur,Locality_234,Independent House,3,4561,141.04,0.03,2014,Semi-furnished,19,3,11,10,10,Medium,No,Yes,"Playground, Clubhouse, Gym, Garden",East,Broker,Under_Construction
+241,Telangana,Hyderabad,Locality_213,Apartment,4,2597,300.43,0.12,2000,Furnished,24,7,25,10,10,Medium,No,No,"Clubhouse, Garden, Playground",South,Broker,Ready_to_Move
+242,Gujarat,Ahmedabad,Locality_489,Independent House,1,1224,102.77,0.08,2004,Unfurnished,18,29,21,9,1,High,Yes,No,Clubhouse,West,Broker,Ready_to_Move
+243,Punjab,Amritsar,Locality_458,Independent House,3,3925,229.96,0.06,1991,Semi-furnished,22,3,34,3,10,Low,No,Yes,"Garden, Gym, Playground",East,Owner,Ready_to_Move
+244,Bihar,Patna,Locality_90,Apartment,1,1066,383.37,0.36,1992,Unfurnished,6,21,33,3,10,High,No,Yes,"Gym, Clubhouse, Playground, Garden",South,Broker,Under_Construction
+245,Rajasthan,Jaipur,Locality_89,Independent House,2,3263,465.12,0.14,2016,Furnished,11,2,9,2,2,Low,No,No,"Pool, Playground, Clubhouse, Garden",East,Broker,Ready_to_Move
+246,Delhi,Dwarka,Locality_208,Apartment,2,3771,99.52,0.03,2021,Unfurnished,22,8,4,2,9,Medium,Yes,No,"Clubhouse, Garden, Pool, Playground, Gym",North,Owner,Under_Construction
+247,Bihar,Gaya,Locality_385,Villa,4,4258,214.46,0.05,1993,Unfurnished,19,12,32,6,2,Medium,No,Yes,"Pool, Playground, Gym",North,Broker,Under_Construction
+248,Chhattisgarh,Raipur,Locality_256,Independent House,3,3090,311.76,0.1,1997,Furnished,21,11,28,3,2,Medium,Yes,No,"Garden, Pool",South,Owner,Ready_to_Move
+249,Tamil Nadu,Chennai,Locality_182,Independent House,4,4994,468.83,0.09,2018,Furnished,19,23,7,4,9,Medium,Yes,No,"Clubhouse, Garden",South,Builder,Under_Construction
+250,Karnataka,Bangalore,Locality_89,Independent House,2,1022,68.09,0.07,2009,Furnished,17,9,16,4,3,Low,Yes,No,"Gym, Clubhouse, Pool",South,Owner,Under_Construction
+251,Chhattisgarh,Raipur,Locality_358,Apartment,2,3384,42.02,0.01,2019,Semi-furnished,30,26,6,10,2,Low,No,No,"Clubhouse, Gym, Garden, Pool",West,Builder,Ready_to_Move
+252,Maharashtra,Pune,Locality_173,Apartment,2,1282,361.94,0.28,2003,Furnished,18,24,22,10,1,Low,Yes,No,"Gym, Pool, Playground, Garden",North,Owner,Under_Construction
+253,Delhi,Dwarka,Locality_418,Apartment,2,3425,208.09,0.06,1991,Unfurnished,26,7,34,4,6,Low,Yes,No,Clubhouse,South,Broker,Ready_to_Move
+254,Rajasthan,Jodhpur,Locality_431,Villa,3,3712,84.81,0.02,2018,Semi-furnished,0,20,7,1,9,Low,Yes,Yes,"Gym, Playground",West,Builder,Ready_to_Move
+255,Gujarat,Surat,Locality_34,Apartment,2,676,216.1,0.32,1999,Unfurnished,23,15,26,10,1,Low,Yes,No,"Pool, Clubhouse",East,Builder,Under_Construction
+256,Telangana,Hyderabad,Locality_222,Apartment,2,4021,292.75,0.07,1997,Unfurnished,20,8,28,9,8,High,Yes,No,"Clubhouse, Garden, Gym",West,Broker,Under_Construction
+257,Odisha,Bhubaneswar,Locality_218,Apartment,5,4606,422.83,0.09,2021,Unfurnished,5,11,4,5,3,High,Yes,Yes,Playground,West,Owner,Ready_to_Move
+258,Odisha,Bhubaneswar,Locality_248,Independent House,1,2355,94.46,0.04,2010,Furnished,11,1,15,6,5,Low,No,No,"Pool, Garden, Gym, Clubhouse, Playground",West,Owner,Ready_to_Move
+259,Uttar Pradesh,Lucknow,Locality_188,Villa,5,4969,321.24,0.06,2006,Unfurnished,13,15,19,4,5,High,Yes,No,"Pool, Gym, Clubhouse",West,Owner,Ready_to_Move
+260,Andhra Pradesh,Vijayawada,Locality_377,Apartment,1,2060,102.17,0.05,2013,Unfurnished,2,11,12,5,4,Medium,Yes,Yes,"Pool, Garden, Gym, Clubhouse, Playground",East,Broker,Under_Construction
+261,Karnataka,Mangalore,Locality_120,Villa,4,4916,343.05,0.07,2019,Furnished,19,27,6,5,2,Low,Yes,Yes,"Playground, Gym, Pool, Garden",East,Owner,Ready_to_Move
+262,Gujarat,Ahmedabad,Locality_274,Apartment,4,1161,325.26,0.28,2015,Semi-furnished,30,14,10,1,7,Medium,Yes,Yes,"Pool, Garden, Gym",East,Broker,Under_Construction
+263,Andhra Pradesh,Vijayawada,Locality_152,Independent House,2,638,290.65,0.46,2008,Unfurnished,16,17,17,10,7,High,No,Yes,"Clubhouse, Playground",North,Broker,Under_Construction
+264,Maharashtra,Pune,Locality_85,Independent House,4,973,307.14,0.32,2008,Furnished,3,13,17,3,9,Low,Yes,No,"Playground, Gym, Pool",North,Owner,Ready_to_Move
+265,Andhra Pradesh,Vijayawada,Locality_142,Apartment,3,1985,147.04,0.07,2004,Furnished,30,24,21,3,5,High,Yes,Yes,"Playground, Pool, Gym, Garden",East,Broker,Under_Construction
+266,Punjab,Ludhiana,Locality_291,Villa,5,1337,309.04,0.23,2003,Semi-furnished,25,3,22,5,10,Medium,Yes,Yes,"Clubhouse, Garden, Pool, Playground, Gym",South,Broker,Ready_to_Move
+267,Bihar,Patna,Locality_209,Villa,4,4328,462.7,0.11,1996,Unfurnished,13,24,29,2,2,High,No,No,"Clubhouse, Playground",West,Broker,Under_Construction
+268,Kerala,Kochi,Locality_190,Villa,3,1718,152.79,0.09,2020,Unfurnished,29,10,5,3,4,Low,Yes,No,"Gym, Pool, Playground, Clubhouse",South,Owner,Ready_to_Move
+269,Telangana,Hyderabad,Locality_168,Apartment,4,4975,266.04,0.05,1991,Furnished,6,8,34,6,1,High,Yes,No,"Clubhouse, Pool, Gym",West,Builder,Under_Construction
+270,Chhattisgarh,Bilaspur,Locality_368,Independent House,1,1844,193.13,0.1,2007,Furnished,30,11,18,3,7,High,No,Yes,"Garden, Pool, Clubhouse, Playground",West,Owner,Under_Construction
+271,Odisha,Cuttack,Locality_445,Apartment,3,2962,134.83,0.05,2005,Unfurnished,27,9,20,9,1,High,Yes,No,"Gym, Pool, Clubhouse, Garden",West,Broker,Ready_to_Move
+272,West Bengal,Durgapur,Locality_35,Independent House,3,2485,218.08,0.09,2002,Semi-furnished,8,1,23,5,9,High,No,No,"Clubhouse, Gym, Playground",South,Owner,Ready_to_Move
+273,Uttar Pradesh,Lucknow,Locality_166,Independent House,1,4497,21.01,0,2012,Semi-furnished,17,17,13,7,6,High,No,No,"Pool, Clubhouse, Garden, Playground",East,Owner,Ready_to_Move
+274,Kerala,Trivandrum,Locality_305,Independent House,2,846,135.73,0.16,2015,Unfurnished,28,13,10,5,8,Low,Yes,No,"Playground, Pool, Garden, Gym",East,Builder,Ready_to_Move
+275,Uttar Pradesh,Lucknow,Locality_225,Independent House,3,2017,207.36,0.1,2016,Furnished,2,22,9,3,10,Low,Yes,Yes,"Garden, Clubhouse, Playground",South,Builder,Under_Construction
+276,Karnataka,Bangalore,Locality_21,Independent House,4,4668,337.41,0.07,2006,Semi-furnished,8,16,19,5,2,High,Yes,Yes,"Playground, Clubhouse, Pool",West,Owner,Ready_to_Move
+277,Jharkhand,Ranchi,Locality_232,Apartment,5,734,165.8,0.23,2020,Furnished,23,18,5,10,9,Low,Yes,No,"Clubhouse, Pool, Garden, Playground",East,Builder,Under_Construction
+278,Chhattisgarh,Raipur,Locality_96,Villa,5,4946,440.57,0.09,2008,Furnished,14,20,17,8,3,Low,No,No,"Clubhouse, Gym, Playground, Garden, Pool",South,Broker,Under_Construction
+279,Karnataka,Mysore,Locality_397,Villa,2,3123,268.97,0.09,2008,Furnished,1,22,17,6,1,High,No,No,"Garden, Gym",West,Broker,Ready_to_Move
+280,Haryana,Gurgaon,Locality_173,Apartment,1,4140,200.24,0.05,2008,Semi-furnished,14,26,17,3,6,Low,No,Yes,"Clubhouse, Playground, Garden",East,Broker,Under_Construction
+281,Karnataka,Mangalore,Locality_150,Independent House,5,4575,477.33,0.1,2020,Unfurnished,8,15,5,2,2,Low,No,No,"Gym, Pool, Garden, Clubhouse",North,Builder,Under_Construction
+282,Karnataka,Bangalore,Locality_26,Apartment,3,4562,100.33,0.02,2019,Semi-furnished,7,20,6,5,2,Low,No,No,"Playground, Gym, Garden, Pool",South,Broker,Under_Construction
+283,Jharkhand,Ranchi,Locality_274,Apartment,4,2380,154.67,0.06,2011,Furnished,30,1,14,7,10,High,Yes,No,"Gym, Pool",South,Builder,Under_Construction
+284,Odisha,Bhubaneswar,Locality_301,Villa,1,3575,144.08,0.04,2023,Unfurnished,10,22,2,8,1,Medium,No,No,"Clubhouse, Gym, Playground, Pool",West,Owner,Ready_to_Move
+285,Assam,Guwahati,Locality_241,Apartment,1,1383,208.74,0.15,1991,Semi-furnished,10,1,34,9,5,Medium,No,Yes,"Clubhouse, Playground, Garden",North,Broker,Ready_to_Move
+286,Assam,Silchar,Locality_96,Villa,4,1831,266.41,0.15,2016,Furnished,13,22,9,8,9,Medium,Yes,Yes,"Pool, Clubhouse",East,Broker,Ready_to_Move
+287,Gujarat,Ahmedabad,Locality_358,Independent House,5,3536,33.76,0.01,1991,Unfurnished,28,14,34,3,7,Low,Yes,Yes,Clubhouse,West,Builder,Ready_to_Move
+288,Karnataka,Bangalore,Locality_158,Villa,4,3519,117.88,0.03,2018,Furnished,4,15,7,10,9,Low,Yes,Yes,"Gym, Clubhouse",North,Broker,Ready_to_Move
+289,Assam,Silchar,Locality_125,Independent House,3,3134,302.44,0.1,2018,Semi-furnished,13,7,7,6,7,Low,Yes,No,Playground,East,Owner,Ready_to_Move
+290,Delhi,Dwarka,Locality_398,Villa,4,4744,238.36,0.05,1991,Unfurnished,17,3,34,5,9,Medium,Yes,Yes,"Garden, Gym, Playground, Pool, Clubhouse",West,Builder,Under_Construction
+291,Gujarat,Ahmedabad,Locality_462,Apartment,1,1460,359.62,0.25,1995,Furnished,29,9,30,5,2,Low,Yes,Yes,"Gym, Clubhouse, Pool",North,Owner,Ready_to_Move
+292,Delhi,New Delhi,Locality_320,Independent House,4,4198,61.51,0.01,1999,Semi-furnished,26,19,26,3,10,High,Yes,Yes,"Garden, Clubhouse, Playground, Gym, Pool",West,Broker,Under_Construction
+293,Uttarakhand,Dehradun,Locality_88,Independent House,1,4451,181.13,0.04,1995,Semi-furnished,29,30,30,8,5,Low,Yes,Yes,"Clubhouse, Garden",North,Builder,Ready_to_Move
+294,Delhi,Dwarka,Locality_239,Villa,2,4172,379.08,0.09,2020,Semi-furnished,13,11,5,10,4,High,Yes,No,"Playground, Garden",East,Broker,Under_Construction
+295,Rajasthan,Jaipur,Locality_447,Independent House,4,2053,34.07,0.02,1997,Unfurnished,3,15,28,5,2,Medium,No,No,"Pool, Garden",West,Broker,Ready_to_Move
+296,Andhra Pradesh,Vijayawada,Locality_473,Apartment,3,3412,74.94,0.02,1995,Semi-furnished,27,13,30,8,8,Medium,Yes,No,"Playground, Gym, Pool, Clubhouse, Garden",South,Builder,Ready_to_Move
+297,Tamil Nadu,Chennai,Locality_128,Independent House,1,2214,315.94,0.14,2018,Semi-furnished,22,11,7,5,6,Low,Yes,Yes,"Pool, Gym, Clubhouse, Playground, Garden",North,Builder,Ready_to_Move
+298,Jharkhand,Ranchi,Locality_175,Villa,3,1165,379.04,0.33,2004,Furnished,7,11,21,3,3,High,No,Yes,"Playground, Gym",South,Builder,Under_Construction
+299,Rajasthan,Jaipur,Locality_281,Apartment,3,764,405.39,0.53,2004,Furnished,27,22,21,6,1,Medium,Yes,No,"Clubhouse, Gym, Playground, Garden",North,Builder,Ready_to_Move
+300,Jharkhand,Jamshedpur,Locality_190,Apartment,4,4098,478.95,0.12,2013,Furnished,4,1,12,7,8,Medium,Yes,Yes,"Playground, Gym, Clubhouse, Pool, Garden",East,Broker,Under_Construction
+301,Uttarakhand,Haridwar,Locality_390,Apartment,1,939,407.29,0.43,2005,Furnished,7,28,20,7,1,Low,No,Yes,"Gym, Pool, Garden, Clubhouse",South,Owner,Under_Construction
+302,Karnataka,Mangalore,Locality_455,Villa,4,999,80.69,0.08,2003,Unfurnished,2,21,22,6,10,Low,Yes,Yes,"Playground, Clubhouse, Gym",East,Owner,Under_Construction
+303,Uttarakhand,Dehradun,Locality_461,Apartment,1,2523,453.23,0.18,1995,Semi-furnished,7,5,30,4,5,Low,No,No,"Pool, Clubhouse",East,Broker,Ready_to_Move
+304,Delhi,Dwarka,Locality_141,Villa,2,3283,265.39,0.08,2008,Semi-furnished,16,4,17,4,10,Medium,Yes,No,"Gym, Garden, Clubhouse, Pool",West,Broker,Ready_to_Move
+305,Telangana,Warangal,Locality_103,Independent House,1,4286,301.88,0.07,2005,Semi-furnished,19,25,20,3,5,High,No,No,"Gym, Garden, Playground",East,Broker,Ready_to_Move
+306,Jharkhand,Jamshedpur,Locality_382,Villa,3,2482,409.13,0.16,2020,Furnished,15,27,5,5,9,High,Yes,Yes,"Gym, Pool, Garden, Playground",North,Broker,Under_Construction
+307,Jharkhand,Jamshedpur,Locality_135,Independent House,1,1198,412.54,0.34,2011,Unfurnished,11,16,14,10,6,Medium,No,Yes,"Gym, Playground, Garden, Clubhouse",South,Owner,Under_Construction
+308,Assam,Silchar,Locality_134,Independent House,3,531,267.51,0.5,1998,Furnished,25,16,27,9,9,High,No,Yes,Clubhouse,South,Owner,Ready_to_Move
+309,Haryana,Faridabad,Locality_266,Villa,3,3745,383.88,0.1,2008,Unfurnished,30,26,17,1,6,High,Yes,Yes,"Garden, Pool",North,Builder,Ready_to_Move
+310,Punjab,Ludhiana,Locality_488,Independent House,4,1560,221.12,0.14,2021,Unfurnished,16,19,4,10,3,Low,No,No,"Playground, Gym, Clubhouse",East,Builder,Ready_to_Move
+311,Uttar Pradesh,Noida,Locality_393,Villa,2,1478,150.8,0.1,2007,Unfurnished,17,16,18,1,4,High,Yes,No,"Pool, Clubhouse, Garden, Gym",West,Builder,Ready_to_Move
+312,Haryana,Faridabad,Locality_77,Villa,4,2678,179.65,0.07,2011,Furnished,5,22,14,10,6,Low,Yes,No,"Playground, Clubhouse, Pool, Garden, Gym",East,Owner,Ready_to_Move
+313,Rajasthan,Jodhpur,Locality_152,Villa,5,3435,155.37,0.05,2014,Semi-furnished,27,30,11,3,3,Low,No,Yes,"Pool, Playground",West,Owner,Ready_to_Move
+314,Punjab,Ludhiana,Locality_484,Independent House,5,2537,433.49,0.17,1998,Unfurnished,13,5,27,9,4,High,No,No,Gym,South,Owner,Ready_to_Move
+315,Andhra Pradesh,Vishakhapatnam,Locality_283,Independent House,1,3595,391,0.11,1999,Unfurnished,3,28,26,5,2,Low,Yes,Yes,"Playground, Clubhouse, Gym",South,Builder,Ready_to_Move
+316,West Bengal,Durgapur,Locality_337,Villa,3,1051,34.7,0.03,2023,Unfurnished,18,26,2,10,5,Low,No,Yes,Pool,East,Owner,Under_Construction
+317,Kerala,Kochi,Locality_332,Apartment,1,3650,349.92,0.1,2001,Unfurnished,10,14,24,3,8,High,No,Yes,"Playground, Garden",West,Owner,Under_Construction
+318,Bihar,Gaya,Locality_278,Independent House,5,4075,301.18,0.07,2003,Unfurnished,5,17,22,5,6,Low,Yes,Yes,"Pool, Garden, Gym, Clubhouse, Playground",North,Builder,Ready_to_Move
+319,Haryana,Faridabad,Locality_81,Independent House,5,883,354.53,0.4,2021,Unfurnished,9,1,4,3,10,Medium,Yes,No,"Garden, Pool, Gym, Playground",West,Owner,Under_Construction
+320,Delhi,New Delhi,Locality_351,Apartment,4,1864,45.58,0.02,1998,Unfurnished,4,23,27,6,9,High,Yes,No,"Playground, Gym, Clubhouse, Garden, Pool",East,Broker,Ready_to_Move
+321,Maharashtra,Nagpur,Locality_41,Apartment,3,2773,31.28,0.01,1991,Unfurnished,10,30,34,8,1,Low,No,Yes,"Clubhouse, Pool",South,Owner,Under_Construction
+322,Bihar,Patna,Locality_423,Independent House,2,4302,435.59,0.1,2008,Unfurnished,11,14,17,10,9,Low,Yes,No,"Playground, Pool, Clubhouse, Gym, Garden",East,Broker,Ready_to_Move
+323,Uttarakhand,Haridwar,Locality_330,Independent House,3,1799,306.39,0.17,2006,Furnished,6,11,19,4,1,Low,No,No,Garden,North,Builder,Ready_to_Move
+324,Jharkhand,Ranchi,Locality_4,Villa,2,3182,439.69,0.14,2003,Semi-furnished,27,3,22,6,5,High,Yes,No,"Gym, Pool",West,Builder,Under_Construction
+325,Tamil Nadu,Coimbatore,Locality_404,Villa,4,3362,26.23,0.01,2006,Unfurnished,10,22,19,8,3,Medium,No,No,"Clubhouse, Gym, Garden, Playground",North,Owner,Under_Construction
+326,Delhi,Dwarka,Locality_249,Villa,5,3677,278.64,0.08,2018,Furnished,28,12,7,7,9,High,Yes,Yes,"Playground, Gym, Clubhouse, Garden",North,Owner,Ready_to_Move
+327,Chhattisgarh,Raipur,Locality_350,Independent House,1,1563,198.42,0.13,2015,Furnished,9,16,10,4,7,Low,No,No,"Gym, Playground, Garden, Pool, Clubhouse",East,Broker,Under_Construction
+328,Uttar Pradesh,Noida,Locality_350,Apartment,2,1619,312.34,0.19,1992,Furnished,0,14,33,6,7,Medium,No,Yes,"Pool, Clubhouse",South,Broker,Under_Construction
+329,Assam,Silchar,Locality_177,Independent House,1,887,423.57,0.48,2011,Semi-furnished,7,1,14,3,8,Medium,No,No,"Gym, Playground, Clubhouse",East,Broker,Under_Construction
+330,Punjab,Amritsar,Locality_40,Villa,3,2538,307.69,0.12,2008,Semi-furnished,27,19,17,10,2,High,No,No,"Garden, Gym",North,Owner,Ready_to_Move
+331,West Bengal,Durgapur,Locality_489,Villa,4,2987,384.28,0.13,2003,Furnished,10,12,22,9,7,High,No,Yes,"Clubhouse, Garden, Playground",North,Owner,Under_Construction
+332,Madhya Pradesh,Indore,Locality_225,Villa,1,2251,421.33,0.19,1994,Furnished,10,5,31,9,2,Low,Yes,Yes,"Playground, Garden",East,Broker,Ready_to_Move
+333,Delhi,Dwarka,Locality_392,Villa,2,4335,65.48,0.02,2003,Furnished,13,8,22,5,10,High,No,Yes,"Gym, Garden",West,Broker,Under_Construction
+334,Rajasthan,Jodhpur,Locality_374,Villa,5,813,434.79,0.53,2021,Unfurnished,4,17,4,6,8,Low,Yes,No,Garden,West,Broker,Ready_to_Move
+335,Madhya Pradesh,Bhopal,Locality_43,Villa,4,4803,421.32,0.09,1992,Unfurnished,20,17,33,8,9,Low,Yes,No,"Clubhouse, Pool, Garden, Playground, Gym",South,Builder,Under_Construction
+336,Kerala,Kochi,Locality_17,Independent House,2,2028,174.15,0.09,1992,Furnished,11,10,33,3,7,High,Yes,Yes,"Gym, Garden, Playground",East,Broker,Ready_to_Move
+337,Gujarat,Ahmedabad,Locality_464,Independent House,2,1043,321.37,0.31,2020,Semi-furnished,25,13,5,3,1,Low,No,No,Gym,South,Broker,Under_Construction
+338,Bihar,Patna,Locality_43,Independent House,2,654,207.15,0.32,1999,Furnished,19,4,26,8,10,High,No,Yes,"Garden, Pool, Gym, Clubhouse",North,Builder,Ready_to_Move
+339,Chhattisgarh,Bilaspur,Locality_13,Villa,3,645,217.57,0.34,1991,Semi-furnished,9,1,34,6,1,Medium,No,No,Playground,North,Owner,Under_Construction
+340,Kerala,Kochi,Locality_5,Apartment,3,4770,92.56,0.02,2016,Furnished,12,9,9,4,5,Low,No,No,"Garden, Playground, Pool",East,Builder,Ready_to_Move
+341,Uttarakhand,Haridwar,Locality_148,Villa,5,3885,128.59,0.03,2023,Furnished,10,18,2,8,8,High,Yes,Yes,"Gym, Garden, Clubhouse, Playground, Pool",West,Owner,Under_Construction
+342,Assam,Guwahati,Locality_59,Independent House,1,4462,423.74,0.09,2021,Unfurnished,12,16,4,4,8,Low,Yes,Yes,"Playground, Pool, Gym, Clubhouse, Garden",South,Owner,Ready_to_Move
+343,Maharashtra,Pune,Locality_206,Apartment,4,4066,20.58,0.01,2019,Furnished,7,20,6,10,8,Low,No,Yes,"Clubhouse, Gym, Garden",East,Owner,Ready_to_Move
+344,Chhattisgarh,Raipur,Locality_399,Villa,1,3822,227.25,0.06,2018,Unfurnished,27,10,7,4,5,High,No,No,"Garden, Gym, Clubhouse",West,Builder,Ready_to_Move
+345,Kerala,Kochi,Locality_159,Independent House,1,2583,455.24,0.18,1990,Unfurnished,24,10,35,5,5,Low,No,Yes,"Clubhouse, Garden, Playground",East,Broker,Ready_to_Move
+346,Tamil Nadu,Coimbatore,Locality_379,Villa,2,2331,104.02,0.04,2017,Semi-furnished,12,1,8,2,3,Medium,Yes,No,"Gym, Garden, Clubhouse, Pool",South,Builder,Ready_to_Move
+347,West Bengal,Kolkata,Locality_293,Independent House,1,3288,411.4,0.13,2016,Furnished,24,20,9,9,8,High,No,No,"Gym, Pool",West,Builder,Under_Construction
+348,Punjab,Ludhiana,Locality_464,Independent House,1,2216,220.38,0.1,2017,Furnished,4,25,8,8,4,Medium,No,No,"Pool, Garden",East,Owner,Under_Construction
+349,Tamil Nadu,Coimbatore,Locality_488,Apartment,1,3085,69.86,0.02,2016,Semi-furnished,12,6,9,4,4,High,Yes,Yes,"Gym, Pool, Garden, Clubhouse, Playground",North,Broker,Ready_to_Move
+350,Tamil Nadu,Chennai,Locality_125,Villa,1,1066,345.96,0.32,2015,Unfurnished,27,15,10,4,1,High,No,No,"Pool, Clubhouse",North,Owner,Under_Construction
+351,Chhattisgarh,Raipur,Locality_241,Independent House,1,3700,488.83,0.13,2017,Unfurnished,30,22,8,1,7,Low,Yes,Yes,"Pool, Gym, Playground, Garden",East,Owner,Under_Construction
+352,West Bengal,Kolkata,Locality_149,Villa,3,1980,312.49,0.16,2014,Furnished,17,13,11,3,6,Low,No,Yes,"Garden, Gym, Clubhouse",North,Owner,Ready_to_Move
+353,Punjab,Amritsar,Locality_157,Apartment,3,2014,371.17,0.18,2007,Semi-furnished,1,19,18,10,6,Low,No,No,Playground,South,Broker,Ready_to_Move
+354,Kerala,Trivandrum,Locality_270,Villa,5,2913,447.68,0.15,2008,Semi-furnished,25,14,17,1,1,Low,Yes,No,"Playground, Pool, Clubhouse, Gym",North,Broker,Under_Construction
+355,Uttarakhand,Haridwar,Locality_153,Apartment,2,3354,49.45,0.01,2017,Semi-furnished,20,1,8,4,7,Medium,No,Yes,"Gym, Pool, Garden, Clubhouse",North,Builder,Ready_to_Move
+356,Uttar Pradesh,Lucknow,Locality_391,Villa,1,3916,394.83,0.1,1998,Furnished,12,28,27,6,7,Low,No,Yes,"Playground, Gym, Pool, Garden",North,Builder,Under_Construction
+357,Haryana,Gurgaon,Locality_42,Apartment,3,3498,12.8,0,2000,Unfurnished,5,30,25,5,3,Medium,No,Yes,Garden,West,Owner,Under_Construction
+358,Uttar Pradesh,Noida,Locality_196,Independent House,1,1270,344.77,0.27,2017,Furnished,12,26,8,8,1,Low,Yes,No,"Playground, Gym, Garden, Pool, Clubhouse",South,Broker,Under_Construction
+359,Punjab,Amritsar,Locality_96,Apartment,2,2916,309.77,0.11,1993,Unfurnished,17,22,32,2,6,Low,Yes,Yes,Clubhouse,West,Owner,Ready_to_Move
+360,Assam,Guwahati,Locality_37,Villa,3,1586,367.74,0.23,2003,Unfurnished,9,29,22,3,6,Medium,Yes,No,"Playground, Clubhouse, Garden, Gym, Pool",South,Owner,Under_Construction
+361,Odisha,Cuttack,Locality_304,Villa,4,2151,229.93,0.11,2015,Unfurnished,2,24,10,5,7,Low,Yes,No,"Pool, Gym",East,Owner,Ready_to_Move
+362,Punjab,Amritsar,Locality_110,Independent House,1,3585,40.98,0.01,1995,Furnished,5,7,30,7,3,High,Yes,No,"Garden, Playground",North,Builder,Ready_to_Move
+363,Karnataka,Mysore,Locality_440,Apartment,3,1216,325.69,0.27,2002,Semi-furnished,20,12,23,1,4,Medium,Yes,No,"Pool, Gym, Clubhouse, Garden",East,Owner,Ready_to_Move
+364,Delhi,Dwarka,Locality_171,Villa,1,3249,71.04,0.02,2012,Semi-furnished,2,16,13,1,3,Low,Yes,Yes,"Garden, Playground, Pool, Gym, Clubhouse",South,Owner,Ready_to_Move
+365,Telangana,Warangal,Locality_409,Independent House,1,1736,483.5,0.28,1992,Semi-furnished,1,19,33,6,4,Medium,No,No,"Playground, Garden",South,Builder,Under_Construction
+366,Punjab,Amritsar,Locality_191,Villa,2,2752,272.14,0.1,1994,Furnished,9,8,31,8,10,High,No,No,"Gym, Pool, Clubhouse, Garden, Playground",East,Builder,Ready_to_Move
+367,Karnataka,Bangalore,Locality_333,Independent House,1,4304,248.76,0.06,1992,Furnished,28,22,33,1,7,Medium,Yes,No,"Playground, Garden",South,Owner,Under_Construction
+368,Maharashtra,Nagpur,Locality_446,Villa,1,4333,343.42,0.08,1996,Semi-furnished,3,3,29,1,1,High,No,Yes,"Gym, Garden, Playground, Clubhouse",West,Owner,Under_Construction
+369,Haryana,Gurgaon,Locality_437,Apartment,3,515,110.93,0.22,2008,Unfurnished,29,14,17,4,9,High,No,No,"Playground, Pool",North,Owner,Ready_to_Move
+370,West Bengal,Kolkata,Locality_18,Villa,4,3265,246.01,0.08,1999,Semi-furnished,3,27,26,6,7,High,No,No,"Gym, Garden",North,Owner,Ready_to_Move
+371,Punjab,Amritsar,Locality_423,Independent House,3,4838,493.61,0.1,1991,Furnished,29,27,34,6,8,Medium,No,Yes,"Garden, Playground, Gym, Clubhouse",West,Owner,Ready_to_Move
+372,Gujarat,Ahmedabad,Locality_232,Apartment,2,1746,80.97,0.05,2010,Semi-furnished,0,23,15,7,3,Medium,No,Yes,"Pool, Playground, Gym, Clubhouse",West,Broker,Ready_to_Move
+373,Bihar,Patna,Locality_174,Independent House,5,2283,497.6,0.22,2021,Semi-furnished,18,3,4,5,4,High,Yes,Yes,"Playground, Gym, Pool",South,Broker,Under_Construction
+374,Chhattisgarh,Raipur,Locality_319,Independent House,3,585,135.57,0.23,2020,Semi-furnished,8,7,5,5,7,High,Yes,No,"Garden, Pool, Gym",East,Owner,Under_Construction
+375,Telangana,Warangal,Locality_108,Villa,4,4185,229.19,0.05,1994,Semi-furnished,29,14,31,9,2,High,Yes,Yes,"Clubhouse, Playground",East,Builder,Ready_to_Move
+376,Chhattisgarh,Raipur,Locality_359,Villa,4,3983,36.09,0.01,2018,Unfurnished,27,6,7,6,9,High,No,Yes,"Gym, Garden, Clubhouse, Playground",East,Broker,Under_Construction
+377,Maharashtra,Mumbai,Locality_132,Villa,5,1144,372.99,0.33,2003,Unfurnished,20,9,22,6,2,High,No,No,"Pool, Gym, Playground, Garden",South,Broker,Ready_to_Move
+378,Tamil Nadu,Coimbatore,Locality_184,Apartment,5,2267,224.63,0.1,1995,Unfurnished,14,21,30,9,8,Medium,Yes,Yes,Playground,East,Builder,Ready_to_Move
+379,Delhi,New Delhi,Locality_498,Apartment,3,3011,368.71,0.12,2023,Unfurnished,13,7,2,9,7,Low,No,No,"Garden, Playground, Pool, Clubhouse, Gym",North,Broker,Ready_to_Move
+380,West Bengal,Durgapur,Locality_266,Villa,2,917,404.74,0.44,1997,Unfurnished,30,12,28,10,9,High,No,No,Playground,North,Owner,Under_Construction
+381,Chhattisgarh,Raipur,Locality_16,Independent House,3,3087,337.53,0.11,1999,Furnished,16,19,26,6,6,Low,No,No,Pool,East,Owner,Under_Construction
+382,Karnataka,Mangalore,Locality_30,Independent House,1,2125,260.61,0.12,2004,Unfurnished,25,14,21,7,2,Low,Yes,Yes,"Pool, Clubhouse, Gym, Garden",South,Owner,Ready_to_Move
+383,Madhya Pradesh,Indore,Locality_183,Independent House,2,3964,470.39,0.12,2014,Unfurnished,20,16,11,7,4,Low,Yes,No,"Pool, Garden, Playground, Clubhouse",South,Owner,Under_Construction
+384,Jharkhand,Ranchi,Locality_183,Independent House,5,3251,201.54,0.06,1993,Furnished,6,28,32,1,3,High,No,Yes,Garden,West,Broker,Under_Construction
+385,Chhattisgarh,Raipur,Locality_288,Villa,4,2975,134.19,0.05,1994,Semi-furnished,15,10,31,2,8,Medium,Yes,No,"Pool, Playground",South,Broker,Ready_to_Move
+386,West Bengal,Durgapur,Locality_437,Villa,3,4084,398.9,0.1,1997,Furnished,28,27,28,5,3,High,No,No,"Clubhouse, Gym, Garden, Playground, Pool",North,Broker,Ready_to_Move
+387,Telangana,Hyderabad,Locality_83,Independent House,2,1381,353.92,0.26,2020,Furnished,16,10,5,6,2,Low,No,No,"Garden, Pool, Gym",South,Owner,Ready_to_Move
+388,West Bengal,Durgapur,Locality_304,Villa,2,4775,18.34,0,2013,Semi-furnished,0,2,12,4,2,Medium,Yes,Yes,"Clubhouse, Gym",West,Builder,Ready_to_Move
+389,Karnataka,Mysore,Locality_382,Independent House,3,4955,249.58,0.05,1991,Unfurnished,0,24,34,1,9,High,No,Yes,"Garden, Clubhouse",West,Owner,Under_Construction
+390,Kerala,Kochi,Locality_129,Apartment,3,3332,453.76,0.14,2000,Unfurnished,15,14,25,3,8,Low,No,Yes,"Garden, Clubhouse, Playground, Gym, Pool",North,Owner,Under_Construction
+391,Madhya Pradesh,Indore,Locality_130,Villa,1,3967,325.06,0.08,2023,Furnished,28,27,2,1,1,High,No,No,Gym,North,Broker,Ready_to_Move
+392,Karnataka,Mangalore,Locality_392,Apartment,5,4337,153.29,0.04,2012,Unfurnished,2,29,13,2,10,Low,No,No,Playground,South,Broker,Under_Construction
+393,Madhya Pradesh,Bhopal,Locality_265,Independent House,5,4108,117.1,0.03,2015,Unfurnished,1,13,10,9,4,Low,No,Yes,Gym,South,Broker,Ready_to_Move
+394,Uttar Pradesh,Lucknow,Locality_55,Villa,5,3850,415.23,0.11,2006,Semi-furnished,24,14,19,7,4,Medium,Yes,Yes,"Garden, Gym, Clubhouse",East,Broker,Ready_to_Move
+395,Rajasthan,Jodhpur,Locality_108,Independent House,5,3511,313.44,0.09,1996,Furnished,16,24,29,7,4,Low,Yes,No,"Clubhouse, Garden",East,Builder,Under_Construction
+396,Tamil Nadu,Chennai,Locality_85,Apartment,4,3230,29.27,0.01,2023,Unfurnished,12,6,2,3,2,Low,Yes,No,"Playground, Garden, Pool, Clubhouse",West,Owner,Ready_to_Move
+397,Madhya Pradesh,Bhopal,Locality_314,Independent House,3,4321,79.74,0.02,1999,Furnished,14,28,26,7,7,High,Yes,No,"Clubhouse, Gym, Playground",West,Broker,Ready_to_Move
+398,Chhattisgarh,Bilaspur,Locality_120,Apartment,1,1049,126.76,0.12,2022,Furnished,0,29,3,4,3,Low,No,No,"Gym, Clubhouse, Pool, Garden, Playground",East,Broker,Ready_to_Move
+399,Telangana,Hyderabad,Locality_476,Apartment,2,1401,269.51,0.19,1992,Unfurnished,10,19,33,2,5,Low,Yes,No,"Clubhouse, Gym",North,Builder,Under_Construction
+400,Uttarakhand,Haridwar,Locality_442,Villa,5,3625,282.8,0.08,1991,Semi-furnished,19,2,34,1,10,Low,Yes,Yes,Gym,North,Owner,Under_Construction
+401,West Bengal,Durgapur,Locality_493,Apartment,5,1741,336.69,0.19,2014,Furnished,14,24,11,2,3,High,Yes,No,"Clubhouse, Playground, Garden, Gym, Pool",North,Broker,Under_Construction
+402,Rajasthan,Jodhpur,Locality_14,Independent House,2,1942,44.41,0.02,2015,Semi-furnished,16,28,10,3,5,Medium,No,No,Gym,North,Owner,Under_Construction
+403,Gujarat,Surat,Locality_63,Apartment,3,927,120.21,0.13,2012,Semi-furnished,10,13,13,7,5,High,Yes,Yes,"Gym, Pool",West,Broker,Under_Construction
+404,Gujarat,Surat,Locality_244,Villa,4,2842,73.8,0.03,2007,Furnished,14,17,18,1,5,Medium,No,No,Playground,East,Owner,Ready_to_Move
+405,Telangana,Warangal,Locality_191,Apartment,4,4189,244.95,0.06,2012,Unfurnished,16,27,13,8,6,Medium,Yes,No,"Pool, Clubhouse, Garden, Playground, Gym",South,Builder,Under_Construction
+406,Maharashtra,Pune,Locality_154,Villa,1,2358,228.5,0.1,1990,Furnished,14,8,35,9,7,Low,Yes,No,"Pool, Garden, Clubhouse, Playground, Gym",West,Builder,Ready_to_Move
+407,Gujarat,Ahmedabad,Locality_81,Villa,2,2163,325.44,0.15,2002,Furnished,20,6,23,3,4,Low,No,No,Gym,West,Builder,Under_Construction
+408,Haryana,Gurgaon,Locality_48,Apartment,3,3765,80.42,0.02,2003,Semi-furnished,29,17,22,8,5,Low,No,No,"Pool, Gym",East,Owner,Ready_to_Move
+409,Telangana,Hyderabad,Locality_19,Villa,2,1809,63.61,0.04,2009,Furnished,15,5,16,10,6,Low,No,No,Gym,North,Owner,Ready_to_Move
+410,Rajasthan,Jaipur,Locality_58,Villa,4,2944,346.75,0.12,2007,Semi-furnished,24,24,18,9,5,High,Yes,No,"Clubhouse, Gym",West,Broker,Ready_to_Move
+411,Punjab,Ludhiana,Locality_15,Independent House,5,4058,437.43,0.11,2017,Unfurnished,0,20,8,7,4,High,Yes,Yes,Clubhouse,East,Broker,Under_Construction
+412,Gujarat,Surat,Locality_319,Apartment,4,3817,420.76,0.11,2014,Unfurnished,30,15,11,2,9,Low,Yes,No,"Playground, Gym",North,Owner,Under_Construction
+413,Tamil Nadu,Chennai,Locality_86,Apartment,5,4086,208.77,0.05,2006,Furnished,5,14,19,4,3,Low,Yes,No,"Gym, Clubhouse, Playground, Pool, Garden",North,Owner,Ready_to_Move
+414,Andhra Pradesh,Vijayawada,Locality_343,Villa,4,2529,183.07,0.07,2010,Semi-furnished,30,20,15,3,7,Medium,Yes,Yes,"Clubhouse, Playground, Pool",East,Broker,Under_Construction
+415,Karnataka,Mangalore,Locality_262,Independent House,1,3219,349.77,0.11,2019,Semi-furnished,9,18,6,3,10,High,No,Yes,"Gym, Clubhouse, Playground, Pool",East,Broker,Ready_to_Move
+416,Odisha,Cuttack,Locality_376,Apartment,5,4335,221.42,0.05,2000,Semi-furnished,27,27,25,9,6,Medium,Yes,No,"Gym, Playground, Pool",North,Owner,Under_Construction
+417,Rajasthan,Jaipur,Locality_183,Independent House,3,2151,192.47,0.09,1990,Semi-furnished,12,23,35,4,1,High,No,No,"Clubhouse, Gym, Pool, Playground, Garden",East,Broker,Ready_to_Move
+418,Uttar Pradesh,Lucknow,Locality_477,Independent House,1,1679,268.99,0.16,1995,Furnished,1,30,30,2,6,High,Yes,Yes,"Playground, Garden, Gym, Clubhouse, Pool",North,Broker,Ready_to_Move
+419,Bihar,Patna,Locality_33,Apartment,5,4422,456.81,0.1,2000,Semi-furnished,6,3,25,7,2,Medium,No,No,"Garden, Clubhouse, Gym, Playground, Pool",North,Owner,Under_Construction
+420,Madhya Pradesh,Bhopal,Locality_497,Apartment,2,1572,97.11,0.06,2011,Semi-furnished,21,17,14,10,8,Low,Yes,No,"Gym, Playground, Garden, Pool",South,Builder,Under_Construction
+421,Kerala,Trivandrum,Locality_234,Apartment,3,4473,229.6,0.05,2013,Unfurnished,18,15,12,1,3,High,No,No,"Pool, Playground",West,Owner,Ready_to_Move
+422,Rajasthan,Jodhpur,Locality_381,Independent House,4,3867,113.23,0.03,1990,Semi-furnished,3,16,35,9,2,High,No,No,"Playground, Garden",East,Broker,Ready_to_Move
+423,Rajasthan,Jaipur,Locality_257,Independent House,4,1660,357.57,0.22,2020,Unfurnished,2,7,5,3,3,High,No,No,Garden,North,Broker,Ready_to_Move
+424,Maharashtra,Pune,Locality_141,Apartment,2,1243,38.08,0.03,2015,Semi-furnished,0,21,10,3,1,Low,No,No,"Garden, Playground, Clubhouse, Gym, Pool",East,Builder,Under_Construction
+425,Uttar Pradesh,Noida,Locality_11,Independent House,4,3888,298.52,0.08,1991,Semi-furnished,16,23,34,4,5,Medium,No,Yes,"Gym, Playground, Clubhouse, Garden",North,Owner,Under_Construction
+426,Andhra Pradesh,Vishakhapatnam,Locality_39,Villa,4,4537,400.69,0.09,2010,Semi-furnished,4,27,15,4,5,Medium,No,Yes,"Pool, Garden, Playground, Gym, Clubhouse",North,Owner,Under_Construction
+427,Haryana,Faridabad,Locality_489,Independent House,4,1965,337.64,0.17,2020,Semi-furnished,6,26,5,3,3,High,No,No,"Gym, Garden",West,Builder,Under_Construction
+428,Punjab,Amritsar,Locality_153,Villa,3,3526,271.94,0.08,2023,Semi-furnished,0,12,2,5,2,High,Yes,No,Playground,South,Broker,Under_Construction
+429,Delhi,New Delhi,Locality_21,Villa,5,4957,357.12,0.07,2011,Unfurnished,26,23,14,9,6,Medium,Yes,No,"Pool, Gym, Garden",East,Broker,Under_Construction
+430,Punjab,Ludhiana,Locality_141,Villa,5,2897,70.59,0.02,2002,Furnished,26,29,23,7,7,Low,Yes,Yes,"Clubhouse, Gym, Playground, Garden, Pool",South,Broker,Ready_to_Move
+431,Madhya Pradesh,Indore,Locality_139,Independent House,1,3448,329.39,0.1,1990,Furnished,28,16,35,4,10,High,No,Yes,"Clubhouse, Gym, Pool, Garden",North,Broker,Ready_to_Move
+432,Assam,Silchar,Locality_493,Independent House,4,4447,158.54,0.04,2012,Semi-furnished,30,3,13,9,10,Medium,No,Yes,"Gym, Playground, Garden",North,Builder,Under_Construction
+433,Andhra Pradesh,Vijayawada,Locality_118,Villa,1,3601,156.82,0.04,2002,Unfurnished,13,25,23,10,4,Low,Yes,No,"Pool, Gym, Garden, Clubhouse",South,Broker,Ready_to_Move
+434,Chhattisgarh,Bilaspur,Locality_285,Villa,2,2219,382.16,0.17,2019,Unfurnished,13,3,6,9,3,Low,No,Yes,"Pool, Gym, Playground",South,Broker,Ready_to_Move
+435,Haryana,Faridabad,Locality_10,Independent House,4,1456,263.07,0.18,2015,Unfurnished,17,29,10,7,3,Medium,Yes,No,"Clubhouse, Pool, Gym, Playground, Garden",North,Builder,Ready_to_Move
+436,Maharashtra,Nagpur,Locality_400,Villa,1,1012,422.78,0.42,2023,Furnished,8,11,2,8,7,Medium,Yes,Yes,Garden,South,Owner,Under_Construction
+437,Tamil Nadu,Chennai,Locality_228,Independent House,1,1045,369.13,0.35,1994,Unfurnished,30,28,31,3,8,Low,Yes,No,"Playground, Garden, Clubhouse",North,Owner,Under_Construction
+438,Punjab,Amritsar,Locality_341,Independent House,1,4884,78.22,0.02,1996,Semi-furnished,8,19,29,4,4,Low,No,Yes,"Playground, Clubhouse, Garden, Gym",East,Owner,Under_Construction
+439,Gujarat,Ahmedabad,Locality_496,Villa,2,4653,52.9,0.01,2005,Unfurnished,0,25,20,3,10,High,No,No,"Pool, Garden, Gym, Playground, Clubhouse",North,Builder,Under_Construction
+440,Jharkhand,Jamshedpur,Locality_475,Villa,1,2544,16.97,0.01,2001,Unfurnished,15,1,24,9,9,Low,No,No,"Pool, Gym, Clubhouse, Garden, Playground",South,Builder,Ready_to_Move
+441,Punjab,Ludhiana,Locality_273,Independent House,2,2421,340.68,0.14,1997,Furnished,8,14,28,7,7,Low,Yes,No,"Clubhouse, Playground",South,Builder,Under_Construction
+442,Karnataka,Mangalore,Locality_317,Independent House,1,768,37.6,0.05,2000,Semi-furnished,15,13,25,8,9,High,No,No,Gym,West,Broker,Under_Construction
+443,Tamil Nadu,Coimbatore,Locality_358,Villa,2,1905,384.51,0.2,1994,Semi-furnished,28,29,31,4,3,Medium,No,Yes,"Garden, Pool, Clubhouse, Gym, Playground",West,Builder,Under_Construction
+444,Uttarakhand,Dehradun,Locality_73,Apartment,1,3081,474.23,0.15,2016,Unfurnished,10,6,9,1,3,Low,Yes,Yes,"Playground, Gym, Clubhouse, Pool",West,Owner,Under_Construction
+445,Telangana,Warangal,Locality_473,Independent House,4,4204,87.32,0.02,1994,Semi-furnished,19,6,31,7,2,Medium,Yes,No,Pool,West,Broker,Under_Construction
+446,Madhya Pradesh,Indore,Locality_115,Independent House,5,2651,424.75,0.16,2007,Semi-furnished,13,16,18,2,2,Medium,Yes,No,"Playground, Garden",South,Owner,Under_Construction
+447,Haryana,Faridabad,Locality_425,Apartment,2,4963,359.35,0.07,2012,Furnished,19,28,13,6,6,High,No,Yes,"Pool, Clubhouse",North,Builder,Ready_to_Move
+448,Telangana,Warangal,Locality_485,Villa,3,4366,270.63,0.06,2004,Furnished,18,1,21,2,9,High,No,No,"Playground, Clubhouse, Pool, Gym, Garden",South,Broker,Under_Construction
+449,Uttarakhand,Haridwar,Locality_346,Independent House,4,2130,489.33,0.23,1997,Furnished,25,16,28,7,8,High,Yes,Yes,"Clubhouse, Gym, Garden, Pool",West,Owner,Under_Construction
+450,Assam,Silchar,Locality_458,Independent House,3,1854,315.32,0.17,2022,Semi-furnished,2,12,3,5,1,Medium,No,No,Pool,East,Owner,Ready_to_Move
+451,Tamil Nadu,Chennai,Locality_66,Villa,4,3492,371.89,0.11,2009,Semi-furnished,24,1,16,4,3,Medium,Yes,Yes,"Pool, Clubhouse, Garden, Gym",West,Owner,Under_Construction
+452,Andhra Pradesh,Vishakhapatnam,Locality_488,Apartment,3,4240,342.26,0.08,2014,Semi-furnished,29,25,11,3,3,Medium,No,No,Pool,East,Owner,Under_Construction
+453,Jharkhand,Ranchi,Locality_282,Villa,2,2583,496.99,0.19,2023,Unfurnished,8,3,2,3,10,High,No,Yes,"Pool, Garden, Gym, Playground, Clubhouse",West,Owner,Ready_to_Move
+454,Uttar Pradesh,Noida,Locality_340,Villa,5,563,33.19,0.06,1999,Furnished,23,19,26,6,10,Low,Yes,No,"Clubhouse, Gym, Playground",North,Builder,Under_Construction
+455,Punjab,Ludhiana,Locality_305,Villa,4,950,151.1,0.16,1997,Furnished,19,11,28,7,1,Medium,No,Yes,"Pool, Playground",West,Broker,Ready_to_Move
+456,Karnataka,Bangalore,Locality_471,Independent House,2,964,96.13,0.1,2006,Semi-furnished,7,18,19,1,9,High,No,No,"Gym, Clubhouse, Pool, Garden",West,Owner,Under_Construction
+457,Telangana,Warangal,Locality_317,Independent House,3,3091,24.83,0.01,2013,Semi-furnished,9,28,12,10,3,High,No,Yes,Pool,North,Broker,Under_Construction
+458,Maharashtra,Pune,Locality_495,Independent House,4,1735,259.76,0.15,2010,Unfurnished,9,2,15,3,8,Low,No,No,"Clubhouse, Pool, Gym, Garden",North,Owner,Ready_to_Move
+459,Assam,Guwahati,Locality_333,Villa,3,4119,191.2,0.05,2003,Semi-furnished,3,11,22,2,2,High,No,No,"Clubhouse, Playground",North,Broker,Under_Construction
+460,Chhattisgarh,Raipur,Locality_194,Independent House,3,1151,322.16,0.28,2020,Semi-furnished,11,26,5,2,3,Low,Yes,No,Garden,West,Owner,Under_Construction
+461,Uttar Pradesh,Lucknow,Locality_409,Independent House,5,3154,414.18,0.13,2023,Furnished,0,18,2,3,8,Medium,Yes,No,Pool,South,Builder,Under_Construction
+462,Madhya Pradesh,Indore,Locality_107,Villa,3,4183,366.44,0.09,2023,Semi-furnished,24,1,2,9,7,Medium,No,Yes,"Gym, Clubhouse",North,Builder,Under_Construction
+463,Telangana,Warangal,Locality_400,Villa,2,1904,300.43,0.16,2006,Unfurnished,9,8,19,7,3,Low,Yes,No,"Playground, Pool, Garden",West,Broker,Ready_to_Move
+464,Delhi,Dwarka,Locality_17,Villa,3,1618,409.58,0.25,2000,Furnished,18,10,25,10,8,Low,No,Yes,"Garden, Clubhouse",South,Builder,Under_Construction
+465,Haryana,Gurgaon,Locality_53,Independent House,3,2344,227.8,0.1,1996,Furnished,2,26,29,3,6,Medium,No,Yes,"Clubhouse, Gym, Playground, Pool",North,Broker,Under_Construction
+466,Uttarakhand,Haridwar,Locality_376,Apartment,1,3692,63.71,0.02,2020,Unfurnished,4,2,5,6,8,High,No,Yes,"Garden, Clubhouse, Playground, Gym",East,Broker,Ready_to_Move
+467,Haryana,Gurgaon,Locality_135,Apartment,4,1466,129.67,0.09,1992,Semi-furnished,4,13,33,5,1,Low,No,No,"Playground, Garden",South,Owner,Under_Construction
+468,Tamil Nadu,Coimbatore,Locality_482,Independent House,4,3969,108.38,0.03,2003,Furnished,27,15,22,1,5,Low,Yes,No,"Playground, Gym, Garden",West,Owner,Ready_to_Move
+469,Kerala,Kochi,Locality_205,Apartment,4,1128,67.74,0.06,2002,Furnished,25,24,23,1,4,Low,No,No,"Playground, Gym",West,Builder,Ready_to_Move
+470,Assam,Guwahati,Locality_489,Independent House,4,2258,192.36,0.09,2006,Semi-furnished,12,9,19,2,10,High,No,No,Pool,South,Owner,Under_Construction
+471,Kerala,Kochi,Locality_219,Independent House,3,1366,382.27,0.28,2000,Unfurnished,26,4,25,3,9,Medium,Yes,Yes,"Garden, Pool, Gym, Playground",North,Owner,Ready_to_Move
+472,Telangana,Warangal,Locality_145,Apartment,4,2931,476.99,0.16,2021,Furnished,19,26,4,6,7,Low,Yes,Yes,"Garden, Clubhouse, Gym",South,Builder,Ready_to_Move
+473,Haryana,Faridabad,Locality_360,Independent House,2,4353,68.51,0.02,2011,Furnished,10,14,14,7,5,Medium,No,Yes,Playground,East,Builder,Under_Construction
+474,Andhra Pradesh,Vishakhapatnam,Locality_68,Apartment,3,4477,23.26,0.01,2021,Unfurnished,12,10,4,4,3,High,No,Yes,"Pool, Clubhouse, Playground, Garden, Gym",North,Builder,Ready_to_Move
+475,Kerala,Trivandrum,Locality_406,Apartment,5,1965,230.95,0.12,2003,Unfurnished,30,2,22,8,4,High,No,No,"Gym, Clubhouse, Pool, Playground, Garden",South,Builder,Ready_to_Move
+476,Chhattisgarh,Raipur,Locality_305,Villa,1,4688,396.63,0.08,2002,Semi-furnished,23,27,23,5,5,Medium,Yes,No,"Clubhouse, Gym, Playground",South,Owner,Ready_to_Move
+477,West Bengal,Durgapur,Locality_141,Apartment,1,4791,470.52,0.1,1994,Unfurnished,26,19,31,4,1,Low,Yes,Yes,"Pool, Clubhouse, Playground",South,Builder,Ready_to_Move
+478,Uttar Pradesh,Noida,Locality_479,Independent House,1,1897,347.56,0.18,1994,Semi-furnished,22,12,31,2,5,Low,No,Yes,"Gym, Clubhouse",North,Owner,Under_Construction
+479,Telangana,Warangal,Locality_5,Villa,3,3171,175.46,0.06,2014,Unfurnished,21,15,11,9,3,Low,Yes,Yes,Pool,East,Owner,Under_Construction
+480,Andhra Pradesh,Vijayawada,Locality_295,Apartment,1,3496,402.15,0.12,2000,Semi-furnished,2,22,25,8,10,Low,Yes,Yes,"Clubhouse, Playground, Gym, Pool, Garden",North,Builder,Under_Construction
+481,Gujarat,Surat,Locality_339,Apartment,5,2195,376.78,0.17,2001,Unfurnished,27,20,24,6,9,High,Yes,No,"Clubhouse, Pool",East,Builder,Ready_to_Move
+482,Uttarakhand,Haridwar,Locality_41,Apartment,4,1514,192.5,0.13,2008,Unfurnished,13,24,17,10,7,Low,No,Yes,"Playground, Clubhouse, Gym, Garden, Pool",North,Broker,Under_Construction
+483,Jharkhand,Jamshedpur,Locality_59,Independent House,5,4777,125.96,0.03,2020,Furnished,25,2,5,1,9,Medium,Yes,Yes,"Gym, Pool",South,Owner,Ready_to_Move
+484,Kerala,Trivandrum,Locality_45,Independent House,4,1617,169.38,0.1,2006,Furnished,10,13,19,6,5,Medium,Yes,Yes,"Playground, Gym",West,Owner,Ready_to_Move
+485,Andhra Pradesh,Vijayawada,Locality_70,Apartment,1,1235,430.36,0.35,2018,Unfurnished,24,17,7,10,3,High,No,No,"Garden, Gym, Playground, Pool",North,Broker,Under_Construction
+486,Chhattisgarh,Raipur,Locality_25,Independent House,2,1538,444.82,0.29,2022,Semi-furnished,1,16,3,6,9,High,Yes,Yes,Pool,West,Builder,Under_Construction
+487,Maharashtra,Mumbai,Locality_276,Villa,1,1815,31.27,0.02,2005,Semi-furnished,24,24,20,7,7,Low,Yes,No,Garden,North,Builder,Ready_to_Move
+488,Kerala,Kochi,Locality_206,Apartment,5,4481,68.36,0.02,2002,Furnished,15,1,23,4,10,Low,Yes,Yes,"Playground, Gym, Pool, Clubhouse, Garden",West,Broker,Ready_to_Move
+489,Kerala,Kochi,Locality_357,Independent House,5,1100,293.21,0.27,2004,Unfurnished,28,11,21,10,6,Low,Yes,No,"Gym, Pool",North,Owner,Under_Construction
+490,Uttar Pradesh,Lucknow,Locality_182,Villa,4,1705,465.76,0.27,2002,Furnished,1,14,23,7,8,High,Yes,No,"Garden, Gym, Clubhouse, Playground, Pool",East,Owner,Ready_to_Move
+491,Telangana,Hyderabad,Locality_92,Independent House,5,2883,410.48,0.14,2000,Unfurnished,14,9,25,4,1,High,Yes,No,"Playground, Gym, Clubhouse, Pool, Garden",North,Builder,Ready_to_Move
+492,Jharkhand,Ranchi,Locality_195,Independent House,2,2502,276.49,0.11,1998,Unfurnished,29,10,27,4,1,Medium,Yes,No,"Gym, Garden",South,Builder,Under_Construction
+493,Uttarakhand,Dehradun,Locality_451,Apartment,3,1281,421.37,0.33,1995,Semi-furnished,7,7,30,6,6,Medium,Yes,No,"Garden, Pool, Playground",North,Owner,Under_Construction
+494,Haryana,Gurgaon,Locality_409,Apartment,1,3605,296.96,0.08,1997,Furnished,24,5,28,9,7,Low,No,Yes,"Pool, Garden, Playground",North,Builder,Under_Construction
+495,Bihar,Patna,Locality_390,Villa,4,2022,332.83,0.16,2004,Unfurnished,0,1,21,5,6,Low,No,No,Playground,North,Owner,Ready_to_Move
+496,Bihar,Gaya,Locality_31,Villa,5,3434,124.92,0.04,2004,Unfurnished,15,7,21,1,4,High,No,No,"Clubhouse, Garden",East,Owner,Under_Construction
+497,Bihar,Patna,Locality_115,Apartment,5,4073,210.6,0.05,1992,Unfurnished,1,9,33,2,2,High,No,No,Pool,South,Broker,Under_Construction
+498,Uttar Pradesh,Lucknow,Locality_67,Villa,2,4496,399.51,0.09,2018,Furnished,30,25,7,8,3,High,Yes,Yes,Pool,West,Builder,Ready_to_Move
+499,Assam,Silchar,Locality_364,Independent House,2,3237,270.4,0.08,2004,Semi-furnished,6,16,21,2,6,Low,Yes,No,"Clubhouse, Playground, Garden",North,Owner,Under_Construction
+500,Odisha,Cuttack,Locality_49,Villa,2,2848,330.19,0.12,1995,Semi-furnished,29,27,30,9,9,Low,No,No,"Clubhouse, Garden, Gym, Playground",South,Builder,Under_Construction
+501,Gujarat,Ahmedabad,Locality_163,Independent House,2,3878,446.67,0.12,2018,Semi-furnished,18,19,7,6,1,High,No,No,"Playground, Pool",East,Builder,Ready_to_Move
+502,Delhi,Dwarka,Locality_499,Villa,4,3619,227.12,0.06,2020,Furnished,23,8,5,4,4,Low,Yes,Yes,Gym,North,Broker,Ready_to_Move
+503,Kerala,Kochi,Locality_208,Villa,1,2937,133.4,0.05,2001,Semi-furnished,6,5,24,6,2,Low,No,Yes,"Pool, Clubhouse, Gym, Playground, Garden",West,Broker,Ready_to_Move
+504,Assam,Guwahati,Locality_144,Apartment,4,4201,179.43,0.04,2008,Unfurnished,20,3,17,1,1,Medium,Yes,No,Clubhouse,East,Owner,Under_Construction
+505,Uttarakhand,Haridwar,Locality_78,Apartment,3,2306,231.42,0.1,2011,Semi-furnished,1,16,14,6,2,Low,Yes,No,"Garden, Gym",West,Builder,Ready_to_Move
+506,Haryana,Gurgaon,Locality_352,Villa,4,2527,388.45,0.15,2019,Unfurnished,20,14,6,6,1,Medium,No,No,Pool,East,Broker,Under_Construction
+507,Delhi,Dwarka,Locality_63,Apartment,5,693,306.46,0.44,1997,Furnished,20,25,28,10,8,Medium,No,No,"Clubhouse, Gym",East,Broker,Ready_to_Move
+508,Rajasthan,Jaipur,Locality_439,Independent House,1,2736,445.96,0.16,2019,Semi-furnished,0,10,6,9,7,High,No,No,"Clubhouse, Pool, Playground",East,Broker,Under_Construction
+509,Kerala,Kochi,Locality_284,Independent House,2,636,319.08,0.5,2007,Furnished,4,8,18,5,7,High,Yes,No,"Playground, Pool",West,Owner,Under_Construction
+510,Rajasthan,Jaipur,Locality_457,Apartment,1,1870,343.18,0.18,2000,Unfurnished,30,24,25,5,1,Low,Yes,Yes,"Gym, Garden, Pool, Clubhouse, Playground",West,Broker,Ready_to_Move
+511,Uttar Pradesh,Lucknow,Locality_101,Apartment,3,565,300.53,0.53,1991,Semi-furnished,17,16,34,10,7,High,No,No,"Clubhouse, Playground, Pool, Gym, Garden",East,Broker,Ready_to_Move
+512,West Bengal,Durgapur,Locality_279,Villa,1,2237,485.45,0.22,1998,Furnished,20,12,27,9,6,High,Yes,No,"Pool, Clubhouse, Garden",South,Builder,Under_Construction
+513,Maharashtra,Nagpur,Locality_176,Villa,1,1514,71.73,0.05,2001,Furnished,6,12,24,10,6,Medium,No,No,"Garden, Pool",West,Owner,Ready_to_Move
+514,Karnataka,Mysore,Locality_87,Villa,5,1356,460.58,0.34,2009,Furnished,15,7,16,3,4,High,Yes,No,"Pool, Playground, Garden",East,Broker,Ready_to_Move
+515,Rajasthan,Jaipur,Locality_376,Apartment,2,2998,287.42,0.1,2022,Furnished,0,6,3,10,9,High,No,Yes,"Gym, Garden, Playground, Pool",North,Broker,Under_Construction
+516,Odisha,Bhubaneswar,Locality_30,Villa,5,3590,248.72,0.07,2003,Furnished,18,30,22,3,10,Low,No,Yes,"Gym, Clubhouse, Garden",North,Owner,Ready_to_Move
+517,Uttarakhand,Haridwar,Locality_318,Independent House,3,1240,413.14,0.33,2005,Semi-furnished,13,3,20,1,10,Low,Yes,No,"Pool, Gym, Garden, Playground",West,Owner,Ready_to_Move
+518,Delhi,New Delhi,Locality_20,Villa,1,514,332.84,0.65,2013,Semi-furnished,3,19,12,9,9,Medium,No,No,"Garden, Playground, Clubhouse, Gym",North,Broker,Ready_to_Move
+519,Bihar,Patna,Locality_80,Apartment,1,1316,120.97,0.09,2003,Unfurnished,16,30,22,1,5,High,Yes,No,"Gym, Pool, Garden",South,Owner,Under_Construction
+520,Telangana,Warangal,Locality_4,Independent House,4,1114,363.58,0.33,2000,Furnished,4,11,25,5,1,Medium,Yes,No,"Garden, Pool",North,Owner,Ready_to_Move
+521,Jharkhand,Ranchi,Locality_238,Villa,4,2395,66.29,0.03,1999,Furnished,5,29,26,2,7,Medium,Yes,No,"Garden, Clubhouse, Gym, Playground, Pool",West,Broker,Under_Construction
+522,Uttar Pradesh,Lucknow,Locality_246,Villa,4,2363,371.74,0.16,1993,Furnished,27,14,32,1,2,Low,Yes,No,Playground,South,Owner,Ready_to_Move
+523,Andhra Pradesh,Vijayawada,Locality_468,Villa,5,4747,113.83,0.02,2016,Furnished,23,18,9,1,1,High,No,Yes,"Pool, Garden, Gym, Playground, Clubhouse",South,Broker,Under_Construction
+524,Odisha,Cuttack,Locality_148,Apartment,2,949,115.96,0.12,2010,Furnished,3,22,15,1,4,Medium,No,Yes,"Clubhouse, Pool, Gym",East,Broker,Ready_to_Move
+525,Andhra Pradesh,Vishakhapatnam,Locality_168,Apartment,3,2354,362.58,0.15,2003,Unfurnished,10,4,22,3,3,Low,No,No,"Clubhouse, Gym, Garden, Pool, Playground",North,Owner,Under_Construction
+526,Rajasthan,Jodhpur,Locality_168,Villa,3,1770,278.47,0.16,2022,Semi-furnished,21,7,3,8,3,Medium,No,No,"Garden, Clubhouse",West,Builder,Ready_to_Move
+527,West Bengal,Kolkata,Locality_339,Independent House,1,1376,173.92,0.13,1990,Furnished,8,14,35,1,8,Medium,Yes,Yes,"Pool, Gym, Garden",South,Builder,Under_Construction
+528,Maharashtra,Pune,Locality_346,Apartment,2,3807,91.84,0.02,1993,Furnished,6,19,32,3,5,Low,No,Yes,"Garden, Playground, Gym, Pool, Clubhouse",West,Builder,Ready_to_Move
+529,Tamil Nadu,Coimbatore,Locality_201,Independent House,2,2064,100.7,0.05,2014,Semi-furnished,8,22,11,10,4,Medium,Yes,No,"Garden, Clubhouse",South,Builder,Ready_to_Move
+530,Telangana,Hyderabad,Locality_205,Villa,4,3112,495.64,0.16,2005,Semi-furnished,12,10,20,1,10,High,Yes,No,"Clubhouse, Pool, Gym, Playground",West,Owner,Under_Construction
+531,Rajasthan,Jaipur,Locality_472,Villa,3,4270,55.82,0.01,1999,Semi-furnished,10,13,26,1,1,High,No,No,Playground,South,Broker,Ready_to_Move
+532,Gujarat,Ahmedabad,Locality_365,Independent House,5,3749,306.62,0.08,1993,Semi-furnished,25,15,32,7,6,Low,Yes,No,"Playground, Pool, Gym, Clubhouse, Garden",East,Owner,Ready_to_Move
+533,Assam,Guwahati,Locality_312,Villa,2,4857,392.58,0.08,2013,Unfurnished,21,29,12,1,8,Medium,No,Yes,"Clubhouse, Gym, Pool, Garden, Playground",North,Owner,Ready_to_Move
+534,Bihar,Gaya,Locality_133,Villa,3,4815,158.29,0.03,2008,Unfurnished,17,9,17,8,7,Medium,Yes,No,"Pool, Gym, Playground, Garden, Clubhouse",South,Owner,Ready_to_Move
+535,Karnataka,Bangalore,Locality_375,Villa,5,3828,264.56,0.07,1993,Semi-furnished,7,6,32,1,8,Medium,Yes,No,"Pool, Playground, Gym",North,Broker,Under_Construction
+536,Chhattisgarh,Bilaspur,Locality_455,Villa,2,2126,229.09,0.11,1990,Furnished,8,13,35,6,2,Low,Yes,No,"Playground, Clubhouse, Gym, Pool, Garden",West,Broker,Ready_to_Move
+537,Rajasthan,Jodhpur,Locality_179,Villa,4,1398,421.29,0.3,1993,Furnished,24,17,32,10,8,Medium,No,Yes,"Pool, Gym",South,Owner,Ready_to_Move
+538,Tamil Nadu,Coimbatore,Locality_22,Villa,5,2168,392.19,0.18,1994,Furnished,26,30,31,1,9,Medium,Yes,Yes,"Playground, Pool, Gym, Garden, Clubhouse",South,Owner,Under_Construction
+539,Bihar,Patna,Locality_26,Apartment,2,1473,96.79,0.07,2008,Semi-furnished,18,26,17,7,4,Low,No,Yes,"Clubhouse, Gym, Pool, Playground",East,Builder,Ready_to_Move
+540,West Bengal,Durgapur,Locality_168,Independent House,4,4292,480.87,0.11,1991,Unfurnished,12,11,34,5,7,Low,No,Yes,"Clubhouse, Garden",East,Broker,Under_Construction
+541,Bihar,Patna,Locality_407,Villa,2,3750,466.31,0.12,2018,Furnished,28,18,7,9,8,Medium,No,No,"Garden, Clubhouse, Gym, Pool, Playground",North,Builder,Under_Construction
+542,Assam,Guwahati,Locality_132,Apartment,5,1685,62.35,0.04,2002,Furnished,23,17,23,3,1,Medium,Yes,No,Gym,East,Broker,Ready_to_Move
+543,Chhattisgarh,Bilaspur,Locality_223,Apartment,3,905,97.03,0.11,2017,Unfurnished,18,20,8,5,8,Medium,No,No,Clubhouse,South,Broker,Under_Construction
+544,Uttarakhand,Haridwar,Locality_452,Villa,5,4956,378.75,0.08,2023,Semi-furnished,23,6,2,2,1,Medium,No,No,"Garden, Clubhouse, Playground, Pool",South,Builder,Under_Construction
+545,Haryana,Faridabad,Locality_193,Villa,1,2060,181.58,0.09,2013,Semi-furnished,0,13,12,10,6,Low,Yes,No,"Garden, Clubhouse",West,Builder,Under_Construction
+546,Bihar,Patna,Locality_443,Independent House,4,2453,27.5,0.01,2019,Furnished,25,30,6,8,3,High,No,Yes,Clubhouse,North,Builder,Under_Construction
+547,Uttarakhand,Haridwar,Locality_484,Independent House,1,920,112.77,0.12,2005,Semi-furnished,25,11,20,8,7,Low,Yes,Yes,"Garden, Playground, Clubhouse",South,Owner,Under_Construction
+548,Assam,Silchar,Locality_241,Apartment,1,3346,434.28,0.13,2020,Unfurnished,8,7,5,8,5,Low,No,No,"Playground, Pool, Garden, Gym, Clubhouse",South,Builder,Ready_to_Move
+549,Telangana,Warangal,Locality_368,Apartment,5,2451,279.21,0.11,2012,Unfurnished,2,24,13,5,10,Medium,No,Yes,Clubhouse,South,Broker,Ready_to_Move
+550,Chhattisgarh,Raipur,Locality_172,Villa,4,2023,402.66,0.2,1998,Unfurnished,23,23,27,10,1,Low,No,No,Garden,West,Owner,Ready_to_Move
+551,Bihar,Gaya,Locality_107,Apartment,4,1690,416.39,0.25,2010,Unfurnished,14,18,15,3,3,High,No,No,"Garden, Pool, Gym, Playground",East,Broker,Under_Construction
+552,Gujarat,Ahmedabad,Locality_47,Independent House,2,3438,15.67,0,1997,Semi-furnished,12,12,28,9,9,High,No,Yes,"Playground, Pool, Garden, Clubhouse, Gym",West,Broker,Ready_to_Move
+553,Odisha,Bhubaneswar,Locality_161,Independent House,2,794,109.16,0.14,2022,Furnished,8,18,3,1,2,Medium,Yes,No,"Clubhouse, Playground",South,Broker,Ready_to_Move
+554,Bihar,Patna,Locality_187,Independent House,2,784,211.48,0.27,2011,Furnished,7,17,14,1,4,Medium,Yes,Yes,"Clubhouse, Gym, Pool",East,Builder,Ready_to_Move
+555,Punjab,Ludhiana,Locality_312,Villa,4,2881,442.42,0.15,2003,Semi-furnished,6,11,22,3,3,Low,Yes,Yes,"Clubhouse, Garden, Gym, Pool, Playground",West,Broker,Ready_to_Move
+556,Rajasthan,Jodhpur,Locality_348,Apartment,3,2008,454.3,0.23,1994,Semi-furnished,18,7,31,2,7,Low,Yes,No,Clubhouse,South,Owner,Under_Construction
+557,Punjab,Ludhiana,Locality_90,Apartment,5,1288,156.88,0.12,2004,Semi-furnished,13,7,21,10,7,High,No,No,"Pool, Garden, Clubhouse",South,Builder,Ready_to_Move
+558,Assam,Guwahati,Locality_426,Apartment,3,4834,55.89,0.01,2002,Furnished,29,12,23,10,5,Medium,Yes,No,"Gym, Clubhouse, Pool, Playground",East,Builder,Ready_to_Move
+559,Odisha,Cuttack,Locality_45,Apartment,1,547,78.08,0.14,2006,Unfurnished,3,20,19,4,2,Low,No,Yes,"Clubhouse, Garden, Pool",East,Owner,Ready_to_Move
+560,Rajasthan,Jaipur,Locality_29,Apartment,4,4339,198,0.05,2019,Furnished,14,5,6,7,1,High,No,Yes,Pool,East,Builder,Under_Construction
+561,Punjab,Ludhiana,Locality_399,Villa,1,4995,101.67,0.02,2016,Unfurnished,15,13,9,2,5,Medium,No,No,Pool,East,Broker,Under_Construction
+562,Bihar,Patna,Locality_438,Apartment,2,3174,52.2,0.02,2016,Semi-furnished,19,9,9,9,1,High,Yes,No,Playground,East,Broker,Ready_to_Move
+563,Delhi,New Delhi,Locality_494,Independent House,1,939,136.51,0.15,2023,Semi-furnished,7,11,2,10,4,High,Yes,No,"Pool, Garden",South,Builder,Under_Construction
+564,Kerala,Trivandrum,Locality_392,Apartment,3,2621,129.15,0.05,1994,Furnished,16,15,31,7,1,High,Yes,No,"Gym, Playground",East,Broker,Ready_to_Move
+565,Rajasthan,Jaipur,Locality_296,Apartment,2,4137,334.67,0.08,1994,Unfurnished,5,19,31,10,4,Medium,No,No,"Playground, Pool, Garden, Gym",East,Builder,Under_Construction
+566,Punjab,Ludhiana,Locality_420,Independent House,1,4829,350.56,0.07,1998,Furnished,18,19,27,5,5,Low,No,Yes,"Gym, Playground, Garden, Pool, Clubhouse",South,Broker,Ready_to_Move
+567,Haryana,Gurgaon,Locality_339,Villa,4,1307,406.24,0.31,2022,Unfurnished,11,11,3,4,1,Low,No,No,Clubhouse,North,Owner,Under_Construction
+568,Haryana,Gurgaon,Locality_6,Villa,2,1509,438.09,0.29,2007,Unfurnished,29,23,18,1,9,High,Yes,Yes,"Gym, Pool, Clubhouse, Garden, Playground",East,Owner,Ready_to_Move
+569,Chhattisgarh,Raipur,Locality_422,Villa,2,3802,150.89,0.04,2017,Furnished,28,15,8,9,8,High,Yes,No,"Gym, Garden, Playground, Clubhouse",South,Owner,Under_Construction
+570,Delhi,New Delhi,Locality_254,Apartment,2,1752,494.32,0.28,2001,Unfurnished,6,10,24,3,1,High,Yes,No,"Gym, Clubhouse, Playground, Pool, Garden",South,Owner,Ready_to_Move
+571,West Bengal,Durgapur,Locality_183,Independent House,1,2946,431.84,0.15,2004,Furnished,6,5,21,10,4,High,Yes,Yes,"Playground, Garden",West,Owner,Under_Construction
+572,West Bengal,Kolkata,Locality_16,Villa,5,2114,413.54,0.2,1998,Semi-furnished,2,26,27,1,3,High,Yes,No,"Playground, Garden, Pool, Clubhouse, Gym",West,Broker,Under_Construction
+573,Rajasthan,Jodhpur,Locality_464,Apartment,4,1270,127.7,0.1,1993,Semi-furnished,27,28,32,6,9,Medium,No,Yes,"Garden, Pool, Playground, Clubhouse, Gym",South,Owner,Ready_to_Move
+574,Andhra Pradesh,Vijayawada,Locality_139,Villa,5,1776,169.77,0.1,2002,Unfurnished,15,9,23,7,4,High,Yes,No,"Pool, Clubhouse",West,Owner,Under_Construction
+575,West Bengal,Kolkata,Locality_28,Apartment,2,3467,335.02,0.1,2019,Furnished,6,25,6,8,10,Medium,Yes,No,"Clubhouse, Playground, Gym, Garden",North,Broker,Under_Construction
+576,Uttar Pradesh,Noida,Locality_82,Villa,3,2084,164.46,0.08,1996,Furnished,22,20,29,8,7,Low,No,Yes,"Garden, Playground, Pool, Clubhouse, Gym",West,Owner,Under_Construction
+577,Delhi,Dwarka,Locality_15,Independent House,4,2433,56.7,0.02,2020,Semi-furnished,13,26,5,6,1,Low,No,Yes,Gym,East,Broker,Ready_to_Move
+578,Telangana,Hyderabad,Locality_297,Villa,5,4412,198.83,0.05,2023,Unfurnished,9,4,2,8,3,Low,No,Yes,"Clubhouse, Playground, Gym, Garden",West,Builder,Ready_to_Move
+579,Telangana,Hyderabad,Locality_244,Villa,5,4535,377.08,0.08,1992,Unfurnished,6,9,33,9,10,Low,No,No,"Pool, Clubhouse",South,Broker,Ready_to_Move
+580,Haryana,Gurgaon,Locality_401,Apartment,5,4933,289.54,0.06,2001,Unfurnished,22,24,24,9,5,High,No,Yes,"Clubhouse, Garden, Pool",West,Builder,Ready_to_Move
+581,Chhattisgarh,Raipur,Locality_316,Independent House,3,1491,22.9,0.02,2018,Semi-furnished,19,22,7,2,9,Low,Yes,No,"Playground, Gym, Garden, Pool",East,Owner,Under_Construction
+582,Bihar,Gaya,Locality_109,Independent House,5,4095,395.76,0.1,1995,Unfurnished,29,30,30,5,6,High,No,No,"Playground, Pool, Gym, Garden, Clubhouse",West,Broker,Ready_to_Move
+583,Telangana,Warangal,Locality_231,Apartment,4,2098,389.45,0.19,2007,Unfurnished,15,8,18,5,5,Medium,No,Yes,Gym,East,Owner,Under_Construction
+584,Karnataka,Bangalore,Locality_155,Villa,3,1894,213.43,0.11,2019,Unfurnished,17,22,6,9,6,Medium,Yes,Yes,"Playground, Gym, Garden",West,Broker,Ready_to_Move
+585,Uttar Pradesh,Lucknow,Locality_481,Independent House,5,3061,180.93,0.06,2022,Semi-furnished,30,29,3,2,5,Low,Yes,Yes,"Garden, Clubhouse",East,Owner,Under_Construction
+586,Telangana,Hyderabad,Locality_376,Apartment,4,1758,455.02,0.26,2023,Furnished,6,12,2,4,8,High,Yes,No,"Clubhouse, Pool, Playground, Gym, Garden",East,Broker,Ready_to_Move
+587,Andhra Pradesh,Vijayawada,Locality_102,Independent House,3,3766,400.38,0.11,2010,Unfurnished,28,15,15,9,7,High,No,No,"Playground, Gym",North,Broker,Ready_to_Move
+588,Jharkhand,Jamshedpur,Locality_386,Independent House,5,2186,426.59,0.2,2019,Furnished,0,13,6,5,4,High,Yes,Yes,"Pool, Playground, Clubhouse, Gym",West,Owner,Ready_to_Move
+589,Maharashtra,Mumbai,Locality_289,Villa,3,4945,210.14,0.04,2019,Semi-furnished,10,6,6,5,5,Medium,No,Yes,"Clubhouse, Playground, Gym, Garden",North,Broker,Under_Construction
+590,Jharkhand,Ranchi,Locality_113,Apartment,1,2351,26.63,0.01,1993,Semi-furnished,28,15,32,6,3,Medium,No,No,Pool,North,Owner,Ready_to_Move
+591,Andhra Pradesh,Vishakhapatnam,Locality_406,Independent House,3,711,70.12,0.1,1997,Semi-furnished,13,2,28,1,5,Medium,Yes,Yes,Gym,East,Builder,Ready_to_Move
+592,Odisha,Bhubaneswar,Locality_492,Independent House,1,1980,225.15,0.11,2007,Semi-furnished,20,1,18,4,6,Medium,Yes,No,Pool,South,Builder,Under_Construction
+593,Maharashtra,Pune,Locality_238,Villa,4,4651,203.7,0.04,2011,Furnished,28,22,14,8,4,High,No,Yes,"Gym, Playground",West,Builder,Under_Construction
+594,Madhya Pradesh,Indore,Locality_24,Independent House,1,4367,72.22,0.02,2018,Furnished,18,11,7,10,2,Low,No,No,"Gym, Playground, Pool",East,Builder,Ready_to_Move
+595,Kerala,Trivandrum,Locality_161,Apartment,4,2103,425.6,0.2,1996,Semi-furnished,16,21,29,9,2,Low,Yes,No,"Gym, Playground, Garden, Pool",North,Builder,Ready_to_Move
+596,Andhra Pradesh,Vishakhapatnam,Locality_370,Independent House,2,4603,113.88,0.02,2020,Semi-furnished,16,14,5,6,10,High,No,Yes,"Pool, Garden, Gym, Playground",South,Broker,Under_Construction
+597,Telangana,Hyderabad,Locality_20,Independent House,5,4453,18.89,0,2003,Semi-furnished,5,5,22,8,9,High,No,No,"Playground, Garden, Gym, Clubhouse",North,Builder,Under_Construction
+598,Chhattisgarh,Bilaspur,Locality_152,Independent House,3,4844,223.38,0.05,1996,Unfurnished,28,20,29,2,7,Low,Yes,No,"Pool, Playground, Gym, Clubhouse, Garden",East,Owner,Ready_to_Move
+599,Chhattisgarh,Raipur,Locality_131,Villa,3,3604,187.19,0.05,1998,Unfurnished,24,30,27,5,8,Low,No,No,"Clubhouse, Playground, Pool, Gym",North,Broker,Ready_to_Move
+600,Uttarakhand,Dehradun,Locality_292,Villa,4,1614,74.04,0.05,2021,Furnished,28,25,4,5,10,Low,Yes,No,"Gym, Pool, Clubhouse, Playground",East,Builder,Ready_to_Move
+601,Rajasthan,Jaipur,Locality_362,Apartment,3,956,266.13,0.28,2006,Semi-furnished,8,29,19,1,3,Medium,Yes,No,Clubhouse,East,Owner,Under_Construction
+602,Odisha,Bhubaneswar,Locality_155,Apartment,5,2572,276.27,0.11,2003,Unfurnished,3,24,22,7,3,Medium,Yes,No,"Clubhouse, Garden, Gym, Playground, Pool",East,Builder,Ready_to_Move
+603,Rajasthan,Jaipur,Locality_137,Villa,5,714,95.86,0.13,2000,Furnished,29,15,25,2,10,Medium,No,Yes,"Gym, Clubhouse, Garden",West,Owner,Ready_to_Move
+604,Punjab,Amritsar,Locality_418,Independent House,3,4518,181.22,0.04,2002,Unfurnished,21,17,23,4,4,Low,No,No,"Pool, Garden, Playground",East,Broker,Under_Construction
+605,Telangana,Warangal,Locality_436,Villa,1,1065,211.92,0.2,1990,Unfurnished,10,21,35,4,3,Medium,Yes,No,"Playground, Gym, Pool",West,Builder,Under_Construction
+606,Odisha,Cuttack,Locality_380,Apartment,5,1802,261.84,0.15,2013,Unfurnished,18,24,12,1,8,High,No,No,Clubhouse,East,Builder,Ready_to_Move
+607,Maharashtra,Nagpur,Locality_261,Apartment,1,3171,403,0.13,1998,Furnished,24,5,27,2,5,Medium,No,No,"Playground, Gym, Clubhouse",West,Owner,Ready_to_Move
+608,Andhra Pradesh,Vijayawada,Locality_330,Independent House,5,1763,49.12,0.03,2022,Unfurnished,10,9,3,10,6,High,No,Yes,"Clubhouse, Garden",South,Broker,Under_Construction
+609,Haryana,Gurgaon,Locality_421,Independent House,5,3438,17.27,0.01,2019,Unfurnished,12,11,6,6,2,High,Yes,No,"Gym, Playground, Pool",North,Broker,Ready_to_Move
+610,Andhra Pradesh,Vishakhapatnam,Locality_378,Apartment,5,1073,233.3,0.22,1999,Semi-furnished,6,6,26,1,3,Low,No,Yes,"Pool, Playground, Gym",East,Builder,Under_Construction
+611,Gujarat,Ahmedabad,Locality_398,Apartment,5,4654,317.99,0.07,1999,Furnished,19,24,26,5,4,Medium,Yes,No,Garden,South,Owner,Under_Construction
+612,Bihar,Patna,Locality_197,Villa,5,3791,100.16,0.03,1995,Furnished,4,18,30,10,3,High,No,Yes,"Gym, Garden, Pool",East,Broker,Under_Construction
+613,West Bengal,Durgapur,Locality_357,Apartment,4,777,387.53,0.5,1993,Unfurnished,7,20,32,4,6,Medium,No,No,"Clubhouse, Pool, Garden",East,Builder,Ready_to_Move
+614,Uttarakhand,Dehradun,Locality_383,Independent House,1,3874,261.64,0.07,1991,Furnished,18,1,34,2,9,Medium,Yes,Yes,"Playground, Garden, Clubhouse, Gym, Pool",West,Builder,Ready_to_Move
+615,Chhattisgarh,Bilaspur,Locality_472,Independent House,1,4718,325.57,0.07,2012,Furnished,16,5,13,1,3,Low,No,Yes,"Playground, Garden, Gym",East,Owner,Ready_to_Move
+616,Maharashtra,Nagpur,Locality_301,Villa,3,2972,425.41,0.14,2015,Furnished,28,6,10,1,8,Medium,Yes,No,"Playground, Garden, Gym",West,Builder,Under_Construction
+617,Andhra Pradesh,Vijayawada,Locality_327,Independent House,4,3467,399.84,0.12,2021,Unfurnished,23,28,4,10,10,High,Yes,No,Garden,South,Builder,Under_Construction
+618,Jharkhand,Jamshedpur,Locality_459,Villa,2,4272,100.28,0.02,2007,Semi-furnished,21,25,18,10,2,Low,Yes,Yes,"Playground, Clubhouse",West,Owner,Ready_to_Move
+619,Jharkhand,Jamshedpur,Locality_7,Apartment,2,683,423.31,0.62,2002,Semi-furnished,2,24,23,9,1,Medium,Yes,Yes,"Gym, Playground, Pool, Clubhouse, Garden",North,Broker,Ready_to_Move
+620,Maharashtra,Mumbai,Locality_334,Villa,1,1167,220.74,0.19,2011,Unfurnished,16,28,14,3,6,Medium,No,Yes,"Playground, Pool, Clubhouse, Garden",East,Owner,Ready_to_Move
+621,Delhi,New Delhi,Locality_365,Villa,1,2552,406.23,0.16,2018,Semi-furnished,17,10,7,4,1,Medium,No,No,"Playground, Pool, Garden, Gym, Clubhouse",North,Builder,Ready_to_Move
+622,Telangana,Hyderabad,Locality_106,Apartment,4,2629,354.91,0.13,1994,Furnished,7,7,31,8,6,High,No,Yes,"Clubhouse, Garden",West,Owner,Under_Construction
+623,West Bengal,Kolkata,Locality_143,Apartment,1,2465,254.39,0.1,2004,Furnished,22,27,21,2,9,Low,Yes,Yes,"Garden, Clubhouse",North,Broker,Ready_to_Move
+624,Bihar,Gaya,Locality_133,Independent House,1,868,260.97,0.3,2018,Semi-furnished,1,24,7,3,8,High,Yes,No,"Gym, Playground, Pool, Garden",East,Broker,Ready_to_Move
+625,Gujarat,Surat,Locality_177,Villa,3,4295,71.73,0.02,2012,Furnished,30,9,13,4,8,Medium,Yes,Yes,Gym,West,Owner,Ready_to_Move
+626,Karnataka,Mangalore,Locality_102,Apartment,5,4366,309.59,0.07,2015,Unfurnished,7,23,10,3,3,Medium,No,Yes,Gym,South,Broker,Ready_to_Move
+627,Punjab,Amritsar,Locality_442,Apartment,4,4897,410.45,0.08,2022,Semi-furnished,25,24,3,1,4,Low,No,No,"Pool, Playground",South,Builder,Under_Construction
+628,Andhra Pradesh,Vijayawada,Locality_186,Independent House,1,2637,384.15,0.15,1991,Furnished,26,6,34,3,1,Low,Yes,No,"Garden, Playground, Gym, Clubhouse",North,Broker,Under_Construction
+629,Haryana,Faridabad,Locality_478,Independent House,1,3119,143.16,0.05,2013,Furnished,18,1,12,4,9,Medium,Yes,Yes,"Pool, Gym, Garden",East,Builder,Under_Construction
+630,Uttar Pradesh,Noida,Locality_261,Independent House,5,4163,264.53,0.06,1993,Unfurnished,27,20,32,3,10,Medium,No,Yes,"Garden, Gym, Pool",East,Broker,Under_Construction
+631,Bihar,Patna,Locality_325,Villa,5,732,394.52,0.54,1992,Semi-furnished,3,1,33,8,5,Low,Yes,No,"Garden, Playground, Pool",East,Owner,Ready_to_Move
+632,Haryana,Gurgaon,Locality_118,Apartment,3,3115,356.57,0.11,2006,Semi-furnished,6,27,19,6,9,Low,No,Yes,"Garden, Gym",North,Builder,Under_Construction
+633,Haryana,Faridabad,Locality_203,Villa,4,4060,133.75,0.03,2001,Unfurnished,19,3,24,10,8,Low,Yes,No,"Playground, Pool",East,Owner,Under_Construction
+634,Andhra Pradesh,Vishakhapatnam,Locality_401,Independent House,2,2679,326.03,0.12,2008,Furnished,9,15,17,2,10,Low,No,No,"Clubhouse, Garden, Gym",West,Broker,Ready_to_Move
+635,Punjab,Amritsar,Locality_449,Villa,5,1463,257.78,0.18,2019,Semi-furnished,19,9,6,5,7,High,No,No,"Garden, Playground, Pool, Gym, Clubhouse",North,Owner,Under_Construction
+636,Telangana,Hyderabad,Locality_262,Independent House,1,1959,102.17,0.05,2021,Semi-furnished,2,20,4,3,1,Medium,Yes,No,Garden,West,Builder,Ready_to_Move
+637,Punjab,Amritsar,Locality_25,Villa,4,3321,160.6,0.05,2000,Semi-furnished,22,14,25,7,10,Medium,Yes,Yes,"Clubhouse, Gym, Playground, Garden, Pool",West,Owner,Ready_to_Move
+638,Delhi,Dwarka,Locality_30,Villa,1,2310,234.67,0.1,2020,Semi-furnished,0,12,5,1,7,High,Yes,Yes,"Pool, Gym, Clubhouse, Garden, Playground",North,Broker,Under_Construction
+639,Odisha,Cuttack,Locality_262,Villa,3,1641,67.35,0.04,1992,Unfurnished,5,11,33,9,10,Medium,No,No,Gym,North,Builder,Ready_to_Move
+640,Maharashtra,Nagpur,Locality_233,Apartment,5,2262,156.16,0.07,2011,Semi-furnished,29,8,14,5,10,Medium,Yes,No,"Gym, Pool, Playground, Garden, Clubhouse",East,Owner,Under_Construction
+641,Chhattisgarh,Bilaspur,Locality_348,Apartment,5,1815,78.2,0.04,2018,Furnished,0,9,7,9,5,Low,Yes,Yes,"Playground, Clubhouse, Garden",North,Builder,Ready_to_Move
+642,Karnataka,Mysore,Locality_86,Independent House,3,1218,100.15,0.08,1998,Furnished,13,3,27,5,1,Low,Yes,No,Clubhouse,East,Broker,Ready_to_Move
+643,Madhya Pradesh,Bhopal,Locality_338,Independent House,2,3158,113,0.04,2015,Semi-furnished,15,8,10,8,8,Low,Yes,No,"Playground, Garden, Gym, Clubhouse",East,Builder,Ready_to_Move
+644,Rajasthan,Jaipur,Locality_236,Apartment,5,675,139.11,0.21,2011,Furnished,17,21,14,6,3,Medium,No,Yes,"Pool, Gym",West,Broker,Under_Construction
+645,Delhi,Dwarka,Locality_133,Independent House,1,1076,254.14,0.24,1993,Unfurnished,10,15,32,9,3,High,No,No,Gym,North,Owner,Under_Construction
+646,Karnataka,Bangalore,Locality_446,Villa,2,2363,312.84,0.13,2008,Furnished,9,19,17,9,1,Low,Yes,Yes,"Pool, Gym, Playground, Garden",East,Builder,Under_Construction
+647,Maharashtra,Mumbai,Locality_291,Apartment,2,2271,326.97,0.14,2018,Unfurnished,12,30,7,7,4,Low,No,Yes,"Pool, Garden, Gym, Clubhouse",South,Owner,Ready_to_Move
+648,Rajasthan,Jaipur,Locality_491,Apartment,2,1992,124.28,0.06,2020,Furnished,5,26,5,2,1,High,No,No,"Clubhouse, Gym, Pool, Garden",South,Owner,Ready_to_Move
+649,Uttar Pradesh,Noida,Locality_197,Independent House,2,3162,170.34,0.05,1996,Semi-furnished,29,3,29,1,10,Medium,Yes,Yes,"Clubhouse, Gym, Garden, Playground, Pool",South,Owner,Under_Construction
+650,Maharashtra,Pune,Locality_422,Villa,5,3369,183.98,0.05,2007,Furnished,21,8,18,7,1,Low,Yes,No,"Pool, Garden, Gym",North,Broker,Ready_to_Move
+651,Uttarakhand,Dehradun,Locality_234,Villa,2,1974,441.82,0.22,2023,Unfurnished,25,27,2,3,9,High,No,No,Clubhouse,West,Builder,Under_Construction
+652,West Bengal,Durgapur,Locality_229,Villa,3,3640,187.18,0.05,2000,Unfurnished,17,4,25,6,9,Low,Yes,No,"Pool, Garden, Gym, Playground",East,Builder,Under_Construction
+653,Rajasthan,Jodhpur,Locality_120,Independent House,5,4256,313.3,0.07,2007,Furnished,4,7,18,1,8,Low,No,Yes,"Garden, Gym, Playground",West,Owner,Ready_to_Move
+654,West Bengal,Durgapur,Locality_239,Villa,5,2191,360.78,0.16,2001,Semi-furnished,20,26,24,9,1,Medium,Yes,Yes,"Playground, Garden, Clubhouse, Gym, Pool",East,Owner,Under_Construction
+655,Odisha,Bhubaneswar,Locality_170,Independent House,4,4479,14.73,0,2023,Semi-furnished,19,25,2,2,6,Medium,No,Yes,"Clubhouse, Pool",East,Owner,Under_Construction
+656,Tamil Nadu,Coimbatore,Locality_212,Apartment,3,4046,384.89,0.1,2011,Unfurnished,19,6,14,5,8,Medium,Yes,Yes,Playground,South,Builder,Ready_to_Move
+657,Jharkhand,Ranchi,Locality_203,Apartment,1,4273,230.44,0.05,2016,Furnished,30,8,9,6,9,High,No,Yes,"Garden, Clubhouse",South,Broker,Under_Construction
+658,Uttar Pradesh,Noida,Locality_207,Villa,2,1931,88,0.05,2007,Unfurnished,22,26,18,2,4,Medium,Yes,Yes,"Gym, Playground",West,Owner,Under_Construction
+659,Bihar,Patna,Locality_224,Independent House,1,4104,364.43,0.09,1995,Furnished,19,11,30,5,3,High,No,Yes,Garden,South,Builder,Ready_to_Move
+660,Punjab,Amritsar,Locality_219,Independent House,2,3789,377.45,0.1,1996,Unfurnished,6,8,29,2,10,Medium,Yes,Yes,"Playground, Pool",South,Broker,Ready_to_Move
+661,Madhya Pradesh,Bhopal,Locality_245,Villa,3,3862,342.68,0.09,2006,Furnished,24,27,19,5,2,Medium,Yes,No,"Playground, Pool",East,Owner,Under_Construction
+662,Gujarat,Surat,Locality_11,Independent House,2,2117,367.72,0.17,2014,Semi-furnished,5,17,11,4,2,Low,Yes,Yes,"Clubhouse, Garden, Pool, Gym",West,Broker,Ready_to_Move
+663,Uttarakhand,Dehradun,Locality_132,Villa,5,4684,240.85,0.05,2018,Semi-furnished,24,30,7,8,3,High,No,No,"Garden, Playground, Pool",North,Owner,Ready_to_Move
+664,Uttarakhand,Dehradun,Locality_388,Apartment,1,2314,256.3,0.11,2023,Unfurnished,5,10,2,2,8,High,Yes,No,"Pool, Gym, Playground, Garden",East,Owner,Ready_to_Move
+665,Tamil Nadu,Coimbatore,Locality_64,Villa,2,4524,363.55,0.08,2023,Unfurnished,6,25,2,3,7,Low,No,No,Clubhouse,East,Owner,Under_Construction
+666,Gujarat,Surat,Locality_474,Independent House,1,872,15.92,0.02,2012,Semi-furnished,19,19,13,1,6,Low,Yes,No,"Garden, Playground, Gym, Pool, Clubhouse",East,Builder,Under_Construction
+667,Kerala,Kochi,Locality_221,Villa,4,3908,116.44,0.03,2020,Semi-furnished,3,28,5,7,8,Low,No,Yes,"Playground, Garden, Clubhouse, Gym",South,Owner,Ready_to_Move
+668,Tamil Nadu,Coimbatore,Locality_200,Independent House,5,2213,381.31,0.17,2012,Semi-furnished,27,20,13,7,1,Medium,No,Yes,"Clubhouse, Playground, Pool",West,Builder,Ready_to_Move
+669,Jharkhand,Ranchi,Locality_51,Apartment,3,1569,45.63,0.03,1990,Semi-furnished,6,12,35,7,2,Medium,No,No,"Clubhouse, Pool, Gym, Garden",South,Broker,Ready_to_Move
+670,Maharashtra,Mumbai,Locality_462,Apartment,2,1020,253.97,0.25,2019,Furnished,2,30,6,10,2,Low,Yes,No,"Playground, Gym, Garden, Clubhouse, Pool",South,Owner,Under_Construction
+671,Kerala,Trivandrum,Locality_178,Apartment,2,3547,217.37,0.06,1990,Furnished,26,3,35,9,2,Medium,Yes,No,"Playground, Garden, Clubhouse, Gym, Pool",East,Builder,Ready_to_Move
+672,Jharkhand,Jamshedpur,Locality_300,Villa,5,2834,63.06,0.02,2004,Semi-furnished,0,2,21,2,5,Medium,Yes,No,"Pool, Garden, Playground",North,Broker,Under_Construction
+673,Andhra Pradesh,Vijayawada,Locality_301,Villa,1,1320,375.68,0.28,1993,Semi-furnished,27,19,32,6,1,High,No,Yes,"Garden, Pool, Gym, Playground",North,Owner,Under_Construction
+674,Andhra Pradesh,Vijayawada,Locality_159,Apartment,2,2004,462.88,0.23,2003,Semi-furnished,27,25,22,6,9,Low,Yes,Yes,"Garden, Gym, Pool",East,Builder,Ready_to_Move
+675,Uttar Pradesh,Noida,Locality_177,Apartment,5,1820,475.06,0.26,1998,Furnished,17,8,27,3,8,Medium,No,Yes,"Clubhouse, Playground, Gym, Pool, Garden",South,Owner,Ready_to_Move
+676,Delhi,Dwarka,Locality_133,Villa,1,3074,444.84,0.14,1997,Furnished,1,23,28,2,5,High,No,No,"Clubhouse, Gym, Pool",North,Owner,Ready_to_Move
+677,Jharkhand,Ranchi,Locality_239,Villa,3,4990,181.69,0.04,2003,Semi-furnished,28,25,22,3,10,Low,No,Yes,"Clubhouse, Gym, Garden",West,Broker,Ready_to_Move
+678,Rajasthan,Jodhpur,Locality_328,Independent House,5,3266,273.3,0.08,1997,Unfurnished,12,6,28,8,7,Medium,Yes,Yes,"Playground, Clubhouse, Gym",South,Builder,Ready_to_Move
+679,Tamil Nadu,Chennai,Locality_272,Villa,5,1684,200.5,0.12,2008,Unfurnished,10,14,17,6,10,Medium,No,No,"Garden, Gym, Clubhouse, Playground",West,Owner,Ready_to_Move
+680,Kerala,Kochi,Locality_443,Villa,1,4109,45.14,0.01,2012,Unfurnished,26,1,13,8,9,High,Yes,Yes,"Gym, Garden, Pool, Clubhouse",North,Owner,Ready_to_Move
+681,Uttarakhand,Haridwar,Locality_242,Independent House,3,4209,474.55,0.11,2005,Semi-furnished,14,11,20,10,1,Medium,No,Yes,"Clubhouse, Gym",South,Broker,Under_Construction
+682,Tamil Nadu,Coimbatore,Locality_410,Villa,5,2180,56.31,0.03,1995,Unfurnished,27,7,30,1,4,Medium,Yes,Yes,"Clubhouse, Playground, Garden",North,Owner,Under_Construction
+683,Jharkhand,Jamshedpur,Locality_319,Villa,4,1477,444.2,0.3,1999,Unfurnished,19,27,26,10,9,Medium,Yes,Yes,"Clubhouse, Playground",West,Owner,Under_Construction
+684,Karnataka,Mysore,Locality_392,Independent House,2,726,128.54,0.18,2015,Semi-furnished,1,7,10,6,8,Low,No,Yes,"Pool, Garden, Gym",North,Builder,Ready_to_Move
+685,Madhya Pradesh,Indore,Locality_454,Independent House,1,1143,282.84,0.25,1991,Furnished,12,29,34,1,4,Low,No,No,Gym,North,Owner,Under_Construction
+686,Chhattisgarh,Bilaspur,Locality_209,Villa,1,2657,419.53,0.16,2019,Furnished,2,17,6,2,5,Medium,Yes,Yes,"Gym, Clubhouse, Garden",South,Builder,Ready_to_Move
+687,Telangana,Hyderabad,Locality_96,Apartment,2,3433,115.62,0.03,2020,Furnished,6,26,5,5,3,Medium,Yes,No,"Pool, Garden",North,Owner,Ready_to_Move
+688,Madhya Pradesh,Bhopal,Locality_196,Independent House,2,1779,158.34,0.09,2002,Furnished,13,16,23,8,8,Medium,Yes,No,"Pool, Playground, Garden, Gym",South,Builder,Under_Construction
+689,Delhi,Dwarka,Locality_205,Villa,4,4165,418.1,0.1,1992,Unfurnished,24,16,33,4,8,Low,No,Yes,"Playground, Gym, Garden, Clubhouse",East,Owner,Under_Construction
+690,Assam,Silchar,Locality_261,Villa,2,4898,108.59,0.02,1996,Unfurnished,13,18,29,5,8,Low,Yes,No,Playground,North,Broker,Under_Construction
+691,Haryana,Faridabad,Locality_409,Villa,4,3893,379.88,0.1,2016,Semi-furnished,16,27,9,10,9,Low,No,No,"Clubhouse, Garden, Gym, Pool",East,Broker,Ready_to_Move
+692,Maharashtra,Nagpur,Locality_325,Villa,3,3296,363.65,0.11,2021,Semi-furnished,22,17,4,1,5,High,No,Yes,Gym,North,Broker,Under_Construction
+693,Telangana,Warangal,Locality_345,Villa,4,3176,422.41,0.13,2006,Semi-furnished,4,13,19,9,7,Low,No,Yes,"Clubhouse, Garden",East,Owner,Ready_to_Move
+694,Odisha,Bhubaneswar,Locality_420,Independent House,1,4193,204.44,0.05,1990,Furnished,21,27,35,4,4,Low,No,No,"Playground, Pool, Gym",East,Owner,Under_Construction
+695,Tamil Nadu,Coimbatore,Locality_163,Apartment,5,824,464.32,0.56,2004,Unfurnished,18,13,21,5,5,Low,No,No,"Clubhouse, Pool, Playground",East,Broker,Ready_to_Move
+696,Telangana,Warangal,Locality_165,Independent House,1,2634,165.55,0.06,2015,Semi-furnished,29,15,10,3,8,High,No,No,"Pool, Playground, Clubhouse, Garden, Gym",East,Builder,Ready_to_Move
+697,Madhya Pradesh,Indore,Locality_375,Independent House,5,540,355.65,0.66,2016,Semi-furnished,14,5,9,1,6,Low,Yes,No,Pool,South,Builder,Ready_to_Move
+698,Bihar,Patna,Locality_178,Villa,4,3542,310.41,0.09,2012,Semi-furnished,0,11,13,1,4,Medium,No,No,"Pool, Playground",South,Owner,Ready_to_Move
+699,West Bengal,Kolkata,Locality_92,Apartment,2,4365,243.4,0.06,2002,Semi-furnished,12,8,23,5,10,Low,No,No,"Playground, Clubhouse",North,Builder,Ready_to_Move
+700,Telangana,Warangal,Locality_351,Apartment,5,3985,219.7,0.06,1994,Semi-furnished,12,14,31,1,9,Low,Yes,Yes,"Pool, Gym, Clubhouse",East,Owner,Under_Construction
+701,Gujarat,Ahmedabad,Locality_277,Apartment,5,3352,185.3,0.06,2021,Semi-furnished,29,21,4,4,10,Medium,No,No,"Playground, Gym, Pool",South,Builder,Under_Construction
+702,Assam,Guwahati,Locality_435,Independent House,4,4872,474.45,0.1,1990,Unfurnished,16,21,35,4,4,High,No,No,"Garden, Gym, Clubhouse, Pool",South,Broker,Ready_to_Move
+703,Punjab,Amritsar,Locality_265,Apartment,5,626,210.49,0.34,2018,Semi-furnished,3,3,7,9,2,Medium,Yes,No,Garden,East,Owner,Under_Construction
+704,Uttarakhand,Dehradun,Locality_154,Villa,4,1564,166.3,0.11,1997,Semi-furnished,1,5,28,9,3,Low,No,No,"Garden, Clubhouse, Pool, Gym",West,Broker,Ready_to_Move
+705,Chhattisgarh,Bilaspur,Locality_440,Villa,4,917,210.98,0.23,2005,Semi-furnished,26,20,20,4,6,High,No,No,"Gym, Clubhouse, Playground",East,Builder,Under_Construction
+706,Odisha,Bhubaneswar,Locality_63,Independent House,2,611,359.75,0.59,1991,Furnished,28,1,34,3,5,Medium,Yes,No,"Playground, Pool",West,Owner,Ready_to_Move
+707,Bihar,Patna,Locality_166,Apartment,4,718,387.03,0.54,1996,Furnished,15,25,29,6,8,Low,No,No,"Pool, Clubhouse, Garden, Gym, Playground",East,Owner,Ready_to_Move
+708,Telangana,Warangal,Locality_351,Villa,3,789,494.11,0.63,2021,Furnished,15,8,4,10,10,Low,Yes,Yes,"Playground, Gym",East,Broker,Under_Construction
+709,Jharkhand,Ranchi,Locality_236,Apartment,1,3612,405.64,0.11,2023,Semi-furnished,6,20,2,5,8,Medium,Yes,Yes,"Playground, Clubhouse, Garden",West,Owner,Under_Construction
+710,Punjab,Amritsar,Locality_47,Villa,2,1338,366.62,0.27,2020,Unfurnished,29,22,5,8,8,Low,Yes,No,"Pool, Playground, Garden, Clubhouse",South,Broker,Under_Construction
+711,Haryana,Faridabad,Locality_426,Villa,3,4721,158.07,0.03,2000,Furnished,14,30,25,7,9,Medium,Yes,No,"Clubhouse, Pool, Gym",North,Owner,Under_Construction
+712,Rajasthan,Jaipur,Locality_343,Apartment,5,792,213.49,0.27,2018,Unfurnished,18,21,7,6,4,Low,Yes,Yes,"Pool, Clubhouse, Playground, Gym",South,Owner,Ready_to_Move
+713,Delhi,Dwarka,Locality_440,Apartment,5,3685,130.38,0.04,2005,Unfurnished,8,5,20,8,6,Low,Yes,No,"Pool, Gym, Garden",West,Broker,Under_Construction
+714,Punjab,Ludhiana,Locality_5,Independent House,5,4359,493.63,0.11,2016,Furnished,20,19,9,7,3,High,No,Yes,"Clubhouse, Gym, Garden, Playground",West,Builder,Ready_to_Move
+715,Bihar,Gaya,Locality_68,Independent House,4,4013,204.34,0.05,1997,Furnished,11,14,28,3,3,High,No,No,"Garden, Playground",South,Owner,Ready_to_Move
+716,Rajasthan,Jaipur,Locality_293,Villa,3,768,12.95,0.02,2009,Furnished,13,19,16,7,1,High,No,Yes,"Pool, Clubhouse, Playground, Garden",East,Broker,Under_Construction
+717,Bihar,Patna,Locality_177,Independent House,2,1534,370.55,0.24,2014,Semi-furnished,27,2,11,4,8,Low,No,No,"Pool, Playground, Garden, Clubhouse, Gym",West,Owner,Under_Construction
+718,Jharkhand,Jamshedpur,Locality_11,Apartment,4,4490,150.61,0.03,1991,Unfurnished,23,4,34,7,10,Low,Yes,No,"Gym, Playground",West,Broker,Ready_to_Move
+719,Uttarakhand,Dehradun,Locality_46,Villa,5,4580,212.83,0.05,2008,Furnished,7,4,17,9,1,High,No,No,"Garden, Gym",North,Owner,Under_Construction
+720,Andhra Pradesh,Vishakhapatnam,Locality_416,Apartment,2,825,256.47,0.31,2020,Semi-furnished,8,23,5,2,9,Low,No,Yes,"Pool, Gym, Clubhouse, Garden",West,Owner,Under_Construction
+721,Haryana,Faridabad,Locality_27,Villa,2,4041,251.42,0.06,2010,Semi-furnished,16,30,15,7,3,Low,No,No,"Gym, Pool, Garden, Clubhouse, Playground",West,Broker,Under_Construction
+722,Maharashtra,Pune,Locality_140,Independent House,3,2027,248.55,0.12,1998,Semi-furnished,18,10,27,5,8,Medium,No,No,"Playground, Gym, Garden",West,Builder,Under_Construction
+723,Odisha,Bhubaneswar,Locality_71,Villa,2,4853,169.67,0.03,2007,Furnished,7,17,18,8,8,Low,Yes,Yes,Clubhouse,North,Owner,Ready_to_Move
+724,Haryana,Gurgaon,Locality_254,Apartment,1,3993,123.78,0.03,2012,Furnished,14,5,13,1,10,Low,Yes,No,"Clubhouse, Garden, Pool",South,Builder,Under_Construction
+725,Gujarat,Ahmedabad,Locality_92,Apartment,3,4969,214.87,0.04,2022,Semi-furnished,16,25,3,6,10,High,Yes,Yes,"Pool, Playground, Clubhouse",West,Owner,Under_Construction
+726,Odisha,Cuttack,Locality_329,Apartment,3,4887,264.07,0.05,2016,Semi-furnished,8,28,9,3,10,Medium,Yes,No,Garden,North,Owner,Ready_to_Move
+727,Uttar Pradesh,Noida,Locality_141,Villa,2,4365,234.85,0.05,2017,Unfurnished,22,6,8,3,7,Low,Yes,No,Gym,West,Builder,Ready_to_Move
+728,Madhya Pradesh,Bhopal,Locality_379,Apartment,3,4417,369.7,0.08,1997,Unfurnished,18,24,28,9,1,High,No,No,"Playground, Gym, Pool",South,Builder,Ready_to_Move
+729,Punjab,Amritsar,Locality_134,Apartment,5,1177,498.47,0.42,2017,Unfurnished,7,23,8,9,2,High,Yes,No,Gym,South,Builder,Under_Construction
+730,Haryana,Faridabad,Locality_292,Apartment,4,3437,409.3,0.12,2005,Furnished,28,15,20,1,9,Low,No,No,"Playground, Gym",West,Owner,Under_Construction
+731,Punjab,Ludhiana,Locality_194,Apartment,5,4546,426.48,0.09,2003,Furnished,20,3,22,4,1,High,Yes,No,"Gym, Pool, Garden, Playground",South,Broker,Under_Construction
+732,Uttarakhand,Haridwar,Locality_182,Apartment,4,3379,101.86,0.03,2012,Furnished,1,22,13,1,2,High,No,No,"Clubhouse, Garden",North,Owner,Ready_to_Move
+733,Punjab,Ludhiana,Locality_465,Villa,4,2857,437.74,0.15,2022,Unfurnished,29,14,3,2,3,Low,Yes,Yes,Garden,East,Builder,Under_Construction
+734,Chhattisgarh,Raipur,Locality_290,Villa,2,4321,436.5,0.1,1996,Semi-furnished,13,6,29,7,6,Medium,No,Yes,"Pool, Garden",South,Owner,Ready_to_Move
+735,Maharashtra,Nagpur,Locality_328,Independent House,4,3657,176.91,0.05,2009,Furnished,29,22,16,7,2,Low,No,Yes,"Playground, Gym, Garden, Clubhouse",South,Broker,Under_Construction
+736,Assam,Guwahati,Locality_376,Independent House,5,1889,382.73,0.2,2013,Furnished,2,13,12,2,2,Medium,Yes,Yes,"Playground, Pool",North,Owner,Ready_to_Move
+737,Uttar Pradesh,Lucknow,Locality_104,Villa,1,986,356.61,0.36,2007,Unfurnished,25,29,18,3,4,Low,Yes,No,"Pool, Clubhouse, Playground, Gym",East,Owner,Ready_to_Move
+738,Delhi,Dwarka,Locality_85,Villa,1,1702,265.09,0.16,1999,Semi-furnished,18,22,26,2,10,High,Yes,Yes,"Garden, Gym, Pool, Clubhouse",North,Builder,Ready_to_Move
+739,Rajasthan,Jaipur,Locality_209,Apartment,4,3733,456.37,0.12,2014,Unfurnished,6,20,11,1,1,Medium,Yes,Yes,"Pool, Playground, Gym, Clubhouse, Garden",West,Builder,Ready_to_Move
+740,Telangana,Warangal,Locality_365,Independent House,3,4605,460.32,0.1,2023,Unfurnished,4,11,2,8,5,Low,Yes,Yes,"Clubhouse, Pool, Playground, Gym, Garden",West,Broker,Ready_to_Move
+741,Odisha,Cuttack,Locality_292,Independent House,1,1271,365.81,0.29,2004,Semi-furnished,30,15,21,10,1,Medium,No,Yes,"Playground, Garden",South,Builder,Ready_to_Move
+742,Chhattisgarh,Bilaspur,Locality_116,Apartment,2,760,439.2,0.58,2002,Unfurnished,27,3,23,2,2,Medium,No,Yes,"Playground, Clubhouse, Pool",West,Owner,Ready_to_Move
+743,Rajasthan,Jaipur,Locality_365,Villa,5,3453,188.46,0.05,2015,Furnished,0,4,10,2,4,Medium,No,No,"Gym, Clubhouse, Garden",East,Builder,Under_Construction
+744,Odisha,Cuttack,Locality_455,Villa,2,1200,437.03,0.36,2022,Semi-furnished,14,14,3,1,9,High,No,No,Garden,West,Owner,Under_Construction
+745,Odisha,Bhubaneswar,Locality_476,Independent House,2,1839,450.94,0.25,2010,Furnished,5,1,15,1,2,Low,Yes,No,"Gym, Clubhouse",East,Owner,Ready_to_Move
+746,Bihar,Patna,Locality_25,Apartment,5,1652,54.3,0.03,2023,Semi-furnished,28,6,2,4,2,High,No,No,"Garden, Pool",South,Builder,Ready_to_Move
+747,Maharashtra,Nagpur,Locality_295,Villa,1,1341,453.07,0.34,1990,Furnished,27,3,35,9,8,Medium,Yes,No,Playground,South,Builder,Under_Construction
+748,Delhi,Dwarka,Locality_70,Independent House,4,1302,449.87,0.35,2012,Furnished,12,3,13,3,8,Medium,No,Yes,"Clubhouse, Gym, Pool, Garden",West,Owner,Under_Construction
+749,Kerala,Kochi,Locality_334,Apartment,3,2180,152.17,0.07,2007,Unfurnished,7,17,18,2,7,Medium,No,Yes,"Garden, Clubhouse",South,Builder,Ready_to_Move
+750,Rajasthan,Jaipur,Locality_63,Villa,4,1531,181.48,0.12,2015,Semi-furnished,19,23,10,4,10,High,No,Yes,"Pool, Gym, Clubhouse",East,Owner,Under_Construction
+751,Andhra Pradesh,Vishakhapatnam,Locality_192,Villa,2,2028,467.68,0.23,2008,Unfurnished,6,28,17,9,5,Low,Yes,No,"Playground, Gym, Pool, Clubhouse, Garden",South,Builder,Under_Construction
+752,Rajasthan,Jaipur,Locality_173,Apartment,4,2510,279.8,0.11,2017,Semi-furnished,28,29,8,10,4,Medium,No,Yes,"Clubhouse, Playground, Garden, Gym, Pool",West,Builder,Under_Construction
+753,Kerala,Trivandrum,Locality_444,Apartment,3,3650,399.31,0.11,2014,Furnished,26,28,11,3,10,High,Yes,Yes,"Playground, Garden, Clubhouse",North,Builder,Under_Construction
+754,Jharkhand,Jamshedpur,Locality_65,Villa,3,3982,183.37,0.05,2007,Semi-furnished,27,17,18,9,9,Low,No,No,"Playground, Garden, Pool, Clubhouse, Gym",South,Builder,Under_Construction
+755,Madhya Pradesh,Bhopal,Locality_133,Villa,5,2490,177.3,0.07,2013,Unfurnished,23,22,12,4,4,High,Yes,Yes,"Garden, Playground",West,Broker,Under_Construction
+756,Odisha,Cuttack,Locality_491,Independent House,4,1354,51.21,0.04,2012,Unfurnished,1,28,13,1,4,High,Yes,Yes,"Playground, Gym",East,Owner,Under_Construction
+757,Chhattisgarh,Bilaspur,Locality_438,Apartment,2,4419,334.06,0.08,2019,Semi-furnished,3,8,6,6,5,High,Yes,No,"Garden, Pool, Gym, Clubhouse",North,Owner,Ready_to_Move
+758,Assam,Silchar,Locality_241,Villa,4,2326,101.7,0.04,1993,Semi-furnished,30,4,32,2,3,Low,No,Yes,"Clubhouse, Pool, Garden, Gym, Playground",South,Owner,Ready_to_Move
+759,Madhya Pradesh,Bhopal,Locality_175,Apartment,4,2300,229.11,0.1,2012,Unfurnished,16,15,13,7,4,Low,Yes,Yes,"Playground, Clubhouse, Gym",North,Owner,Under_Construction
+760,Telangana,Hyderabad,Locality_129,Villa,3,2143,139.7,0.07,2021,Furnished,8,13,4,6,8,Low,No,Yes,"Playground, Garden, Pool, Gym, Clubhouse",South,Builder,Ready_to_Move
+761,Chhattisgarh,Raipur,Locality_386,Independent House,4,1742,380.49,0.22,2010,Unfurnished,13,23,15,3,2,Medium,No,No,"Pool, Garden, Playground",East,Broker,Ready_to_Move
+762,Haryana,Gurgaon,Locality_448,Apartment,4,3412,38.66,0.01,1996,Unfurnished,28,29,29,3,8,High,No,Yes,"Pool, Playground",South,Broker,Under_Construction
+763,Madhya Pradesh,Bhopal,Locality_193,Independent House,2,1928,152.42,0.08,2002,Unfurnished,15,27,23,5,4,Low,No,Yes,"Pool, Garden",North,Builder,Under_Construction
+764,Bihar,Patna,Locality_451,Independent House,2,2826,495.42,0.18,1993,Semi-furnished,12,21,32,1,1,High,No,No,"Playground, Garden",South,Builder,Ready_to_Move
+765,Punjab,Amritsar,Locality_421,Independent House,1,4922,236.53,0.05,2006,Furnished,3,29,19,6,3,Low,Yes,Yes,"Pool, Clubhouse, Garden",East,Builder,Under_Construction
+766,Kerala,Trivandrum,Locality_249,Villa,4,2327,302.15,0.13,2017,Semi-furnished,0,15,8,4,2,Low,Yes,Yes,"Clubhouse, Pool, Gym",South,Broker,Under_Construction
+767,Punjab,Amritsar,Locality_342,Independent House,5,2600,490.67,0.19,2013,Furnished,11,9,12,8,6,High,Yes,No,"Clubhouse, Gym",West,Builder,Under_Construction
+768,Rajasthan,Jaipur,Locality_300,Independent House,3,3455,213.63,0.06,2003,Unfurnished,7,17,22,3,3,Medium,Yes,Yes,"Clubhouse, Gym",East,Builder,Under_Construction
+769,Tamil Nadu,Chennai,Locality_283,Villa,1,2835,132.82,0.05,1994,Semi-furnished,11,2,31,5,3,Medium,Yes,No,"Garden, Pool, Playground",North,Broker,Ready_to_Move
+770,Uttar Pradesh,Noida,Locality_80,Apartment,3,832,231.36,0.28,1991,Furnished,26,13,34,8,10,High,Yes,No,"Pool, Playground, Garden, Gym",North,Owner,Ready_to_Move
+771,Haryana,Faridabad,Locality_38,Villa,2,3410,393.99,0.12,2001,Semi-furnished,8,21,24,8,2,Low,No,Yes,"Garden, Pool, Gym, Playground, Clubhouse",East,Builder,Under_Construction
+772,Tamil Nadu,Coimbatore,Locality_59,Apartment,5,2398,191.36,0.08,2023,Semi-furnished,9,14,2,8,7,Low,No,No,"Clubhouse, Pool, Garden, Playground",North,Owner,Under_Construction
+773,Chhattisgarh,Raipur,Locality_190,Apartment,3,3733,40.58,0.01,2020,Furnished,10,14,5,9,7,High,No,No,Garden,North,Broker,Under_Construction
+774,Gujarat,Ahmedabad,Locality_426,Independent House,3,2663,463.5,0.17,2010,Unfurnished,20,2,15,4,9,Low,Yes,Yes,"Playground, Clubhouse, Gym, Pool, Garden",North,Owner,Under_Construction
+775,Uttar Pradesh,Noida,Locality_305,Apartment,5,2719,291.49,0.11,2020,Unfurnished,29,8,5,10,1,Low,No,Yes,"Gym, Playground, Clubhouse",West,Owner,Ready_to_Move
+776,Uttar Pradesh,Noida,Locality_139,Apartment,1,4183,422.09,0.1,1997,Unfurnished,20,17,28,9,6,Medium,Yes,Yes,Garden,East,Owner,Under_Construction
+777,Odisha,Bhubaneswar,Locality_304,Apartment,4,4000,75.25,0.02,2004,Unfurnished,8,21,21,6,6,Medium,Yes,No,"Clubhouse, Playground, Gym",North,Builder,Ready_to_Move
+778,Punjab,Ludhiana,Locality_316,Villa,3,2214,81.75,0.04,2012,Unfurnished,26,27,13,8,5,High,No,No,"Garden, Playground",South,Owner,Ready_to_Move
+779,Jharkhand,Jamshedpur,Locality_346,Apartment,5,4401,293.96,0.07,1991,Semi-furnished,25,14,34,9,2,Medium,No,No,"Gym, Garden, Pool, Playground, Clubhouse",South,Broker,Under_Construction
+780,Assam,Guwahati,Locality_183,Villa,5,3929,193.66,0.05,1999,Furnished,25,30,26,4,6,High,Yes,No,"Playground, Garden",South,Broker,Under_Construction
+781,Uttarakhand,Dehradun,Locality_444,Apartment,2,3901,21.15,0.01,2007,Semi-furnished,19,23,18,3,3,Low,Yes,No,"Clubhouse, Gym, Garden, Playground",South,Broker,Ready_to_Move
+782,Kerala,Kochi,Locality_224,Apartment,3,3713,34.24,0.01,2007,Furnished,23,7,18,8,3,Medium,No,Yes,"Garden, Clubhouse, Pool",West,Owner,Ready_to_Move
+783,Tamil Nadu,Chennai,Locality_46,Villa,2,1656,289.51,0.17,2012,Semi-furnished,4,2,13,8,8,High,No,No,"Gym, Playground, Garden, Pool",East,Broker,Under_Construction
+784,Uttar Pradesh,Lucknow,Locality_104,Independent House,3,1887,242.26,0.13,2013,Unfurnished,30,7,12,1,3,Low,No,Yes,"Gym, Clubhouse, Playground, Garden, Pool",West,Owner,Ready_to_Move
+785,Kerala,Kochi,Locality_31,Villa,4,3790,444.57,0.12,1998,Semi-furnished,7,28,27,7,4,Low,No,No,"Gym, Playground, Garden",North,Broker,Under_Construction
+786,Rajasthan,Jodhpur,Locality_159,Independent House,3,2685,459.54,0.17,2022,Furnished,1,15,3,4,3,Low,Yes,Yes,"Clubhouse, Playground",East,Owner,Ready_to_Move
+787,Madhya Pradesh,Indore,Locality_315,Independent House,5,1070,129.9,0.12,1996,Unfurnished,18,22,29,8,3,Low,No,Yes,"Garden, Clubhouse, Pool, Gym, Playground",North,Broker,Ready_to_Move
+788,Gujarat,Ahmedabad,Locality_463,Independent House,2,1483,39.7,0.03,2000,Semi-furnished,25,5,25,7,9,Low,No,Yes,"Garden, Gym",North,Builder,Under_Construction
+789,Kerala,Trivandrum,Locality_373,Independent House,1,4603,141.14,0.03,2008,Unfurnished,0,14,17,10,3,Low,No,Yes,Playground,North,Owner,Under_Construction
+790,Maharashtra,Nagpur,Locality_368,Apartment,5,3050,415.7,0.14,2017,Semi-furnished,13,21,8,3,1,High,No,Yes,"Pool, Garden",North,Builder,Ready_to_Move
+791,Chhattisgarh,Bilaspur,Locality_186,Independent House,4,1069,117.26,0.11,2014,Furnished,9,20,11,1,7,Low,Yes,No,"Clubhouse, Gym, Playground, Garden, Pool",South,Broker,Under_Construction
+792,West Bengal,Kolkata,Locality_377,Apartment,2,1748,132.32,0.08,2002,Furnished,6,7,23,8,5,Medium,No,No,"Garden, Gym, Pool",North,Builder,Under_Construction
+793,Punjab,Ludhiana,Locality_400,Apartment,3,3547,134.56,0.04,2013,Unfurnished,11,17,12,1,1,Low,Yes,Yes,"Clubhouse, Gym, Garden, Playground",South,Builder,Ready_to_Move
+794,Karnataka,Mangalore,Locality_261,Villa,1,4953,122.14,0.02,1998,Semi-furnished,0,14,27,6,2,Medium,Yes,Yes,"Gym, Playground",East,Owner,Under_Construction
+795,Karnataka,Bangalore,Locality_174,Villa,3,2716,99.46,0.04,2004,Furnished,7,7,21,3,8,Low,Yes,Yes,"Gym, Garden, Clubhouse, Playground, Pool",East,Owner,Ready_to_Move
+796,Chhattisgarh,Raipur,Locality_139,Independent House,5,735,414.46,0.56,2018,Semi-furnished,29,14,7,2,4,High,No,Yes,Pool,South,Broker,Under_Construction
+797,Kerala,Trivandrum,Locality_498,Apartment,1,1857,353.55,0.19,2012,Semi-furnished,15,25,13,5,10,Low,No,No,"Gym, Clubhouse",East,Builder,Ready_to_Move
+798,West Bengal,Durgapur,Locality_230,Independent House,3,1030,24.68,0.02,1990,Semi-furnished,2,3,35,1,4,High,Yes,Yes,"Garden, Clubhouse",South,Builder,Ready_to_Move
+799,Odisha,Cuttack,Locality_224,Villa,1,1046,32.34,0.03,2015,Furnished,13,13,10,5,3,Low,No,Yes,"Garden, Playground, Gym, Clubhouse, Pool",East,Owner,Under_Construction
+800,Tamil Nadu,Chennai,Locality_491,Independent House,5,1384,496.66,0.36,2001,Furnished,27,18,24,3,3,Low,Yes,Yes,"Playground, Gym, Garden",South,Builder,Under_Construction
+801,Maharashtra,Pune,Locality_158,Villa,4,2404,155.19,0.06,2004,Semi-furnished,13,5,21,1,4,Medium,No,Yes,"Playground, Garden, Pool, Clubhouse, Gym",East,Broker,Under_Construction
+802,Jharkhand,Ranchi,Locality_182,Independent House,4,2186,151.97,0.07,2012,Unfurnished,2,20,13,6,1,High,No,No,"Garden, Playground",East,Owner,Under_Construction
+803,Kerala,Trivandrum,Locality_9,Villa,3,3073,307.43,0.1,2023,Semi-furnished,11,12,2,7,8,High,No,No,"Garden, Pool, Gym, Clubhouse, Playground",South,Builder,Under_Construction
+804,Odisha,Bhubaneswar,Locality_64,Apartment,2,2089,499.52,0.24,2021,Semi-furnished,4,6,4,3,10,High,Yes,No,"Playground, Gym, Pool, Garden, Clubhouse",West,Owner,Under_Construction
+805,Odisha,Bhubaneswar,Locality_498,Independent House,3,4949,192.85,0.04,2022,Unfurnished,0,13,3,10,2,Medium,Yes,No,"Clubhouse, Pool, Gym, Playground, Garden",South,Builder,Ready_to_Move
+806,Bihar,Gaya,Locality_151,Apartment,1,1060,427.46,0.4,2013,Semi-furnished,23,6,12,3,2,Medium,No,No,"Gym, Clubhouse, Garden, Pool",West,Owner,Under_Construction
+807,Haryana,Gurgaon,Locality_334,Villa,2,4634,114.31,0.02,2006,Furnished,6,4,19,3,10,Low,Yes,No,"Pool, Gym, Playground",East,Builder,Under_Construction
+808,Gujarat,Ahmedabad,Locality_230,Apartment,2,4495,167.94,0.04,2001,Furnished,26,11,24,5,7,Low,Yes,Yes,"Gym, Pool, Clubhouse, Playground, Garden",East,Builder,Ready_to_Move
+809,Karnataka,Mangalore,Locality_238,Villa,1,3491,251.42,0.07,2006,Unfurnished,14,2,19,4,5,High,No,No,"Pool, Gym",North,Builder,Under_Construction
+810,Punjab,Ludhiana,Locality_341,Apartment,5,4395,390.65,0.09,1993,Semi-furnished,16,6,32,1,6,Medium,No,No,"Garden, Gym, Clubhouse, Playground, Pool",North,Owner,Ready_to_Move
+811,Odisha,Bhubaneswar,Locality_356,Apartment,4,1798,314.68,0.18,1993,Furnished,11,4,32,10,7,High,Yes,No,Pool,North,Broker,Under_Construction
+812,Tamil Nadu,Coimbatore,Locality_193,Independent House,3,4595,321.07,0.07,2002,Furnished,21,22,23,7,2,High,No,Yes,"Gym, Pool",North,Builder,Ready_to_Move
+813,Delhi,Dwarka,Locality_100,Independent House,4,4204,315.29,0.07,2001,Unfurnished,0,10,24,4,8,High,Yes,Yes,"Garden, Pool, Clubhouse",West,Builder,Under_Construction
+814,Andhra Pradesh,Vijayawada,Locality_362,Apartment,1,1183,485.34,0.41,2010,Furnished,29,11,15,2,2,High,Yes,Yes,Playground,East,Broker,Under_Construction
+815,Odisha,Bhubaneswar,Locality_172,Villa,4,4878,465.48,0.1,2023,Unfurnished,12,7,2,4,4,Low,No,No,Garden,South,Builder,Ready_to_Move
+816,Delhi,New Delhi,Locality_453,Villa,5,4796,498.85,0.1,2006,Unfurnished,2,10,19,1,3,High,No,Yes,"Clubhouse, Garden, Playground",East,Builder,Ready_to_Move
+817,Jharkhand,Ranchi,Locality_198,Apartment,3,1112,267.26,0.24,1991,Semi-furnished,2,20,34,3,4,Low,No,Yes,"Garden, Pool, Playground, Gym",North,Builder,Under_Construction
+818,Karnataka,Bangalore,Locality_194,Independent House,1,4942,30.14,0.01,2011,Unfurnished,8,24,14,8,5,Medium,Yes,No,"Playground, Gym",East,Owner,Ready_to_Move
+819,West Bengal,Kolkata,Locality_373,Independent House,5,4990,469.66,0.09,2020,Semi-furnished,3,16,5,9,6,Low,No,Yes,"Clubhouse, Gym, Playground, Garden, Pool",North,Builder,Under_Construction
+820,West Bengal,Kolkata,Locality_325,Independent House,1,3602,18.76,0.01,1991,Semi-furnished,5,22,34,2,2,Medium,Yes,No,Clubhouse,West,Owner,Under_Construction
+821,Jharkhand,Ranchi,Locality_304,Independent House,2,2807,415.39,0.15,2018,Semi-furnished,23,28,7,9,3,High,Yes,Yes,"Playground, Gym",South,Broker,Ready_to_Move
+822,Kerala,Kochi,Locality_292,Villa,5,1400,490.59,0.35,2004,Unfurnished,15,20,21,3,1,Low,Yes,Yes,"Gym, Garden, Clubhouse, Pool",North,Broker,Ready_to_Move
+823,Delhi,New Delhi,Locality_251,Apartment,5,1131,23.33,0.02,1994,Unfurnished,14,13,31,7,5,Low,Yes,No,"Playground, Gym",North,Owner,Ready_to_Move
+824,Rajasthan,Jodhpur,Locality_421,Apartment,2,1442,65.96,0.05,2012,Furnished,24,1,13,9,1,High,No,Yes,"Garden, Playground",East,Owner,Under_Construction
+825,Tamil Nadu,Coimbatore,Locality_474,Independent House,3,4508,92.3,0.02,2000,Semi-furnished,6,21,25,8,7,Medium,Yes,No,Playground,South,Broker,Under_Construction
+826,Chhattisgarh,Bilaspur,Locality_238,Independent House,2,1990,475.7,0.24,2019,Unfurnished,30,8,6,10,7,Medium,No,No,"Garden, Gym, Pool, Playground, Clubhouse",West,Owner,Ready_to_Move
+827,Telangana,Warangal,Locality_136,Apartment,5,4029,299.62,0.07,2000,Semi-furnished,30,21,25,6,1,Medium,No,No,"Clubhouse, Pool",East,Broker,Under_Construction
+828,Uttarakhand,Dehradun,Locality_283,Villa,1,1494,470.86,0.32,2009,Furnished,1,29,16,7,2,Medium,No,Yes,"Pool, Garden, Playground, Clubhouse, Gym",North,Broker,Ready_to_Move
+829,Uttarakhand,Haridwar,Locality_256,Apartment,5,1150,271.45,0.24,2007,Furnished,2,29,18,2,2,Low,Yes,No,"Pool, Clubhouse, Playground, Garden",South,Broker,Ready_to_Move
+830,Uttarakhand,Haridwar,Locality_279,Villa,5,3158,62.77,0.02,2018,Unfurnished,20,21,7,3,5,Low,Yes,Yes,"Playground, Gym, Garden",West,Owner,Ready_to_Move
+831,Rajasthan,Jaipur,Locality_24,Villa,2,1459,158.21,0.11,2012,Furnished,8,12,13,9,2,Medium,Yes,Yes,"Garden, Clubhouse",North,Broker,Under_Construction
+832,Assam,Guwahati,Locality_29,Villa,5,2124,209.47,0.1,1996,Furnished,23,28,29,6,7,Medium,Yes,Yes,"Gym, Clubhouse, Pool, Garden",West,Builder,Ready_to_Move
+833,Andhra Pradesh,Vijayawada,Locality_92,Apartment,5,4753,137.91,0.03,2001,Semi-furnished,4,15,24,9,10,High,Yes,Yes,"Garden, Gym",East,Builder,Under_Construction
+834,Bihar,Gaya,Locality_154,Apartment,3,2888,317.68,0.11,1990,Unfurnished,5,26,35,4,5,High,Yes,Yes,"Garden, Pool, Clubhouse, Playground",West,Broker,Under_Construction
+835,Bihar,Gaya,Locality_460,Villa,5,1358,494.21,0.36,2015,Furnished,21,3,10,9,9,High,Yes,No,"Pool, Clubhouse, Garden, Gym",South,Builder,Ready_to_Move
+836,Kerala,Trivandrum,Locality_113,Independent House,4,4912,64.77,0.01,1998,Unfurnished,6,8,27,2,9,High,Yes,No,"Pool, Garden, Playground, Gym, Clubhouse",West,Owner,Under_Construction
+837,Jharkhand,Ranchi,Locality_197,Independent House,3,4495,384.39,0.09,1990,Semi-furnished,10,25,35,10,2,High,No,No,"Playground, Pool",North,Broker,Ready_to_Move
+838,Telangana,Hyderabad,Locality_488,Villa,2,2851,223.81,0.08,2012,Furnished,11,13,13,8,3,Low,No,No,"Pool, Clubhouse, Playground",South,Builder,Ready_to_Move
+839,Kerala,Kochi,Locality_119,Apartment,2,4983,159.56,0.03,2003,Furnished,24,23,22,9,6,High,No,Yes,"Gym, Playground, Garden, Clubhouse, Pool",East,Builder,Ready_to_Move
+840,Jharkhand,Ranchi,Locality_133,Independent House,5,4305,435.28,0.1,2022,Semi-furnished,14,10,3,4,8,High,No,No,"Clubhouse, Pool, Garden, Gym, Playground",North,Builder,Ready_to_Move
+841,Uttarakhand,Haridwar,Locality_228,Villa,3,4028,166.64,0.04,1998,Furnished,14,26,27,2,5,Low,Yes,No,Playground,East,Broker,Under_Construction
+842,Karnataka,Bangalore,Locality_261,Villa,5,1287,383.83,0.3,2019,Semi-furnished,8,12,6,1,9,Medium,Yes,Yes,Gym,East,Builder,Under_Construction
+843,Uttarakhand,Haridwar,Locality_222,Villa,1,4245,487.2,0.11,2023,Furnished,6,10,2,4,4,Medium,Yes,Yes,Clubhouse,North,Owner,Under_Construction
+844,Tamil Nadu,Coimbatore,Locality_465,Villa,1,569,425.43,0.75,1993,Semi-furnished,27,30,32,5,4,Medium,No,Yes,Gym,North,Broker,Under_Construction
+845,Uttar Pradesh,Lucknow,Locality_180,Independent House,4,4910,276.1,0.06,2016,Unfurnished,1,6,9,8,2,Medium,No,Yes,"Pool, Gym, Playground, Clubhouse",West,Builder,Under_Construction
+846,Uttar Pradesh,Lucknow,Locality_112,Villa,4,2119,113.66,0.05,2014,Furnished,16,13,11,2,1,Low,Yes,Yes,"Pool, Clubhouse, Gym, Garden, Playground",East,Builder,Under_Construction
+847,Punjab,Amritsar,Locality_495,Villa,1,2248,303.96,0.14,1998,Semi-furnished,17,28,27,2,10,Low,No,No,"Clubhouse, Playground",West,Broker,Ready_to_Move
+848,Delhi,Dwarka,Locality_209,Villa,3,1110,471.52,0.42,2010,Semi-furnished,5,7,15,2,10,Low,Yes,No,"Garden, Playground, Clubhouse",East,Builder,Ready_to_Move
+849,Gujarat,Ahmedabad,Locality_154,Villa,1,2350,56.79,0.02,2013,Semi-furnished,9,26,12,1,9,High,Yes,Yes,"Playground, Pool",East,Owner,Under_Construction
+850,Rajasthan,Jaipur,Locality_404,Villa,5,1574,409.32,0.26,2010,Semi-furnished,1,27,15,5,1,Low,Yes,No,Garden,South,Broker,Under_Construction
+851,Gujarat,Ahmedabad,Locality_217,Apartment,2,1074,63.73,0.06,1994,Unfurnished,22,24,31,4,8,High,Yes,No,"Pool, Garden, Clubhouse, Playground",East,Broker,Under_Construction
+852,Chhattisgarh,Bilaspur,Locality_136,Villa,4,779,225.97,0.29,2008,Furnished,15,7,17,5,8,High,No,Yes,"Pool, Garden",North,Broker,Ready_to_Move
+853,Delhi,Dwarka,Locality_306,Villa,5,2450,384,0.16,2012,Unfurnished,5,11,13,4,4,Low,Yes,No,"Pool, Gym, Garden, Clubhouse",West,Broker,Under_Construction
+854,Gujarat,Ahmedabad,Locality_189,Villa,2,1104,25.1,0.02,2017,Furnished,8,29,8,2,8,Medium,No,Yes,"Pool, Gym",South,Builder,Ready_to_Move
+855,Maharashtra,Pune,Locality_220,Independent House,1,2216,276.06,0.12,2002,Semi-furnished,30,14,23,3,7,Low,Yes,Yes,"Gym, Garden, Clubhouse, Playground",West,Broker,Ready_to_Move
+856,Telangana,Warangal,Locality_411,Independent House,4,2551,426.65,0.17,1995,Unfurnished,24,15,30,2,6,High,Yes,Yes,"Garden, Pool, Clubhouse, Playground, Gym",West,Builder,Ready_to_Move
+857,Bihar,Gaya,Locality_155,Apartment,2,3801,38.46,0.01,2004,Furnished,30,17,21,5,8,Medium,Yes,No,Garden,North,Builder,Under_Construction
+858,Uttarakhand,Haridwar,Locality_131,Independent House,1,5000,145.98,0.03,2015,Semi-furnished,25,3,10,5,10,Low,No,Yes,"Gym, Pool",South,Owner,Ready_to_Move
+859,Odisha,Cuttack,Locality_126,Apartment,1,733,184.78,0.25,2020,Semi-furnished,0,26,5,9,4,Low,No,No,"Pool, Playground, Clubhouse",North,Broker,Ready_to_Move
+860,Kerala,Trivandrum,Locality_161,Apartment,1,4941,439.72,0.09,2014,Semi-furnished,24,14,11,1,9,High,No,No,"Garden, Gym",North,Broker,Under_Construction
+861,Karnataka,Mangalore,Locality_416,Apartment,5,2354,337.59,0.14,1991,Semi-furnished,20,24,34,9,7,Low,Yes,Yes,"Gym, Playground, Clubhouse",North,Broker,Ready_to_Move
+862,Rajasthan,Jaipur,Locality_369,Independent House,1,4317,494.12,0.11,1992,Semi-furnished,11,19,33,3,3,Low,No,Yes,Pool,South,Builder,Ready_to_Move
+863,Kerala,Kochi,Locality_246,Independent House,1,2072,313.28,0.15,2004,Furnished,13,18,21,10,6,Medium,Yes,No,"Garden, Gym, Pool, Clubhouse, Playground",South,Owner,Under_Construction
+864,Kerala,Trivandrum,Locality_215,Villa,5,652,224.98,0.35,2006,Furnished,17,6,19,6,4,High,Yes,Yes,"Clubhouse, Garden, Gym, Playground",West,Builder,Ready_to_Move
+865,Bihar,Patna,Locality_433,Independent House,3,3274,29.21,0.01,1994,Furnished,3,1,31,7,9,Low,No,No,"Garden, Playground, Gym",South,Builder,Under_Construction
+866,Delhi,Dwarka,Locality_467,Independent House,3,4622,53.53,0.01,1996,Furnished,9,30,29,5,7,High,Yes,No,"Pool, Playground, Clubhouse, Garden",West,Builder,Ready_to_Move
+867,Rajasthan,Jodhpur,Locality_424,Independent House,3,3671,325.59,0.09,2019,Unfurnished,0,19,6,7,6,High,No,Yes,"Gym, Clubhouse",East,Builder,Ready_to_Move
+868,Punjab,Amritsar,Locality_197,Independent House,3,2324,62.49,0.03,2007,Unfurnished,26,2,18,7,6,High,No,Yes,"Clubhouse, Pool, Playground, Gym",North,Builder,Ready_to_Move
+869,Jharkhand,Ranchi,Locality_46,Apartment,4,2555,306.93,0.12,2004,Semi-furnished,19,30,21,4,5,Low,No,Yes,"Garden, Playground, Gym, Pool",North,Broker,Under_Construction
+870,Uttar Pradesh,Noida,Locality_244,Apartment,2,3602,98.37,0.03,2008,Unfurnished,12,5,17,8,10,Low,Yes,No,"Garden, Playground, Clubhouse",West,Broker,Ready_to_Move
+871,Telangana,Warangal,Locality_435,Independent House,3,3136,343.39,0.11,2012,Unfurnished,24,3,13,4,3,Medium,No,No,"Garden, Pool, Clubhouse",West,Broker,Under_Construction
+872,Tamil Nadu,Chennai,Locality_273,Villa,4,1050,404.92,0.39,2002,Unfurnished,19,23,23,7,7,Low,Yes,Yes,"Clubhouse, Garden, Playground",West,Broker,Under_Construction
+873,Chhattisgarh,Bilaspur,Locality_468,Independent House,2,3363,164.67,0.05,2009,Furnished,8,15,16,7,9,Medium,No,No,"Garden, Clubhouse, Playground, Pool, Gym",East,Owner,Ready_to_Move
+874,Rajasthan,Jaipur,Locality_200,Apartment,3,717,326.66,0.46,1995,Semi-furnished,24,11,30,3,8,High,No,No,Playground,East,Owner,Ready_to_Move
+875,West Bengal,Durgapur,Locality_266,Apartment,1,741,335.94,0.45,2016,Semi-furnished,13,29,9,6,7,Medium,Yes,Yes,"Pool, Gym, Garden, Clubhouse, Playground",West,Owner,Ready_to_Move
+876,Punjab,Ludhiana,Locality_369,Apartment,2,2354,208.49,0.09,2009,Unfurnished,16,19,16,1,2,Medium,No,No,Gym,North,Broker,Ready_to_Move
+877,West Bengal,Durgapur,Locality_11,Apartment,3,3710,454.99,0.12,2000,Semi-furnished,19,21,25,1,7,Low,No,No,"Clubhouse, Gym, Garden, Pool, Playground",East,Builder,Under_Construction
+878,Delhi,New Delhi,Locality_34,Independent House,5,1112,320.91,0.29,2017,Unfurnished,13,1,8,6,1,High,No,Yes,"Pool, Garden, Playground",East,Broker,Ready_to_Move
+879,Karnataka,Bangalore,Locality_314,Apartment,3,3674,218.51,0.06,1990,Unfurnished,22,12,35,8,10,Low,No,No,"Playground, Clubhouse, Gym, Garden, Pool",North,Owner,Under_Construction
+880,Gujarat,Surat,Locality_74,Apartment,1,2831,333.64,0.12,2021,Unfurnished,0,1,4,3,2,Medium,No,No,"Gym, Clubhouse, Garden",East,Broker,Ready_to_Move
+881,Kerala,Trivandrum,Locality_313,Independent House,3,2196,379.61,0.17,1996,Furnished,7,30,29,5,10,High,No,No,"Pool, Gym, Garden, Playground",North,Broker,Ready_to_Move
+882,Uttarakhand,Dehradun,Locality_198,Independent House,5,1798,18.25,0.01,2023,Furnished,21,18,2,2,10,Low,Yes,Yes,"Garden, Clubhouse, Pool, Playground, Gym",East,Builder,Ready_to_Move
+883,Jharkhand,Jamshedpur,Locality_265,Independent House,3,4034,490.35,0.12,1994,Unfurnished,30,6,31,5,4,Medium,No,No,"Playground, Garden",East,Owner,Ready_to_Move
+884,Kerala,Trivandrum,Locality_326,Independent House,2,2534,325.03,0.13,2000,Unfurnished,0,6,25,2,3,High,No,No,"Playground, Pool, Clubhouse, Gym, Garden",South,Owner,Ready_to_Move
+885,Bihar,Patna,Locality_245,Apartment,2,1051,411.57,0.39,2013,Furnished,1,28,12,1,5,Low,No,Yes,"Playground, Pool, Garden, Gym, Clubhouse",North,Builder,Ready_to_Move
+886,Tamil Nadu,Coimbatore,Locality_76,Apartment,1,4140,232.25,0.06,2001,Semi-furnished,4,13,24,1,2,Low,Yes,No,"Garden, Pool, Playground",South,Owner,Ready_to_Move
+887,Bihar,Patna,Locality_388,Villa,2,4047,253.31,0.06,2008,Furnished,24,1,17,5,1,High,No,Yes,"Clubhouse, Pool, Garden",West,Owner,Ready_to_Move
+888,Kerala,Kochi,Locality_433,Independent House,2,4343,277.35,0.06,1996,Unfurnished,29,10,29,7,6,Medium,Yes,No,"Garden, Clubhouse, Playground, Pool",North,Broker,Under_Construction
+889,Andhra Pradesh,Vishakhapatnam,Locality_476,Apartment,5,3839,484.38,0.13,1997,Semi-furnished,23,22,28,1,5,High,No,Yes,"Gym, Playground, Garden, Clubhouse",West,Builder,Under_Construction
+890,Punjab,Amritsar,Locality_460,Apartment,5,3633,336.38,0.09,2002,Semi-furnished,6,8,23,5,3,High,Yes,Yes,"Gym, Garden, Playground",West,Builder,Under_Construction
+891,Assam,Silchar,Locality_406,Villa,4,3595,359.15,0.1,2017,Furnished,29,25,8,10,2,Low,No,Yes,"Pool, Gym",North,Broker,Under_Construction
+892,Chhattisgarh,Raipur,Locality_371,Independent House,2,1084,459.28,0.42,1995,Unfurnished,30,29,30,1,9,Medium,Yes,No,"Pool, Clubhouse, Playground, Garden",North,Broker,Under_Construction
+893,Odisha,Cuttack,Locality_175,Villa,1,1101,267.88,0.24,2008,Unfurnished,15,30,17,2,3,High,Yes,No,"Gym, Clubhouse, Garden, Playground, Pool",South,Owner,Ready_to_Move
+894,Bihar,Patna,Locality_495,Apartment,1,2562,24.5,0.01,2003,Semi-furnished,20,15,22,5,8,Low,Yes,No,"Clubhouse, Garden, Playground",West,Builder,Ready_to_Move
+895,Delhi,Dwarka,Locality_34,Independent House,2,4919,250.45,0.05,1998,Semi-furnished,15,13,27,7,7,Low,Yes,Yes,Garden,East,Owner,Under_Construction
+896,Uttarakhand,Dehradun,Locality_6,Apartment,1,3051,278.32,0.09,2001,Unfurnished,26,14,24,6,4,Low,No,No,"Garden, Clubhouse",West,Builder,Ready_to_Move
+897,Karnataka,Bangalore,Locality_225,Apartment,5,1593,319.72,0.2,2019,Furnished,10,20,6,10,6,Low,Yes,Yes,Garden,West,Owner,Under_Construction
+898,Telangana,Warangal,Locality_271,Apartment,3,1245,100.49,0.08,2003,Semi-furnished,14,14,22,5,7,Low,No,Yes,"Clubhouse, Playground",East,Broker,Ready_to_Move
+899,Haryana,Faridabad,Locality_464,Independent House,3,4330,284.03,0.07,2006,Furnished,12,8,19,7,3,Medium,Yes,No,Playground,West,Owner,Ready_to_Move
+900,Uttarakhand,Haridwar,Locality_398,Apartment,5,3865,95.47,0.02,2016,Semi-furnished,11,19,9,9,4,High,No,No,"Garden, Clubhouse, Pool, Playground",South,Owner,Ready_to_Move
+901,Punjab,Amritsar,Locality_339,Villa,4,1597,455.74,0.29,2006,Unfurnished,18,16,19,8,6,Medium,Yes,Yes,Pool,West,Owner,Under_Construction
+902,Maharashtra,Mumbai,Locality_55,Apartment,4,3553,448.07,0.13,2012,Unfurnished,2,9,13,1,9,High,No,Yes,"Gym, Playground, Garden",West,Owner,Ready_to_Move
+903,Delhi,New Delhi,Locality_304,Apartment,1,1145,106.39,0.09,2015,Unfurnished,6,19,10,6,3,High,Yes,No,"Playground, Clubhouse, Garden, Pool",West,Builder,Ready_to_Move
+904,Rajasthan,Jodhpur,Locality_383,Independent House,3,590,404.87,0.69,2000,Semi-furnished,15,30,25,10,2,Medium,No,Yes,"Clubhouse, Gym",East,Broker,Under_Construction
+905,Jharkhand,Jamshedpur,Locality_135,Villa,4,1895,442.51,0.23,2011,Semi-furnished,22,21,14,1,10,High,No,Yes,Garden,East,Builder,Under_Construction
+906,Jharkhand,Jamshedpur,Locality_422,Apartment,2,4093,359.87,0.09,2018,Furnished,9,27,7,3,7,Medium,No,No,"Pool, Gym",North,Owner,Under_Construction
+907,Maharashtra,Nagpur,Locality_143,Villa,2,4416,285.22,0.06,2015,Unfurnished,24,6,10,6,10,Medium,Yes,Yes,"Pool, Gym, Garden",East,Builder,Ready_to_Move
+908,Punjab,Ludhiana,Locality_1,Apartment,4,2780,19.62,0.01,2000,Semi-furnished,1,4,25,9,2,Medium,Yes,No,Playground,West,Broker,Under_Construction
+909,Jharkhand,Jamshedpur,Locality_489,Independent House,3,2478,167.26,0.07,2002,Furnished,1,8,23,10,7,Low,No,No,"Garden, Clubhouse, Gym, Playground, Pool",West,Builder,Under_Construction
+910,Karnataka,Mangalore,Locality_496,Apartment,2,3602,463.7,0.13,2008,Furnished,26,5,17,10,9,Medium,Yes,No,"Playground, Gym, Garden, Clubhouse, Pool",South,Broker,Under_Construction
+911,Gujarat,Surat,Locality_60,Independent House,4,833,159.43,0.19,2006,Furnished,15,5,19,1,8,Medium,Yes,No,"Clubhouse, Playground, Pool, Gym",South,Owner,Under_Construction
+912,Odisha,Bhubaneswar,Locality_48,Villa,2,4288,125.9,0.03,2022,Semi-furnished,2,26,3,8,7,Low,Yes,No,"Gym, Garden, Clubhouse",East,Broker,Under_Construction
+913,Assam,Guwahati,Locality_277,Apartment,2,3905,300.26,0.08,2002,Unfurnished,9,18,23,4,4,Low,No,No,"Gym, Pool, Playground",South,Broker,Ready_to_Move
+914,Bihar,Gaya,Locality_251,Independent House,3,3820,69.91,0.02,2015,Unfurnished,18,27,10,5,1,Medium,Yes,Yes,"Garden, Playground, Pool, Gym, Clubhouse",West,Owner,Under_Construction
+915,Punjab,Ludhiana,Locality_68,Villa,1,2968,279.65,0.09,2018,Semi-furnished,17,5,7,3,7,Medium,Yes,No,"Garden, Pool, Gym",North,Owner,Ready_to_Move
+916,Gujarat,Ahmedabad,Locality_387,Independent House,3,2450,391.31,0.16,2011,Semi-furnished,20,18,14,8,5,Medium,Yes,Yes,"Gym, Pool, Garden, Clubhouse",East,Owner,Under_Construction
+917,Jharkhand,Ranchi,Locality_416,Independent House,1,1937,149.61,0.08,1992,Unfurnished,4,1,33,7,6,High,No,No,"Pool, Clubhouse",North,Broker,Ready_to_Move
+918,Telangana,Hyderabad,Locality_250,Villa,1,2528,180.67,0.07,2010,Unfurnished,2,7,15,1,2,Low,Yes,No,Clubhouse,West,Owner,Under_Construction
+919,Odisha,Bhubaneswar,Locality_493,Villa,5,4616,219.54,0.05,2020,Semi-furnished,0,8,5,3,5,High,No,No,"Garden, Pool, Gym, Clubhouse, Playground",West,Owner,Ready_to_Move
+920,Delhi,New Delhi,Locality_238,Apartment,5,653,279.9,0.43,2021,Unfurnished,4,5,4,3,8,Low,No,Yes,"Playground, Pool",West,Owner,Under_Construction
+921,Odisha,Cuttack,Locality_14,Apartment,1,3995,419.56,0.11,2003,Unfurnished,20,4,22,10,10,High,No,Yes,"Gym, Garden, Pool, Playground",West,Broker,Under_Construction
+922,Madhya Pradesh,Indore,Locality_283,Villa,1,3823,328.54,0.09,2008,Furnished,6,16,17,9,7,High,Yes,Yes,Garden,West,Owner,Under_Construction
+923,Telangana,Hyderabad,Locality_329,Apartment,4,2326,145.41,0.06,2003,Furnished,15,19,22,7,9,Low,No,No,"Playground, Garden",North,Owner,Under_Construction
+924,Haryana,Faridabad,Locality_358,Villa,4,3564,179.67,0.05,1993,Unfurnished,16,5,32,10,8,Medium,Yes,Yes,"Clubhouse, Playground",West,Owner,Ready_to_Move
+925,Haryana,Faridabad,Locality_328,Villa,1,1384,141.03,0.1,2005,Semi-furnished,24,20,20,9,8,Low,Yes,No,"Gym, Playground, Clubhouse, Pool, Garden",South,Builder,Under_Construction
+926,Tamil Nadu,Chennai,Locality_316,Apartment,5,3347,285.43,0.09,2023,Unfurnished,28,24,2,7,6,Medium,No,No,Playground,West,Broker,Under_Construction
+927,Gujarat,Surat,Locality_21,Independent House,1,3824,426.8,0.11,2016,Semi-furnished,9,19,9,7,5,High,Yes,No,"Playground, Gym, Garden, Pool",North,Owner,Under_Construction
+928,Haryana,Faridabad,Locality_110,Villa,1,2730,265.84,0.1,1993,Furnished,17,6,32,3,6,Low,Yes,No,"Playground, Garden, Clubhouse, Pool",South,Owner,Under_Construction
+929,Telangana,Hyderabad,Locality_184,Independent House,5,2192,180.58,0.08,1992,Semi-furnished,11,11,33,8,7,Medium,Yes,No,"Playground, Gym, Clubhouse, Garden, Pool",North,Builder,Ready_to_Move
+930,Odisha,Cuttack,Locality_8,Apartment,2,4167,292.42,0.07,2016,Unfurnished,16,14,9,2,4,High,Yes,No,"Clubhouse, Gym, Playground",South,Owner,Ready_to_Move
+931,Kerala,Kochi,Locality_232,Independent House,3,2639,117.56,0.04,2020,Unfurnished,28,27,5,7,2,Medium,No,Yes,"Garden, Pool, Clubhouse, Playground, Gym",East,Owner,Under_Construction
+932,Andhra Pradesh,Vishakhapatnam,Locality_293,Independent House,1,2522,221.61,0.09,2012,Semi-furnished,19,6,13,9,6,Medium,No,Yes,"Playground, Garden, Gym, Clubhouse, Pool",West,Builder,Under_Construction
+933,Chhattisgarh,Raipur,Locality_112,Villa,3,3107,380.96,0.12,2008,Unfurnished,16,26,17,9,6,High,Yes,No,"Pool, Playground, Gym",West,Broker,Ready_to_Move
+934,Karnataka,Mangalore,Locality_336,Independent House,2,779,497.89,0.64,2004,Furnished,17,1,21,4,5,High,No,Yes,"Playground, Pool",East,Broker,Under_Construction
+935,Bihar,Gaya,Locality_475,Apartment,1,4620,175.8,0.04,1997,Furnished,10,10,28,6,1,High,Yes,No,Playground,North,Owner,Ready_to_Move
+936,Delhi,New Delhi,Locality_185,Apartment,3,4576,416.3,0.09,2003,Semi-furnished,4,28,22,6,9,High,No,No,"Garden, Gym",East,Builder,Ready_to_Move
+937,Haryana,Gurgaon,Locality_164,Independent House,3,1130,72.78,0.06,1993,Furnished,13,18,32,4,5,High,Yes,No,"Gym, Playground, Clubhouse, Pool, Garden",East,Broker,Ready_to_Move
+938,Punjab,Amritsar,Locality_139,Independent House,5,4790,399.66,0.08,1999,Furnished,23,21,26,6,2,Low,No,No,"Clubhouse, Playground, Gym, Garden, Pool",East,Builder,Under_Construction
+939,Haryana,Gurgaon,Locality_414,Apartment,4,2416,498.31,0.21,1993,Furnished,27,14,32,5,1,Medium,No,Yes,"Playground, Clubhouse",South,Owner,Under_Construction
+940,Tamil Nadu,Chennai,Locality_413,Apartment,2,2462,18.63,0.01,1995,Unfurnished,11,26,30,8,5,Low,Yes,Yes,"Pool, Playground, Gym, Garden",North,Broker,Ready_to_Move
+941,Andhra Pradesh,Vishakhapatnam,Locality_201,Apartment,2,3758,479.6,0.13,2001,Semi-furnished,30,2,24,5,4,Medium,No,Yes,"Gym, Clubhouse, Playground, Garden, Pool",West,Broker,Ready_to_Move
+942,Assam,Silchar,Locality_494,Independent House,2,1414,113.49,0.08,2016,Furnished,22,12,9,9,4,High,No,Yes,"Clubhouse, Pool, Garden",South,Broker,Under_Construction
+943,Maharashtra,Nagpur,Locality_455,Villa,1,4369,128.11,0.03,2007,Furnished,10,29,18,7,4,Low,No,Yes,Pool,North,Builder,Ready_to_Move
+944,Chhattisgarh,Raipur,Locality_447,Apartment,2,3682,482.31,0.13,1996,Unfurnished,28,23,29,10,5,Medium,No,No,"Garden, Clubhouse, Pool, Gym",South,Builder,Ready_to_Move
+945,Bihar,Gaya,Locality_388,Independent House,4,3837,329.98,0.09,1995,Semi-furnished,4,26,30,2,6,Medium,Yes,Yes,"Playground, Garden, Clubhouse, Gym, Pool",South,Broker,Ready_to_Move
+946,Telangana,Warangal,Locality_354,Villa,2,1922,123.6,0.06,2007,Unfurnished,29,19,18,1,9,Low,No,No,"Clubhouse, Pool, Playground",South,Owner,Under_Construction
+947,Karnataka,Bangalore,Locality_157,Villa,2,2324,131.14,0.06,2023,Furnished,24,20,2,5,1,High,No,Yes,"Clubhouse, Playground, Gym",East,Broker,Ready_to_Move
+948,Uttar Pradesh,Lucknow,Locality_352,Independent House,5,2165,349.97,0.16,1999,Furnished,4,21,26,5,9,High,No,Yes,"Gym, Garden, Pool, Playground, Clubhouse",South,Builder,Under_Construction
+949,Assam,Silchar,Locality_239,Apartment,1,832,67.46,0.08,2012,Unfurnished,23,11,13,2,5,Medium,No,No,"Playground, Garden",South,Builder,Under_Construction
+950,Madhya Pradesh,Bhopal,Locality_231,Villa,3,1612,444.71,0.28,2023,Furnished,15,28,2,6,1,Low,Yes,Yes,"Playground, Garden",East,Owner,Ready_to_Move
+951,Uttarakhand,Dehradun,Locality_193,Independent House,1,3529,114.41,0.03,1993,Furnished,12,15,32,4,5,Low,Yes,No,"Clubhouse, Playground, Garden",North,Builder,Ready_to_Move
+952,Odisha,Cuttack,Locality_191,Villa,2,853,417.85,0.49,1990,Unfurnished,8,14,35,9,4,Low,No,Yes,Pool,East,Broker,Ready_to_Move
+953,Bihar,Patna,Locality_363,Apartment,4,2830,272.76,0.1,2019,Unfurnished,0,4,6,6,8,High,No,Yes,"Playground, Garden, Pool",East,Owner,Under_Construction
+954,Karnataka,Bangalore,Locality_330,Independent House,4,1981,156.54,0.08,2013,Semi-furnished,24,14,12,8,1,Medium,Yes,Yes,"Pool, Garden, Playground, Gym",West,Owner,Ready_to_Move
+955,Uttar Pradesh,Lucknow,Locality_229,Independent House,5,947,175.72,0.19,2013,Semi-furnished,8,28,12,9,8,Medium,Yes,No,"Pool, Gym, Playground, Clubhouse",East,Owner,Ready_to_Move
+956,Punjab,Amritsar,Locality_252,Independent House,5,2147,393.47,0.18,1999,Furnished,0,30,26,4,3,High,No,Yes,Garden,North,Broker,Under_Construction
+957,Chhattisgarh,Raipur,Locality_171,Apartment,4,823,323.88,0.39,2009,Furnished,24,17,16,5,7,Medium,Yes,No,"Garden, Clubhouse, Gym, Playground",North,Builder,Under_Construction
+958,West Bengal,Kolkata,Locality_236,Villa,5,1708,23.91,0.01,2014,Semi-furnished,20,19,11,7,10,High,Yes,Yes,Gym,North,Broker,Ready_to_Move
+959,Kerala,Trivandrum,Locality_74,Villa,4,3203,159.47,0.05,2011,Semi-furnished,3,26,14,5,10,Medium,No,No,Gym,East,Broker,Under_Construction
+960,Bihar,Patna,Locality_201,Apartment,3,2148,186.69,0.09,1992,Furnished,2,13,33,7,5,Medium,Yes,No,"Playground, Gym, Garden, Pool",West,Owner,Ready_to_Move
+961,Odisha,Cuttack,Locality_73,Independent House,5,3905,193.95,0.05,1995,Unfurnished,18,19,30,7,10,Medium,Yes,Yes,Pool,South,Broker,Under_Construction
+962,Tamil Nadu,Chennai,Locality_421,Apartment,5,4019,271.74,0.07,2002,Semi-furnished,21,1,23,6,10,Low,No,Yes,Garden,South,Owner,Under_Construction
+963,Maharashtra,Pune,Locality_355,Villa,1,1266,147.69,0.12,1994,Unfurnished,10,1,31,3,3,Medium,Yes,No,"Playground, Gym, Pool",North,Owner,Under_Construction
+964,Uttarakhand,Haridwar,Locality_447,Apartment,2,4410,497.27,0.11,2020,Semi-furnished,2,26,5,5,9,Medium,Yes,Yes,"Garden, Gym, Pool, Playground",East,Builder,Under_Construction
+965,Rajasthan,Jaipur,Locality_480,Independent House,1,4660,291.23,0.06,2006,Semi-furnished,24,28,19,3,1,High,Yes,No,"Clubhouse, Gym",East,Broker,Under_Construction
+966,Gujarat,Ahmedabad,Locality_393,Apartment,4,756,29.75,0.04,2012,Unfurnished,15,2,13,6,2,Low,Yes,No,"Garden, Playground, Pool, Clubhouse, Gym",South,Owner,Under_Construction
+967,Kerala,Kochi,Locality_102,Apartment,4,4874,220.91,0.05,1990,Unfurnished,5,5,35,1,1,Medium,No,Yes,"Clubhouse, Garden, Pool",North,Broker,Under_Construction
+968,Chhattisgarh,Raipur,Locality_75,Apartment,1,4375,332.95,0.08,1998,Semi-furnished,0,1,27,9,8,High,No,Yes,"Gym, Pool, Playground, Garden, Clubhouse",North,Broker,Under_Construction
+969,Maharashtra,Nagpur,Locality_452,Independent House,1,523,370.51,0.71,1990,Unfurnished,30,8,35,8,8,Medium,No,No,"Gym, Clubhouse, Playground, Pool, Garden",South,Owner,Under_Construction
+970,Chhattisgarh,Raipur,Locality_113,Villa,5,4793,196.88,0.04,2015,Semi-furnished,13,11,10,3,3,High,No,Yes,"Garden, Clubhouse, Playground",East,Broker,Under_Construction
+971,Telangana,Warangal,Locality_3,Independent House,5,3898,456.71,0.12,2014,Semi-furnished,19,24,11,6,1,Medium,No,No,Gym,South,Builder,Under_Construction
+972,Delhi,New Delhi,Locality_354,Apartment,3,4303,82.44,0.02,2007,Unfurnished,10,10,18,1,2,Low,Yes,No,"Gym, Playground",East,Broker,Under_Construction
+973,Rajasthan,Jaipur,Locality_131,Independent House,2,3946,94.98,0.02,2015,Furnished,30,19,10,8,6,Medium,Yes,No,Pool,West,Owner,Under_Construction
+974,Tamil Nadu,Coimbatore,Locality_38,Independent House,4,3239,97.45,0.03,2019,Furnished,29,5,6,9,10,Medium,No,No,"Gym, Playground",South,Owner,Under_Construction
+975,Bihar,Gaya,Locality_395,Apartment,5,1622,141.43,0.09,1992,Unfurnished,29,26,33,8,1,Medium,Yes,Yes,"Pool, Clubhouse, Garden, Playground, Gym",West,Broker,Ready_to_Move
+976,Tamil Nadu,Coimbatore,Locality_494,Villa,2,767,431.33,0.56,2018,Furnished,0,9,7,10,1,High,Yes,Yes,"Gym, Pool, Playground, Garden",North,Builder,Under_Construction
+977,West Bengal,Durgapur,Locality_180,Independent House,1,3675,105.12,0.03,2006,Semi-furnished,1,6,19,8,6,Low,No,Yes,"Pool, Clubhouse, Garden, Gym, Playground",East,Builder,Under_Construction
+978,Odisha,Bhubaneswar,Locality_35,Independent House,1,3581,134.75,0.04,2017,Unfurnished,26,27,8,6,4,Medium,No,No,"Gym, Pool, Clubhouse, Playground, Garden",North,Builder,Ready_to_Move
+979,Kerala,Kochi,Locality_379,Apartment,4,785,62.38,0.08,2001,Furnished,17,27,24,8,2,High,Yes,No,"Playground, Pool, Clubhouse",West,Broker,Under_Construction
+980,Assam,Guwahati,Locality_344,Villa,2,4554,320.06,0.07,2019,Unfurnished,26,22,6,6,4,Medium,No,No,Playground,North,Owner,Under_Construction
+981,Punjab,Amritsar,Locality_106,Independent House,4,4972,288.45,0.06,2011,Furnished,18,28,14,4,1,High,No,Yes,"Playground, Pool, Gym, Clubhouse",East,Broker,Ready_to_Move
+982,Telangana,Hyderabad,Locality_56,Villa,4,4869,400.39,0.08,1991,Semi-furnished,1,26,34,5,10,Low,Yes,Yes,"Gym, Pool, Playground, Clubhouse",West,Builder,Ready_to_Move
+983,Odisha,Bhubaneswar,Locality_146,Apartment,5,1649,238.46,0.14,2021,Furnished,0,17,4,2,5,High,Yes,No,Gym,South,Owner,Ready_to_Move
+984,Odisha,Bhubaneswar,Locality_433,Villa,5,999,317.54,0.32,1998,Semi-furnished,17,16,27,5,3,Low,Yes,Yes,"Pool, Garden, Clubhouse, Gym",South,Builder,Under_Construction
+985,Rajasthan,Jodhpur,Locality_485,Independent House,2,810,297.57,0.37,2001,Unfurnished,15,28,24,2,9,Low,No,Yes,Garden,South,Owner,Under_Construction
+986,Bihar,Patna,Locality_382,Independent House,5,3518,339.17,0.1,2003,Semi-furnished,21,12,22,7,3,High,No,Yes,"Gym, Pool, Garden, Playground",East,Builder,Under_Construction
+987,Chhattisgarh,Bilaspur,Locality_26,Apartment,1,3828,207.19,0.05,2008,Unfurnished,0,21,17,4,1,Medium,No,No,"Clubhouse, Garden, Gym, Playground, Pool",East,Owner,Ready_to_Move
+988,West Bengal,Durgapur,Locality_462,Villa,3,3003,270.17,0.09,1998,Semi-furnished,20,19,27,1,1,Low,Yes,Yes,"Clubhouse, Gym, Garden, Pool",West,Builder,Ready_to_Move
+989,Andhra Pradesh,Vishakhapatnam,Locality_71,Apartment,1,1264,113.44,0.09,1995,Unfurnished,30,22,30,4,7,Medium,Yes,Yes,"Gym, Pool, Clubhouse, Playground",South,Broker,Under_Construction
+990,Uttar Pradesh,Lucknow,Locality_398,Villa,2,2185,51.88,0.02,1993,Semi-furnished,19,30,32,6,6,Medium,No,Yes,"Garden, Clubhouse, Pool, Gym",West,Builder,Under_Construction
+991,Uttarakhand,Dehradun,Locality_34,Villa,1,1220,375.21,0.31,2000,Semi-furnished,5,14,25,4,2,Low,Yes,No,"Clubhouse, Garden, Gym",South,Broker,Ready_to_Move
+992,Assam,Guwahati,Locality_212,Apartment,2,2912,313.83,0.11,2007,Semi-furnished,5,21,18,10,8,Medium,No,No,"Clubhouse, Playground, Gym, Pool",East,Broker,Under_Construction
+993,West Bengal,Durgapur,Locality_208,Villa,1,1993,246.09,0.12,1990,Semi-furnished,22,22,35,10,9,Low,Yes,Yes,"Pool, Garden",East,Builder,Ready_to_Move
+994,Delhi,Dwarka,Locality_449,Independent House,5,4731,448.73,0.09,2005,Unfurnished,1,1,20,3,2,High,Yes,No,"Clubhouse, Garden",South,Owner,Under_Construction
+995,Punjab,Ludhiana,Locality_456,Villa,5,3047,425.49,0.14,2010,Furnished,9,18,15,2,6,High,Yes,No,"Clubhouse, Garden",North,Owner,Under_Construction
+996,Telangana,Hyderabad,Locality_375,Apartment,1,1392,87.07,0.06,2005,Furnished,0,4,20,9,3,Low,Yes,Yes,"Clubhouse, Garden",East,Broker,Ready_to_Move
+997,Haryana,Gurgaon,Locality_133,Apartment,2,3252,163.62,0.05,1994,Furnished,6,22,31,3,1,High,No,Yes,"Garden, Gym, Playground, Clubhouse, Pool",North,Owner,Under_Construction
+998,Assam,Silchar,Locality_120,Apartment,2,2601,454.06,0.17,1996,Semi-furnished,4,14,29,4,9,Medium,No,Yes,"Clubhouse, Gym",South,Broker,Under_Construction
+999,Punjab,Ludhiana,Locality_339,Villa,3,1315,383.61,0.29,1999,Furnished,8,11,26,10,7,Low,No,No,"Gym, Playground, Clubhouse, Pool, Garden",South,Builder,Ready_to_Move
